@@ -1,0 +1,37 @@
+{
+  "generated": "2026-08-24T02:33:00",
+  "uniprot_release": "2026_02",
+  "retrieval_date": "2026-08-24",
+  "query_tyrdc": "((gene:tyrdc) OR (gene:tdc) OR (protein_name:\"Tyrosine decarboxylase\")) AND (ec:4.1.1.*) AND (reviewed:true) AND (taxonomy_id:2)",
+  "n_entries": 4,
+  "accessions": [
+    "A0A481NV25",
+    "Q838D6",
+    "P0DTQ4",
+    "J7GQ11"
+  ],
+  "aligner": "MAFFT v7.505 (2022/Apr/10) --auto",
+  "profile_builder": "HMMER 3.4 (Aug 2023) hmmbuild",
+  "model_length": "620",
+  "profile_md5": "9a6a08643e336d9ceec92c314ccb634f",
+  "self_score": 1342.2,
+  "cutoff_percent": 50.0,
+  "reference_self_hits": {
+    "P0DTQ4": [
+      1342.2,
+      100.0
+    ],
+    "Q838D6": [
+      1342.2,
+      100.0
+    ],
+    "J7GQ11": [
+      1287.3,
+      95.91
+    ],
+    "A0A481NV25": [
+      1231.5,
+      91.75
+    ]
+  }
+}
