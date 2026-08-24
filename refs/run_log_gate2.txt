@@ -1,0 +1,76 @@
+Gate 2 reference set and profile HMM
+=====================================
+
+RETRIEVAL
+UniProt release        2026_02, published 2026-06-10
+retrieval date         2026-08-24
+source                 UniProtKB (https://www.uniprot.org)
+
+query as entered       ((gene:tyrdc) OR (gene:tdc) OR (protein_name:"Tyrosine decarboxylase"))
+                       AND (ec:4.1.1.*) AND (reviewed:true) AND (taxonomy_id:2)
+
+query as executed      (((gene:tyrdc) OR (gene:tdc) OR (protein_name:"Tyrosine decarboxylase"))
+                       AND (ec:4.1.1.*) AND (reviewed:true) AND (taxonomy_id:2)) AND (reviewed:true)
+                       [the trailing reviewed:true is appended by the web interface because the
+                        Swiss-Prot facet was active; it is redundant and does not change the result set]
+
+API URL (streaming)    https://rest.uniprot.org/uniprotkb/stream?compressed=true&format=fasta&query=
+                       %28%28%28gene%3Atyrdc%29+OR+%28gene%3Atdc%29+OR+%28protein_name%3A%22Tyrosine
+                       +decarboxylase%22%29%29+AND+%28ec%3A4.1.1.*%29+AND+%28reviewed%3Atrue%29+AND
+                       +%28taxonomy_id%3A2%29%29+AND+%28reviewed%3Atrue%29
+
+download format        FASTA (canonical) - canonical sequences only, isoforms excluded
+entries returned       4
+
+REFERENCE SET
+accessions             A0A481NV25 (TYRDC_ENTFC, Enterococcus faecium, tdc / mfnA_1)          611 aa
+                       Q838D6     (TYRDC_ENTFA, Enterococcus faecalis V583, tdc / tdcA / EF_0634)  620 aa
+                       P0DTQ4     (TYRDC_ENTF3, Enterococcus faecalis MMH594, tyrDC / EFMMH594_12992)  620 aa
+                       J7GQ11     (TYRDC_LEVBR, Levilactobacillus brevis, tdc / CNR29_12740)   626 aa
+
+curation quality       all 4: Swiss-Prot, EC 4.1.1.25, PE 1 (evidence at protein level),
+                       UniProt annotation score 5/5, annotated active site and binding site
+structures             Q838D6: 5 PDB entries, 3 reviewed publications
+                       J7GQ11: 2 PDB entries, 5 reviewed publications
+                       A0A481NV25, P0DTQ4: no solved structure
+
+excluded by design     ornithine decarboxylase (EC 4.1.1.17), histidine decarboxylase (EC 4.1.1.22),
+                       glutamate decarboxylase (EC 4.1.1.15) - group II PLP enzymes that do not act
+                       on levodopa; excluded from the reference set, NOT used as decoys
+
+PROFILE
+aligner                MAFFT v7.505 (2022/Apr/10), --auto
+profile builder        HMMER 3.4 (Aug 2023), hmmbuild, default settings
+model length           620 positions
+mean reference length  627 aa
+relative entropy       0.592 bits/position
+profile md5            9a6a08643e336d9ceec92c314ccb634f
+
+self-score             1342.2 bits
+                       (hmmsearch tyrdc.hmm tyrdc_reference.faa; highest full-sequence score)
+
+SEARCH AND SCORING
+search                 hmmsearch -E 1e-5; highest full-sequence bit score per genome
+normalization          score / 1342.2 * 100, bounded 0-100
+presence cutoff        normalized score > 50%
+
+VALIDATION
+reference self-hits    P0DTQ4      1342.2   100.00%
+                       Q838D6      1342.2   100.00%
+                       J7GQ11      1287.3    95.91%
+                       A0A481NV25  1231.5    91.75%
+
+consistency check      the reference self-scores reproduce the species-level values reported in the
+                       main article - E. faecalis median 100.0%, L. brevis maximum 96.1%,
+                       E. faecium 93.0%. The self-score above is therefore the denominator used to
+                       generate tyrDC_hmmsearch_results.csv.
+
+positive controls      E. faecalis V583 (EF_0634, Q838D6) and L. brevis (J7GQ11); both are in the
+                       reference set and both have experimentally confirmed TyrDC activity
+                       (main article refs 32 and 28).
+
+FILES
+tyrdc_reference.faa    reference set as downloaded (FASTA, canonical)
+tyrdc.aln              MAFFT alignment
+tyrdc.hmm              profile HMM
+self.tbl               hmmsearch tblout of the profile against its own reference set

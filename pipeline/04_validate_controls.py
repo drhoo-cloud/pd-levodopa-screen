@@ -7,31 +7,47 @@
 # 왜 이 단계가 가장 중요한가
 #   전체를 돌려서 "tyrDC 가 거의 없다" 는 결과가 나왔다고 합시다.
 #   그것이 정말 없는 것인지, 검색이 작동하지 않은 것인지 구분할 방법이 없습니다.
-#   기대 답을 아는 균주 몇 개를 먼저 돌려, 그 답이 나오는지 확인해야 합니다.
+#   기대 답을 아는 균주를 먼저 돌려, 그 답이 나오는지 확인해야 합니다.
 #
 #   양성 대조가 통과하지 못하면 이 스크립트는 여기서 멈춥니다.
-#   참조서열이나 임계값을 고친 뒤 다시 돌리십시오.
+#
+# ------------------------------------------------------------
+# 구 버전에서 바뀐 점
+# ------------------------------------------------------------
+#   DIAMOND + identity/coverage/margin → hmmsearch + 정규화 점수 하나
+#   ambiguous 범주 삭제
+#
+#   양성 대조 두 건은 참조 세트 안에 들어 있는 균주입니다.
+#     Enterococcus faecalis V583   (EF_0634, UniProt Q838D6)
+#     Levilactobacillus brevis     (UniProt J7GQ11)
+#   둘 다 TyrDC 활성이 실험으로 확인된 것이고, 구조도 풀려 있습니다.
+#   이 둘이 100% 근처로 나오지 않으면 프로파일이나 self-score 가 잘못된 것입니다.
 # ============================================================
 
 import os
 import sys
 import csv
-import json
 import subprocess
 import datetime
 
-REF = "refs/gate2_reference.faa"
+HMM = "refs/tyrdc.hmm"
+SELF_F = "refs/self_score.txt"
 PROT = "proteins/all_proteins.faa"
 OUT = "search/controls.tsv"
+DOMTBL = "search/controls.domtbl"
 LOG = "logs/run_log.txt"
 
+# 06 단계와 반드시 같은 값이어야 합니다
+CUTOFF = 50.0
+EVALUE = "1e-5"
+
 # ------------------------------------------------------------
-# 대조군 — accession 은 02 단계 결과에서 확정한 값으로 채우십시오
-#   expect: "present"  양성 대조 (온전한 tyrDC 를 가짐)
-#           "truncated" 유전자는 있으나 절단 — 판정 세분화 검증용
+# 대조군 — accession 은 02 단계 결과에서 확정한 값입니다
+#   expect: "present"  양성 대조
 #           "absent"   음성 대조
 # ------------------------------------------------------------
 CONTROLS = [
+    ("GCF_000007785.1", "Enterococcus faecalis V583  ★참조세트", "present"),
     ("GCF_009734005.1", "Enterococcus faecium SRR24", "present"),
     ("GCF_029023785.1", "Enterococcus faecium DSM 20477", "present"),
     ("GCF_001720945.1", "Enterococcus faecium ISMMS_VRE_1", "present"),
@@ -45,7 +61,7 @@ CONTROLS = [
     ("GCF_056485925.1", "Enterococcus faecium p344", "present"),
     ("GCF_900639715.1", "Enterococcus faecium -", "present"),
     ("GCF_029024925.1", "Enterococcus faecalis DSM 20478", "present"),
-    ("GCF_022869705.1", "Enterococcus faecalis PartL-Efaecalis-RM8376", "present"),
+    ("GCF_022869705.1", "Enterococcus faecalis RM8376", "present"),
     ("GCF_021610105.1", "Enterococcus faecalis UK045", "present"),
     ("GCF_050485625.1", "Enterococcus faecalis C2198", "present"),
     ("GCF_018986755.2", "Enterococcus faecalis 1207/14", "present"),
@@ -56,132 +72,101 @@ CONTROLS = [
     ("GCF_028131645.1", "Enterococcus faecalis SVR2330", "present"),
     ("GCF_006494855.1", "Enterococcus faecalis VE18379", "present"),
     ("GCF_055814325.1", "Enterococcus faecalis 1604D004", "present"),
-    ("GCF_000007785.1", "Enterococcus faecalis V583", "present"),
     ("GCF_000203855.3", "Lactiplantibacillus plantarum WCFS1", "absent"),
     ("GCF_001005805.1", "Lactiplantibacillus plantarum PS128", "absent"),
-]# 임계값 — 사전 확정. 바꾸면 로그에 남기고 이유를 적으십시오.
-ID_PRESENT, COV_PRESENT = 60.0, 80.0
-ID_AMBIG, COV_AMBIG = 40.0, 50.0
-MARGIN = 10.0          # 최상위 계열과 차상위 계열의 점수 차이 최소값
+]
 
 
-def run_diamond():
+def run_hmmsearch():
     os.makedirs("search", exist_ok=True)
-    if not os.path.exists("search/ref.dmnd"):
-        print("  DIAMOND 데이터베이스 만드는 중")
-        subprocess.run(["diamond", "makedb", "--in", REF, "-d", "search/ref"],
-                       check=True, capture_output=True)
-    print("  검색 중 (대조군)")
+    print("  hmmsearch 실행 (대조군)")
     subprocess.run([
-        "diamond", "blastp", "-q", PROT, "-d", "search/ref", "-o", OUT,
-        "--outfmt", "6", "qseqid", "sseqid", "pident", "length",
-        "qlen", "slen", "evalue", "bitscore",
-        "--evalue", "1e-5", "--max-target-seqs", "25", "--quiet",
+        "hmmsearch", "--domtblout", DOMTBL, "-o", "/dev/null",
+        "-E", EVALUE, HMM, PROT,
     ], check=True)
 
 
-CALL_FAMILIES = ('TARGET_tyrDC', 'TARGET_aadc')
-
-
-def call_family(hits):
-    """한 단백질의 히트들을 보고 어느 계열인지, 어떤 판정인지 정합니다"""
+def best_by_genome(path, self_score):
+    """유전체마다 가장 높은 정규화 점수를 돌려줍니다."""
     best = {}
-    for h in hits:
-        fam = h["sseqid"].split("|")[0]          # TARGET_tyrDC / DECOY_gadB ...
-        if fam not in best or h["bitscore"] > best[fam]["bitscore"]:
-            best[fam] = h
-    ranked = sorted(best.items(), key=lambda kv: -kv[1]["bitscore"])
-    if not ranked:
-        return "absent", None, 0.0
-    top_fam, top = ranked[0]
-    second = ranked[1][1]["bitscore"] if len(ranked) > 1 else 0.0
-    margin = top["bitscore"] - second
-
-    if top_fam not in CALL_FAMILIES:
-        return "absent", top_fam, margin        # 최상위가 decoy → 표적 아님
-    cov = 100.0 * top["length"] / max(top["slen"], 1)
-    if top["pident"] >= ID_PRESENT and cov >= COV_PRESENT and margin >= MARGIN:
-        return "present", top_fam, margin
-    if top["pident"] >= ID_AMBIG and cov >= COV_AMBIG:
-        return "ambiguous", top_fam, margin
-    return "absent", top_fam, margin
+    for line in open(path):
+        if line.startswith("#") or not line.strip():
+            continue
+        p = line.split()
+        if len(p) < 8:
+            continue
+        acc = p[0].split("|")[0]
+        pct = 100.0 * float(p[7]) / self_score
+        if pct > best.get(acc, 0.0):
+            best[acc] = pct
+    return best
 
 
 def main():
-    for f in (REF, PROT):
+    for f in (HMM, SELF_F, PROT):
         if not os.path.exists(f):
             sys.exit(f"파일이 없습니다: {f}  (앞 단계를 먼저 실행하십시오)")
 
+    self_score = float(open(SELF_F).read().strip())
+
     todo = [c for c in CONTROLS if c[0]]
     if len(todo) < 3:
-        print("★ 대조군 accession 이 3건 미만입니다.")
-        print("  04_validate_controls.py 의 CONTROLS 목록을 채운 뒤 다시 실행하십시오.")
-        print("  panel/strain_resolution.tsv 에서 확정된 accession 을 찾을 수 있습니다.")
-        sys.exit(1)
+        sys.exit("★ 대조군이 3건 미만입니다. CONTROLS 목록을 채우십시오.")
 
     print("=== 4단계: 대조군 검증 ===")
-    run_diamond()
+    print(f"  프로파일 {HMM}")
+    print(f"  self-score {self_score} · 임계 {CUTOFF}%\n")
+    run_hmmsearch()
 
-    # accession 별로 히트 모으기
-    by_acc = {}
-    with open(OUT) as f:
-        for line in f:
-            p = line.rstrip("\n").split("\t")
-            acc = p[0].split("|")[0]
-            by_acc.setdefault(acc, []).append({
-                "qseqid": p[0], "sseqid": p[1], "pident": float(p[2]),
-                "length": int(p[3]), "qlen": int(p[4]), "slen": int(p[5]),
-                "evalue": float(p[6]), "bitscore": float(p[7])})
+    best = best_by_genome(DOMTBL, self_score)
 
     print("\n  결과")
-    print("  " + "-" * 66)
+    print("  " + "-" * 72)
     ok, fail = 0, []
-    for acc, name, expect in todo:
-        hits = by_acc.get(acc, [])
-        # 이 유전체의 단백질을 하나씩 판정해 가장 강한 결론을 취합니다
-        calls = []
-        by_prot = {}
-        for h in hits:
-            by_prot.setdefault(h["qseqid"], []).append(h)
-        for _, hs in by_prot.items():
-            calls.append(call_family(hs)[0])
-        if "present" in calls:
-            got = "present"
-        elif "ambiguous" in calls:
-            got = "ambiguous"
-        else:
-            got = "absent"
+    with open(OUT, "w", newline="") as fh:
+        w = csv.writer(fh, delimiter="\t")
+        w.writerow(["assembly_accession", "name", "expected", "score_pct", "observed"])
+        for acc, name, expect in todo:
+            pct = best.get(acc, 0.0)
+            got = "present" if pct > CUTOFF else "absent"
+            passed = (got == expect)
+            mark = "OK  " if passed else "실패"
+            print(f"  {mark} {name:38s} 기대={expect:8s} 점수={pct:6.2f}%  실제={got}")
+            w.writerow([acc, name, expect, f"{pct:.2f}", got])
+            if passed:
+                ok += 1
+            else:
+                fail.append((name, expect, got, pct))
+    print("  " + "-" * 72)
 
-        # truncated 기대는 present 또는 ambiguous 로 잡히면 통과로 봅니다
-        passed = (got == expect) or (expect == "truncated" and got in ("present", "ambiguous"))
-        mark = "OK  " if passed else "실패"
-        print(f"  {mark} {name:36s} 기대={expect:9s} 실제={got}")
-        if passed:
-            ok += 1
-        else:
-            fail.append((name, expect, got))
+    # 참조 세트에 들어 있는 균주는 100% 근처여야 합니다
+    v583 = best.get("GCF_000007785.1", 0.0)
+    if v583 and v583 < 95.0:
+        print(f"\n  ★ 주의: E. faecalis V583 가 {v583:.2f}% 입니다.")
+        print("     이 균주의 TyrDC(EF_0634) 는 참조 세트에 포함되어 있으므로")
+        print("     100% 에 가까워야 합니다. self-score 나 프로파일을 확인하십시오.")
 
-    print("  " + "-" * 66)
     with open(LOG, "a") as lg:
         lg.write(f"\n[04_validate_controls] {datetime.datetime.now().isoformat()}\n")
         lg.write(f"  대조군 {len(todo)} · 통과 {ok} · 실패 {len(fail)}\n")
-        lg.write(f"  임계값 present id>={ID_PRESENT} cov>={COV_PRESENT} margin>={MARGIN}\n")
-        for n, e, g in fail:
-            lg.write(f"  실패: {n} 기대={e} 실제={g}\n")
+        lg.write(f"  self-score {self_score} · 임계 {CUTOFF}%\n")
+        if v583:
+            lg.write(f"  V583 자기대조 {v583:.2f}%\n")
+        for n, e, g, p in fail:
+            lg.write(f"  실패: {n} 기대={e} 실제={g} ({p:.2f}%)\n")
 
     if fail:
-        print("\n" + "=" * 66)
+        print("\n" + "=" * 72)
         print("★ 여기서 멈춥니다. 전체 분석으로 넘어가지 마십시오.")
-        print("=" * 66)
+        print("=" * 72)
         print("  확인할 것:")
-        print("   1) refs/gate2_reference.faa 에 해당 계열 서열이 실제로 들어 있는가")
-        print("   2) 임계값이 너무 엄격한가 (ID_PRESENT, COV_PRESENT, MARGIN)")
-        print("   3) 그 유전체의 protein.faa 가 제대로 받아졌는가")
-        print("  고친 뒤 이 스크립트를 다시 실행하십시오.")
+        print("   1) refs/tyrdc.hmm 과 refs/self_score.txt 가 같은 실행에서 나온 것인가")
+        print("      (프로파일만 다시 만들고 self-score 를 갱신하지 않으면 척도가 어긋납니다)")
+        print("   2) 그 유전체의 protein.faa 가 제대로 받아졌는가")
+        print("   3) 실패한 것이 음성 대조인가 — 그렇다면 참조 세트가 너무 넓습니다")
         sys.exit(2)
 
     print("\n=== 4단계 통과 ===")
-    print("  대조군이 모두 기대한 판정을 반환했습니다.")
     print("다음:  bash 05_search_all.sh")
 
 

@@ -13,7 +13,9 @@
 #   Wilson 상한을 함께 써야 "0.82% 이하" 라는 정확한 진술이 됩니다.
 #
 # ★ 보수적 상한
-#   ambiguous 를 전부 양성으로 세었을 때의 값도 같이 냅니다.
+#   구 버전은 ambiguous 를 전부 양성으로 세었을 때의 값을 함께 냈습니다.
+#   정규화 점수로 바꾼 뒤 ambiguous 범주가 사라졌으므로,
+#   이제는 임계 근처(near_cutoff)를 전부 양성으로 세었을 때의 값을 냅니다.
 #   심사자가 반드시 묻는 질문이고, 미리 답해 두면 논거가 강해집니다.
 # ============================================================
 
@@ -78,31 +80,38 @@ def main():
     # ------------------------------------------------------------
     # 표 A — 종별 집계
     # ------------------------------------------------------------
-    by_sp = defaultdict(lambda: {"n": 0, "present": 0, "ambiguous": 0, "gh": []})
+    by_sp = defaultdict(lambda: {"n": 0, "present": 0, "near": 0, "gh": [], "pct": []})
     for acc, r in calls.items():
         sp = species.get(acc, "(unknown)")
         d = by_sp[sp]
         d["n"] += 1
         if r["gate2_call"] == "present":
             d["present"] += 1
-        elif r["gate2_call"] == "ambiguous":
-            d["ambiguous"] += 1
+            if r.get("gate2_score_pct"):
+                d["pct"].append(float(r["gate2_score_pct"]))
+        if str(r.get("gate2_near_cutoff", "0")) == "1":
+            d["near"] += 1
         if r["gate1_gh_families"]:
             d["gh"].append(int(r["gate1_gh_families"]))
 
     rows_a = []
     for sp in sorted(by_sp, key=lambda s: -by_sp[s]["n"]):
         d = by_sp[sp]
-        k, a, n = d["present"], d["ambiguous"], d["n"]
+        k, a, n = d["present"], d["near"], d["n"]
         gh = sorted(d["gh"])
         med = gh[len(gh)//2] if gh else ""
+        rng = f"{gh[0]}-{gh[-1]}" if gh else ""
+        pct = sorted(d["pct"])
+        rng_pct = f"{pct[0]:.1f}-{pct[-1]:.1f}" if pct else ""
         rows_a.append({
             "species": sp, "n": n,
             "tyrDC_present": k,
             "prevalence_wilson": fmt(k, n),
-            "ambiguous": a,
-            "conservative_upper": fmt(k + a, n),      # ambiguous 를 양성으로 셈
+            "score_pct_range": rng_pct,        # 양성 유전체의 정규화 점수 범위
+            "near_cutoff": a,
+            "conservative_upper": fmt(k + a, n),   # 임계 근처를 양성으로 셈
             "GH_median": med,
+            "GH_range": rng,                   # 원고는 중앙값과 전체 범위를 함께 씁니다
         })
 
     out_a = "results/table_by_species.tsv"
@@ -115,23 +124,23 @@ def main():
     # ------------------------------------------------------------
     rows_b = []
     if strata:
-        by_st = defaultdict(lambda: {"n": 0, "present": 0, "ambiguous": 0})
+        by_st = defaultdict(lambda: {"n": 0, "present": 0, "near": 0})
         for acc, r in calls.items():
             st = strata.get(acc, "UNKNOWN")
             d = by_st[st]
             d["n"] += 1
             if r["gate2_call"] == "present":
                 d["present"] += 1
-            elif r["gate2_call"] == "ambiguous":
-                d["ambiguous"] += 1
+            if str(r.get("gate2_near_cutoff", "0")) == "1":
+                d["near"] += 1
         for st in sorted(by_st, key=lambda s: -by_st[s]["n"]):
             d = by_st[st]
             rows_b.append({
                 "stratum": st, "n": d["n"],
                 "tyrDC_present": d["present"],
                 "prevalence_wilson": fmt(d["present"], d["n"]),
-                "ambiguous": d["ambiguous"],
-                "conservative_upper": fmt(d["present"] + d["ambiguous"], d["n"]),
+                "near_cutoff": d["near"],
+                "conservative_upper": fmt(d["present"] + d["near"], d["n"]),
             })
         out_b = "results/table_by_stratum.tsv"
         with open(out_b, "w", newline="") as f:
@@ -143,11 +152,11 @@ def main():
     # ------------------------------------------------------------
     tot = len(calls)
     tp = sum(1 for r in calls.values() if r["gate2_call"] == "present")
-    ta = sum(1 for r in calls.values() if r["gate2_call"] == "ambiguous")
+    ta = sum(1 for r in calls.values() if str(r.get("gate2_near_cutoff", "0")) == "1")
     print("=== 7단계: 집계 ===")
     print(f"  전체 {tot} 유전체")
     print(f"  Gate 2 present    {fmt(tp, tot)}")
-    print(f"  Gate 2 ambiguous  {ta}")
+    print(f"  임계 근처         {ta}")
     print(f"  보수적 상한       {fmt(tp + ta, tot)}")
     print()
     print("  종별 (상위 8)")
@@ -161,7 +170,7 @@ def main():
 
     with open(LOG, "a") as lg:
         lg.write(f"\n[07_summarize] {datetime.datetime.now().isoformat()}\n")
-        lg.write(f"  전체 {tot} · present {tp} · ambiguous {ta}\n")
+        lg.write(f"  전체 {tot} · present {tp} · 임계근처 {ta}\n")
 
     print(f"\n  → {out_a}")
     if rows_b:
@@ -170,7 +179,8 @@ def main():
     print("=== 완료 ===")
     print("원고에 넣을 때 지킬 것")
     print("  · 0 건인 층은 '0%' 가 아니라 '0%, 95% 상한 X%' 로 씁니다")
-    print("  · ambiguous 는 별도 열로 보고하고 absent 에 합치지 않습니다")
+    print("  · Gate 1 은 통과/탈락이 아니라 중앙값과 전체 범위로 보고합니다")
+    print("  · 임계 근처 유전체는 별도 열로 보고하고 absent 에 합치지 않습니다")
     print("  · logs/run_log.txt 를 Supplementary 에 그대로 첨부합니다")
 
 

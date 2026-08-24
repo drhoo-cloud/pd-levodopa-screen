@@ -1,0 +1,17 @@
+#                                                                    --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name             accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#     ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P0DTQ4|TYRDC_ENTF3     -          tyrdc                -                  0 1342.2  13.5         0 1342.1  13.5   1.0   1   0   0   1   1   1   1 L-tyrosine decarboxylase OS=Enterococcus faecalis (strain EnGen0310 / MMH594) OX=1158653 GN=tyrDC PE=1 SV=1
+sp|Q838D6|TYRDC_ENTFA     -          tyrdc                -                  0 1342.2  13.5         0 1342.1  13.5   1.0   1   0   0   1   1   1   1 L-tyrosine decarboxylase OS=Enterococcus faecalis (strain ATCC 700802 / V583) OX=226185 GN=tdc PE=1 SV=2
+sp|J7GQ11|TYRDC_LEVBR     -          tyrdc                -                  0 1287.3   5.6         0 1287.0   5.6   1.0   1   0   0   1   1   1   1 L-tyrosine decarboxylase OS=Levilactobacillus brevis OX=1580 GN=tdc PE=1 SV=1
+sp|A0A481NV25|TYRDC_ENTFC -          tyrdc                -                  0 1231.5   7.5         0 1231.4   7.5   1.0   1   0   0   1   1   1   1 L-tyrosine decarboxylase OS=Enterococcus faecium OX=1352 GN=tdc PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      tyrdc.hmm
+# Target file:     tyrdc_reference.faa
+# Option settings: hmmsearch -o self.txt --tblout self.tbl tyrdc.hmm tyrdc_reference.faa 
+# Current dir:     /home/claude/g2
+# Date:            Mon Aug 24 02:31:10 2026
+# [ok]
