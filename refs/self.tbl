@@ -9,9 +9,9 @@ sp|A0A481NV25|TYRDC_ENTFC -          tyrdc                -                  0 1
 # Program:         hmmsearch
 # Version:         3.4 (Aug 2023)
 # Pipeline mode:   SEARCH
-# Query file:      tyrdc.hmm
-# Target file:     tyrdc_reference.faa
-# Option settings: hmmsearch -o self.txt --tblout self.tbl tyrdc.hmm tyrdc_reference.faa 
-# Current dir:     /home/claude/g2
-# Date:            Mon Aug 24 02:31:10 2026
+# Query file:      refs/tyrdc.hmm
+# Target file:     refs/tyrdc_reference.faa
+# Option settings: hmmsearch -o logs/self.txt --tblout refs/self.tbl refs/tyrdc.hmm refs/tyrdc_reference.faa 
+# Current dir:     /home/taehoo/pd_rerun
+# Date:            Wed Sep 16 22:03:39 2026
 # [ok]

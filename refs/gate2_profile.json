@@ -1,19 +1,17 @@
 {
-  "generated": "2026-08-24T02:33:00",
-  "uniprot_release": "2026_02",
-  "retrieval_date": "2026-08-24",
-  "query_tyrdc": "((gene:tyrdc) OR (gene:tdc) OR (protein_name:\"Tyrosine decarboxylase\")) AND (ec:4.1.1.*) AND (reviewed:true) AND (taxonomy_id:2)",
+  "retrieval_date": "2026-09-17",
+  "uniprot_query": "((gene:tyrdc) OR (gene:tdc) OR (protein_name:\"Tyrosine decarboxylase\")) AND (ec:4.1.1.*) AND (reviewed:true) AND (taxonomy_id:2)",
   "n_entries": 4,
   "accessions": [
     "A0A481NV25",
-    "Q838D6",
+    "J7GQ11",
     "P0DTQ4",
-    "J7GQ11"
+    "Q838D6"
   ],
-  "aligner": "MAFFT v7.505 (2022/Apr/10) --auto",
-  "profile_builder": "HMMER 3.4 (Aug 2023) hmmbuild",
-  "model_length": "620",
-  "profile_md5": "9a6a08643e336d9ceec92c314ccb634f",
+  "aligner": "MAFFT v7.525 (2024/Mar/13), --auto",
+  "profile_builder": "HMMER 3.4 (Aug 2023), hmmbuild",
+  "model_length": 620,
+  "profile_md5": "e5ddd734f36843c9924392bdea973107",
   "self_score": 1342.2,
   "cutoff_percent": 50.0,
   "reference_self_hits": {
@@ -33,5 +31,6 @@
       1231.5,
       91.75
     ]
-  }
+  },
+  "note": "Profile and screen regenerated 2026-09-17; all 5,373 proteomes re-downloaded and re-searched with this profile. Zero genomes changed call."
 }
