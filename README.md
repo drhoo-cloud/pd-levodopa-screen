@@ -48,8 +48,8 @@ All 27 returned the expected call.
 | Sixteen further species | 4,255 | 0 | 0% (upper bound 0.09%) |
 
 **The score distribution is bimodal, which is why there is no ambiguous column.**
-Negative genomes score between 0% and 4.3% of the profile self-score; positives between
-61.5% and 100%. Exactly one assembly falls in between, at 19.5%. Any cut-off between
+Negative genomes score at or below 4.5% of the profile self-score; positives at or above
+61.0%. Exactly one assembly falls in between, at 19.2%. Any cut-off between
 roughly 20% and 60% returns the same 633 calls. The earlier version of this screen
 produced 63 ambiguous calls from a bitscore-margin rule; all of them resolve cleanly
 under the normalized score.
@@ -60,10 +60,10 @@ under the normalized score.
 |---|---|
 | *Enterococcus faecalis* | 99.8–100.0% |
 | *Enterococcus faecium* | 93.0% |
-| *Levilactobacillus brevis* | 68.4–96.1% |
-| *Latilactobacillus curvatus* | 61.5–88.3% |
-| *Limosilactobacillus reuteri* | 71.4–77.1% |
-| *Pediococcus pentosaceus* | 61.5–62.0% |
+| *Levilactobacillus brevis* | 68.5–95.9% |
+| *Latilactobacillus curvatus* | 61.0–87.5% |
+| *Limosilactobacillus reuteri* | 70.2–76.5% |
+| *Pediococcus pentosaceus* | 61.1–61.7% |
 
 Three of the four reference sequences are enterococcal, so a low-but-positive score
 reflects distance from the reference set as well as divergence at the locus. Calls at
@@ -83,7 +83,7 @@ refs/
   tyrdc_reference.faa              the four UniProt-reviewed reference sequences
   tyrdc.aln                        MAFFT alignment
   tyrdc.hmm                        profile HMM built from the alignment
-  self_score.txt                   1342.2 — the denominator for every normalized score
+  self_score.txt                   the denominator for every normalized score
   gate2_profile.json               query, release, model length, MD5, self-score
   pregate_hdc.faa                  histidine decarboxylase references for the pre-gate
 data/
@@ -106,6 +106,11 @@ the pre-gate, and every change made to the analysis after it began.
 **The self-score matters.** Without it the percentage scale cannot be reconstructed, and
 every number in the tables above becomes uncheckable. It is stored in three places:
 `refs/self_score.txt`, `refs/gate2_profile.json`, and `run_log.txt`.
+
+The profile in `refs/` is the one that produced the data in `data/`. The entire Gate 2
+screen was re-run on 17 September 2026 with this profile: all 5,373 proteomes were
+re-downloaded from NCBI and searched again. No genome changed call. Parameters are in
+`run_log.txt` — MAFFT v7.525, HMMER 3.4, model length 620, self-score 1342.2 bits.
 
 ---
 
@@ -139,7 +144,8 @@ come out inflated. That is the error this revision corrects.
 ## Thresholds, fixed in advance
 
 **Gate 2.** Each genome's highest full-sequence bit score against the profile is divided
-by the profile self-score (1342.2 bits) and expressed as a percentage.
+by the profile self-score and expressed as a percentage. The self-score is in
+`refs/self_score.txt` and in `run_log.txt`.
 
 | Call | Criterion |
 |---|---|
@@ -196,7 +202,7 @@ the nominal 80%.
 ## The pre-gate, on the controls
 
 Applied to the 25 *Enterococcus* control genomes. Between 8 and 54 determinants were
-detected per genome, of which 3 to 28 lay within 10 kb of a transposase, integrase,
+detected per genome, of which 2 to 23 lay within 10 kb of a transposase, integrase,
 relaxase or plasmid mobilization function.
 
 **All 123 hits to *van* operon genes were mobile-adjacent, against a background of 46%
