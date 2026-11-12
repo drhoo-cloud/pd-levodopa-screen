@@ -167,6 +167,23 @@ chk("species fixed effects, P", "0.107", tg["Logistic, species fixed effects"]["
 chk("variance between species", "88.6% between species",
     tg["Variance partition, GH family count"]["Estimate"])
 
+# ---- the alternative route the tyrDC gate does not see -------------------
+print("\nThe Bifidobacterium deamination-reduction route (referee response, point 6)")
+bs = rd("data/bifido_by_species.tsv")
+bg = sum(int(r["genomes"]) for r in bs)
+chk("Bifidobacterium genomes screened", "1872", bg)
+chk("aryl-lactate dehydrogenase present",
+    "1623", sum(int(r["aldh_present"]) for r in bs))
+chk("aromatic aminotransferase present",
+    "1868", sum(int(r["aat_present"]) for r in bs))
+chk("dehydrogenase, % of genomes", "86.7",
+    f"{100*sum(int(r['aldh_present']) for r in bs)/bg:.1f}")
+bp = rd("data/bifido_aldh_aat.tsv")
+chk("per-genome rows", "1872", len(bp))
+chk("B. animalis carries the dehydrogenase", "0",
+    sum(int(r["aldh_present"]) for r in bs
+        if r["species"] == "Bifidobacterium animalis"))
+
 print("\n" + "=" * 104)
 print(f"  {OK} reproduced, {FAIL} differing")
 print("""

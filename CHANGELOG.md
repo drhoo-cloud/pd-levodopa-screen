@@ -1,8 +1,49 @@
+# v3.1.0 — the alternative route deposited, and two wording corrections
+
+The tyrDC gate sees one route. A distinct levodopa-metabolising pathway runs
+through commensal *Bifidobacterium*, by aromatic aminotransferase and then
+aryl-lactate dehydrogenase, and the profile does not detect it. That census
+was run for the referee response but never deposited. It is here now.
+
+- **`data/bifido_aldh_aat.tsv`** — per-genome aminotransferase and
+  dehydrogenase calls for all **1,872** genomes of the four panel
+  *Bifidobacterium* species, with the distance between the two genes and a
+  20 kb adjacency call.
+- **`data/bifido_by_species.tsv`** — the same census per species.
+
+The aminotransferase is near-universal (**1,868 of 1,872**), so the
+discriminating gene is the dehydrogenase, present in **1,623 of 1,872**
+(86.7%): 920 of 922 *B. longum*, 339 of 340 *B. breve*, 364 of 365
+*B. bifidum*, and **none of 245 *B. animalis***. That split reproduces the
+reported culture phenotype in all four species.
+
+`verify_all.py` now checks these too: **59 numbers reproduced, 0 differing.**
+
+## Two wording corrections
+
+Neither changes a number.
+
+- The v3.0.0 note said the screen "was run on 200 genomes per species". The
+  200 cap applied to 17 of the 22 species. Four had fewer than 200 genomes in
+  RefSeq, and *Lactiplantibacillus plantarum* was run at full depth from the
+  start — which is why the v3.0.0 note could say in the same breath that it
+  went from 0/1,521. `CHANGELOG.md` and `README.md` now say "at most 200 per
+  species, except *L. plantarum*".
+- Two file names were wrong in the manuscript's referee response, not here,
+  and are noted for anyone following a citation: the disclosure audit is
+  `data/disclosure_audit_named_strains.tsv` (not `disclosure_audit_all27.tsv`)
+  and the pre-gate context table is `data/pregate_context.tsv` (not
+  `pre_gate_context_table.tsv`).
+
+Nothing in `data/` from v3.0.0 is changed or removed, and `refs/` and
+`pipeline/` remain byte-identical to v2.1.0.
+
 # v3.0.0 — the screen extended to every deposited genome
 
-The screen was run on 200 genomes per species. This release runs it on
-**every genome deposited in RefSeq for the 22 species**: 19,771 at Gate 2 and
-19,765 at Gate 1, against 5,372 before.
+The screen was run on at most 200 genomes per species, except
+*Lactiplantibacillus plantarum*, which was run at full depth from the start.
+This release runs it on **every genome deposited in RefSeq for the 22
+species**: 19,771 at Gate 2 and 19,765 at Gate 1, against 5,372 before.
 
 No conclusion reversed. *Lactiplantibacillus plantarum* went from 0/1,521 to
 **0/1,665**, which narrows its zero-prevalence upper bound from 0.25% to

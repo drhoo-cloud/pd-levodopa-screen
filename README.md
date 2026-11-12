@@ -13,19 +13,30 @@ RefSeq and recoverable from the accession columns of the per-genome files.
 python3 verify_all.py
 ```
 
-It recomputes **53 of the numbers printed in the paper** directly from the
+It recomputes **59 of the numbers printed in the paper** directly from the
 files in `data/` and prints, for each, the value stated in the paper beside
 the value it just calculated. Python 3 only — no third-party packages, no
 network. It exits non-zero if anything disagrees.
 
+## What changed in v3.1.0
+
+The *Bifidobacterium* census behind the alternative-route answer is now
+deposited: the aromatic aminotransferase is near-universal (1,868 of 1,872
+genomes of the four panel species) and the discriminating aryl-lactate
+dehydrogenase is present in 1,623 of 1,872 (86.7%), absent from all 245
+*B. animalis*. See `data/bifido_aldh_aat.tsv` and
+`data/bifido_by_species.tsv`. Nothing from v3.0.0 changed; `CHANGELOG.md`
+records two wording corrections that carry no number.
+
 ## What changed in v3.0.0
 
-The screen was extended from 200 genomes per species to **every genome
-deposited in RefSeq for the 22 species**: 19,771 at Gate 2 and 19,765 at
-Gate 1, against 5,372 before. Files that the census superseded
-(`per_genome_calls.tsv`, `gate1_gh_families.txt`, `table_by_species.tsv`,
-`screened_accessions.txt`) are gone from this release and remain available
-at the v2.1.0 DOI.
+The screen was extended from a cap of 200 genomes per species — never
+applied to *Lactiplantibacillus plantarum*, which was run at full depth from
+the start — to **every genome deposited in RefSeq for the 22 species**:
+19,771 at Gate 2 and 19,765 at Gate 1, against 5,372 before. Files that the
+census superseded (`per_genome_calls.tsv`, `gate1_gh_families.txt`,
+`table_by_species.tsv`, `screened_accessions.txt`) are gone from this release
+and remain available at the v2.1.0 DOI.
 
 `refs/` and `pipeline/` are unchanged from v2.1.0. The profile that produced
 these calls is still `refs/tyrdc.hmm`, md5 `e5ddd734f368…`, self-score 1342.2.
@@ -36,6 +47,7 @@ these calls is still `refs/tyrdc.hmm`, md5 `e5ddd734f368…`, self-score 1342.2.
 |---|---|
 | 19,771 genomes at Gate 2; six carrier species; five with the operon | `data/gate2_calls_per_genome.tsv`, `data/gate2_by_species.tsv` |
 | 19,765 genomes at Gate 1; medians 7–28 glycoside hydrolase families | `data/gate1_gh_families_per_genome.tsv` |
+| The *Bifidobacterium* route the tyrDC gate does not detect; 1,872 genomes | `data/bifido_aldh_aat.tsv`, `data/bifido_by_species.tsv` |
 | Operon context of every carrier | `data/locus_context_census.tsv`, `data/locus_context_by_species.tsv` |
 | Polysaccharide lyases absent from twenty of twenty-two species | `data/cazyme_all_categories.tsv` |
 | *L. plantarum* 0 / 1,665, decarboxylase family present in 98.62% | `data/lp_decarboxylase_census.tsv`, `data/lp_pf00282_in_prophage.tsv` |
