@@ -1,477 +1,99 @@
-
-[01_reference_proteins] 2026-08-10T22:48:41.127181
-  TARGET_tyrDC: 16
-  TARGET_tyrP: 1
-  TARGET_aadc: 1
-  DECOY_gadB: 5
-  DECOY_ldcA: 1
-  DECOY_odcA: 5
-  PREGATE_hdcA: 5
-  총 34 서열 → refs/gate2_reference.faa
-
-[01b_topup_references] 2026-08-10T22:55:15.672690
-  DECOY_ldcA: 1 -> 5
-  TARGET_tyrP: 1 -> 5
-  TARGET_aadc: 1 -> 5
-
-[01c_fix_decoys] 2026-08-10T22:59:06.680512
-  제거 DECOY_ldcA: 4
-  제거 TARGET_tyrP: 4
-  보충 DECOY_ldcA: +4
-  보충 TARGET_tyrP: +4
-  최종 {'TARGET_tyrDC': 16, 'TARGET_tyrP': 5, 'TARGET_aadc': 5, 'DECOY_gadB': 5, 'DECOY_ldcA': 5, 'DECOY_odcA': 5, 'PREGATE_hdcA': 5}
-
-[02_build_panel] 2026-08-10T23:05:13.291242
-  종 22 · 어셈블리 18864
-
-[fast_merge] 확보 1521/1521 누락 0 서열 4583241
-
-[fast_merge] 확보 1558/1558 누락 0 서열 4687975
-
-[04_validate_controls] 2026-08-10T23:54:18.830267
-  대조군 39 · 통과 33 · 실패 6
-  임계값 present id>=60.0 cov>=80.0 margin>=10.0
-  실패: Levilactobacillus brevis TMW 1.2108 기대=present 실제=ambiguous
-  실패: Levilactobacillus brevis CRAI 기대=present 실제=absent
-  실패: Levilactobacillus brevis TMW 1.2113 기대=present 실제=ambiguous
-  실패: Levilactobacillus brevis BD-LB 기대=present 실제=ambiguous
-  실패: Lactiplantibacillus plantarum WCFS1 기대=absent 실제=ambiguous
-  실패: Lactiplantibacillus plantarum PS128 기대=absent 실제=ambiguous
-
-[04_validate_controls] 2026-08-10T23:55:42.954937
-  대조군 39 · 통과 33 · 실패 6
-  임계값 present id>=60.0 cov>=80.0 margin>=10.0
-  실패: Levilactobacillus brevis TMW 1.2108 기대=present 실제=ambiguous
-  실패: Levilactobacillus brevis CRAI 기대=present 실제=absent
-  실패: Levilactobacillus brevis TMW 1.2113 기대=present 실제=ambiguous
-  실패: Levilactobacillus brevis BD-LB 기대=present 실제=ambiguous
-  실패: Lactiplantibacillus plantarum WCFS1 기대=absent 실제=ambiguous
-  실패: Lactiplantibacillus plantarum PS128 기대=absent 실제=ambiguous
-
-[04_validate_controls] 2026-08-11T00:00:13.840750
-  대조군 39 · 통과 25 · 실패 14
-  임계값 present id>=60.0 cov>=80.0 margin>=10.0
-  실패: Levilactobacillus brevis NCTC13768 기대=any 실제=present
-  실패: Levilactobacillus brevis BDGP6 기대=any 실제=present
-  실패: Levilactobacillus brevis UCCLBBS124 기대=any 실제=present
-  실패: Levilactobacillus brevis UCCLBBS449 기대=any 실제=present
-  실패: Levilactobacillus brevis TMW 1.2108 기대=any 실제=absent
-  실패: Levilactobacillus brevis PYN10-6-2 기대=any 실제=present
-  실패: Levilactobacillus brevis NPS-QW-145 기대=any 실제=present
-  실패: Levilactobacillus brevis CRAI 기대=any 실제=absent
-  실패: Levilactobacillus brevis TMW 1.2113 기대=any 실제=absent
-  실패: Levilactobacillus brevis PUR-C42-01 기대=any 실제=present
-  실패: Levilactobacillus brevis LMT1-73 기대=any 실제=present
-  실패: Levilactobacillus brevis BD-LB 기대=any 실제=absent
-  실패: Lactiplantibacillus plantarum WCFS1 기대=absent_or_ambiguous 실제=absent
-  실패: Lactiplantibacillus plantarum PS128 기대=absent_or_ambiguous 실제=absent
-2026-08-11T00:03:05+09:00  [수정] tyrP를 판정 계열에서 제외. 오페론 문맥 지표이며 판정 대상이 아님. 임계값·기대값 변경 없음.
-
-[04_validate_controls] 2026-08-11T00:03:57.592560
-  대조군 39 · 통과 25 · 실패 14
-  임계값 present id>=60.0 cov>=80.0 margin>=10.0
-  실패: Levilactobacillus brevis NCTC13768 기대=any 실제=present
-  실패: Levilactobacillus brevis BDGP6 기대=any 실제=present
-  실패: Levilactobacillus brevis UCCLBBS124 기대=any 실제=present
-  실패: Levilactobacillus brevis UCCLBBS449 기대=any 실제=present
-  실패: Levilactobacillus brevis TMW 1.2108 기대=any 실제=absent
-  실패: Levilactobacillus brevis PYN10-6-2 기대=any 실제=present
-  실패: Levilactobacillus brevis NPS-QW-145 기대=any 실제=present
-  실패: Levilactobacillus brevis CRAI 기대=any 실제=absent
-  실패: Levilactobacillus brevis TMW 1.2113 기대=any 실제=absent
-  실패: Levilactobacillus brevis PUR-C42-01 기대=any 실제=present
-  실패: Levilactobacillus brevis LMT1-73 기대=any 실제=present
-  실패: Levilactobacillus brevis BD-LB 기대=any 실제=absent
-  실패: Lactiplantibacillus plantarum WCFS1 기대=absent_or_ambiguous 실제=absent
-  실패: Lactiplantibacillus plantarum PS128 기대=absent_or_ambiguous 실제=absent
-2026-08-11T00:07:34+09:00  [수정] L. brevis 12주를 대조군에서 제외. tyrDC 보유가 문헌으로 확인된 균주가 아니어서 기대값의 근거가 없음. 결과는 본 분석에 그대로 포함되며 종 내부 변이 자료로 보고함.
-
-[04_validate_controls] 2026-08-11T00:08:24.227938
-  대조군 27 · 통과 27 · 실패 0
-  임계값 present id>=60.0 cov>=80.0 margin>=10.0
-
-[04_validate_controls] 2026-08-11T00:09:21.212554
-  대조군 27 · 통과 27 · 실패 0
-  임계값 present id>=60.0 cov>=80.0 margin>=10.0
-
-[05_search_all] 2026-08-11T00:11:38+09:00
-  단백질 4687975 · Gate2 히트 17796
-  diamond: diamond version 2.2.5
-
-[06_call_gates] 2026-08-11T00:12:26.002459
-  유전체 1558 · present 33 · ambiguous 0 · absent 1525
-  임계값 id>=60.0/40.0 cov>=80.0/50.0 margin>=10.0 GH_MIN=15
-
-[07_summarize] 2026-08-11T00:12:42.468777
-  전체 1558 · present 33 · ambiguous 0
-
-[fast_merge] 확보 3815/3815 누락 0 서열 7925596
-
-[05_search_all] 2026-08-11T00:50:38+09:00
-  단백질 7925596 · Gate2 히트 40414
-  diamond: diamond version 2.2.5
-
-[06_call_gates] 2026-08-11T00:50:38.673048
-  유전체 2881 · present 537 · ambiguous 63 · absent 2281
-  임계값 id>=60.0/40.0 cov>=80.0/50.0 margin>=10.0 GH_MIN=15
-
-[07_summarize] 2026-08-11T00:50:38.793605
-  전체 2881 · present 537 · ambiguous 63
-
-[fast_merge] 확보 3815/3815 누락 0 서열 7925596
-
-[05_search_all] 2026-08-11T00:56:18+09:00
-  단백질 7925596 · Gate2 히트 40414
-  diamond: diamond version 2.2.5
-
-[06_call_gates] 2026-08-11T00:56:19.192851
-  유전체 2881 · present 537 · ambiguous 63 · absent 2281
-  임계값 id>=60.0/40.0 cov>=80.0/50.0 margin>=10.0 GH_MIN=15
-
-[07_summarize] 2026-08-11T00:56:19.297302
-  전체 2881 · present 537 · ambiguous 63
-
-[fast_merge] 확보 5373/5373 누락 0 서열 12613571
-
-[05_search_all] 2026-08-11T07:07:26+09:00
-  단백질 12613571 · Gate2 히트 58210
-  diamond: diamond version 2.2.5
-
-[06_call_gates] 2026-08-11T07:08:56.655508
-  유전체 5373 · present 570 · ambiguous 63 · absent 4740
-  임계값 id>=60.0/40.0 cov>=80.0/50.0 margin>=10.0 GH_MIN=15
-
-[07_summarize] 2026-08-11T07:08:56.801087
-  전체 5373 · present 570 · ambiguous 63
-
-[gate1_fast] 2026-08-11T12:43:55+09:00
-  GH-only HMM · 내부 디스크
-
-[06_call_gates] 2026-08-11T12:57:47.683242
-  유전체 5373 · present 570 · ambiguous 63 · absent 4740
-  임계값 id>=60.0/40.0 cov>=80.0/50.0 margin>=10.0 GH_MIN=15
-
-[07_summarize] 2026-08-11T12:57:47.834865
-  전체 5373 · present 570 · ambiguous 63
-
-[06_call_gates] 2026-08-11T13:01:38.050661
-  유전체 5373 · present 570 · ambiguous 63 · absent 4740
-  임계값 id>=60.0/40.0 cov>=80.0/50.0 margin>=10.0 GH_MIN=15
-
-[07_summarize] 2026-08-11T13:01:38.166212
-  전체 5373 · present 570 · ambiguous 63
-
-[pregate] 2026-08-12T11:56:20+09:00
-  CARD 406 · VFDB 543
-  기준 identity>=80 coverage>=70 evalue<=1e-10
-
-[pregate] 2026-08-12T11:56:48+09:00
-  CARD 406 · VFDB 543
-  기준 identity>=80 coverage>=70 evalue<=1e-10
-
-[pregate_context] window 10000 bp · 25/25 genomes mobile-adjacent
-
-[pregate_context] window 10000 bp · 25/25 genomes mobile-adjacent
-
-================================================================================
-2026-08-24  방법 개정 (rev2)  —  공저자 검토 반영
-================================================================================
-이 구분선 위쪽 기록은 모두 구 방법(DIAMOND + decoy, dbCAN 단일 method)에서
-나온 것입니다. 논문에 보고된 수치는 이 구분선 아래의 재실행 결과입니다.
-구 기록은 감사 추적을 위해 삭제하지 않고 남겨 둡니다.
-
---------------------------------------------------------------------------------
-[개정 사유 1] Gate 1 — dbCAN 단일 method
---------------------------------------------------------------------------------
-  구: 05_search_all.sh 가 run_dbcan --tools hmmer 로 호출
-      gate1_cazyme.sh 는 run_dbcan 을 거치지 않고 dbCAN.hmm 에 직접 hmmsearch
-      gate1_fast.sh 는 GH 모델만 추출해 hmmsearch (더 좁음)
-  문제: 세 예측 방법 중 하나만 쓰면 도메인 히트가 과다 계상됨
-        L. casei 33 유전체 GH family 중앙값 26 (구) vs 21 (2/3 합의)
-  신: run_dbcan --tools all + overview.txt 의 #ofTools >= 2 인 행만 집계
-      출력 search/dbcan/overview_consensus.txt
-      gate1_fast.sh 삭제 (구 경로가 되살아나는 것을 막기 위해)
-
---------------------------------------------------------------------------------
-[개정 사유 2] Gate 2 — decoy 최고점 배정
---------------------------------------------------------------------------------
-  구: 참조 세트에 ODC/HDC/GDC 를 decoy 로 포함
-      DIAMOND blastp 후 최상위 계열이 decoy 면 absent, 아니면 identity/coverage/
-      margin 조합으로 present / ambiguous / absent 판정
-  문제: 유전자 존재 여부를 유사 프로파일 간 순위 경쟁으로 정할 수 없음
-        두 group II PLP 프로파일 사이의 margin 은 표적 존재에 대한 정보가 아님
-        ODC/HDC 는 levodopa 를 탈탄산하지 않음
-  신: UniProt reviewed 세균 TyrDC 만으로 프로파일 HMM 구성, 자기점수 정규화
-
---------------------------------------------------------------------------------
-[01_reference_proteins] 2026-08-24  Gate 2 참조 세트
---------------------------------------------------------------------------------
-  UniProt 릴리스        2026_02 (2026-06-10 발행)
-  검색일                2026-08-24
-  질의 (입력)           ((gene:tyrdc) OR (gene:tdc) OR
-                        (protein_name:"Tyrosine decarboxylase"))
-                        AND (ec:4.1.1.*) AND (reviewed:true) AND (taxonomy_id:2)
-  질의 (실제 실행)      위 질의 + AND (reviewed:true)
-                        [웹 UI 의 Swiss-Prot 패싯이 자동 추가. 중복이며 결과 동일]
-  다운로드 형식         FASTA (canonical), isoform 제외
-  반환                  4 건
-
-  A0A481NV25  TYRDC_ENTFC  Enterococcus faecium              tdc / mfnA_1        611 aa
-  Q838D6      TYRDC_ENTFA  Enterococcus faecalis V583        tdc / tdcA / EF_0634 620 aa
-  P0DTQ4      TYRDC_ENTF3  Enterococcus faecalis MMH594      tyrDC / EFMMH594_12992 620 aa
-  J7GQ11      TYRDC_LEVBR  Levilactobacillus brevis          tdc / CNR29_12740   626 aa
-
-  큐레이션 품질        4건 모두 Swiss-Prot, EC 4.1.1.25, PE 1,
-                       UniProt annotation score 5/5, active site 및 binding site 주석
-  구조                 Q838D6: PDB 5건 · reviewed publication 3편
-                       J7GQ11: PDB 2건 · reviewed publication 5편
-                       A0A481NV25, P0DTQ4: 구조 없음
-  의도적 제외          ornithine decarboxylase (EC 4.1.1.17)
-                       histidine decarboxylase (EC 4.1.1.22)
-                       glutamate decarboxylase (EC 4.1.1.15)
-                       — 참조 세트에서 제외. decoy 로 포함하지 않음
-
---------------------------------------------------------------------------------
-[프로파일]
---------------------------------------------------------------------------------
-  정렬                  MAFFT v7.505 (2022/Apr/10), --auto
-  프로파일 생성         HMMER 3.4 (Aug 2023), hmmbuild, 기본 설정
-  모델 길이             620 positions
-  참조 평균 길이        627 aa
-  relative entropy      0.592 bits/position
-  프로파일 MD5          9a6a08643e336d9ceec92c314ccb634f
-  self-score            1342.2 bits
-                        (hmmsearch tyrdc.hmm tyrdc_reference.faa 최고 full-seq score)
-
-  ★ self-score 가 없으면 % 척도를 복원할 수 없습니다.
-    프로파일을 다시 만들면 self-score 도 반드시 함께 갱신하십시오.
-
---------------------------------------------------------------------------------
-[검색과 판정]
---------------------------------------------------------------------------------
-  검색                  hmmsearch --domtblout, E-value 1e-5
-                        유전체별 최고 full-sequence bit score 사용
-  정규화                score / 1342.2 * 100, 0-100 범위
-  present               정규화 점수 > 50%
-  임계 근처 표시        40-60% (판정은 하되 효소 assay 회부)
-  변이 세분             truncated  단백질 길이 < 모델 길이의 80%
-                        intact     정규화 점수 >= 90%
-                        point-variant  그 사이
-  Gate 1 pass threshold 없음 (구 버전의 GH_MIN=15 삭제)
-                        원고가 "No pass threshold is set" 이라고 세 곳에서 기술함
-
---------------------------------------------------------------------------------
-[자기 검증] 참조 서열을 자기 프로파일에 되돌려 검색
---------------------------------------------------------------------------------
-  P0DTQ4      1342.2   100.00%
-  Q838D6      1342.2   100.00%
-  J7GQ11      1287.3    95.91%
-  A0A481NV25  1231.5    91.75%
-
-  ★ 2026-09-17 전면 재실행으로 확정됨.
-    원래 스크리닝(2026-08-21) 에 쓰인 프로파일 파일을 복원할 수 없어,
-    프로파일을 새로 만들고 5,373 유전체 전체를 다시 내려받아 다시 검색했습니다.
-    아래 값이 현재 data/ 를 생성한 프로파일의 파라미터입니다.
-
-      UniProt 질의       (위와 동일)
-      참조 서열          4 건 (A0A481NV25, J7GQ11, P0DTQ4, Q838D6)
-      정렬               MAFFT v7.525 (2024/Mar/13), --auto
-      프로파일 생성      HMMER 3.4 (Aug 2023), hmmbuild
-      모델 길이          620 positions
-      프로파일 md5       e5ddd734f36843c9924392bdea973107
-      self-score         1342.2 bits
-      검색               hmmsearch --domtblout, E-value 1e-5
-                         단백질 12,614,399 서열 (3,834,898,131 residues)
-
-    참조 서열 자기점수
-      P0DTQ4      1342.2   100.00%
-      Q838D6      1342.2   100.00%
-      J7GQ11      1287.3    95.91%
-      A0A481NV25  1231.5    91.75%
-
-    재실행 결과 — 판정 변화 0 건
-      Gate 2 총계   633 / 5,373 = 11.8%  (Wilson 95% CI 10.9-12.7)
-      변이 분류     intact 559 · point-variant 74 · truncated 0
-      양성 종       6 종 (종별 검출 수 전부 동일)
-      분포          음성 최대 19.17% · 양성 최소 61.03% · 간격 41.86%p
-      Gate 1        중앙값 17 · 범위 5-34 (변화 없음)
-      점수 차이     평균 0.555%p · 최대 1.700%p
-
-    종별 점수 범위만 갱신되었습니다.
-      E. faecium      93.0        -> 92.0-92.2
-      E. faecalis     99.8-100.0  -> 99.8-100.0
-      L. brevis       68.4-96.1   -> 68.5-95.9
-      L. curvatus     61.5-88.3   -> 61.0-87.5
-      L. reuteri      71.4-77.1   -> 70.2-76.5
-      P. pentosaceus  61.5-62.0   -> 61.1-61.7
-
-    이로써 refs/ 의 프로파일과 data/ 의 결과와 논문 보고값이 일치합니다.
-
---------------------------------------------------------------------------------
-[test_truncation] 2026-08-24  변이 분류 발동 시험
---------------------------------------------------------------------------------
-  기준 서열 J7GQ11 (626 aa) · 합성 대조 11 건
-
-  TRUNC_95        93.04%  len/model 0.96   present / intact
-  TRUNC_90        88.27%  len/model 0.91   present / point-variant
-  TRUNC_85        83.43%  len/model 0.86   present / point-variant
-  TRUNC_80        78.72%  len/model 0.81   present / point-variant
-  TRUNC_70        69.20%  len/model 0.71   present / truncated
-  TRUNC_50        48.96%  len/model 0.50   absent
-  POINT_5         90.13%  len/model 1.01   present / intact
-  POINT_10        83.46%  len/model 1.01   present / point-variant
-  POINT_20        73.22%  len/model 1.01   present / point-variant
-  POINT_40        46.19%  len/model 1.01   absent
-  INTACT          95.91%  len/model 1.01   present / intact
-
-  세 분류(intact / point-variant / truncated)가 모두 발동함.
-  따라서 실제 데이터에서 어떤 분류가 0건이면 그것은 진짜 0건임.
-
-  ★ 다만 truncated 는 상당히 심한 절단(약 70% 이하)에서만 발동함.
-    80-90% 로 잘린 서열은 길이비가 0.80 을 넘어 point-variant 로 분류됨.
-    구 버전에서는 truncated 가 원리상 발동 불가능했으므로 개선이지만,
-    실질 경계는 명목값 80% 가 아니라 70% 근처임.
-
---------------------------------------------------------------------------------
-[프리게이트] 히스티딘 탈탄산효소 선별 추가
---------------------------------------------------------------------------------
-  구 pregate.sh 는 CARD 와 VFDB 만 검색했음.
-  원고 2절은 프리게이트가 히스티딘 탈탄산효소도 본다고 기술하나 코드에 없었음.
-  HDC 참조는 01c_fix_decoys.py 안에만 있었고 어디서도 사용되지 않았음.
-
-  신: refs/pregate_hdc.faa (UniProt reviewed 세균 HDC) 로 DIAMOND 검색
-      임계 identity >= 40%, coverage >= 70%, evalue <= 1e-10
-      CARD/VFDB (80%/70%) 보다 느슨하게 둔 것은 의도적임.
-      내성 유전자는 같은 유전자여야 의미가 있으나,
-      HDC 는 계열 수준 경고이므로 놓치는 쪽이 잘못 울리는 쪽보다 나쁨.
-      결과는 판정이 아니라 배양 확인 회부 사유임.
-
---------------------------------------------------------------------------------
-[결과 변화 요약]
---------------------------------------------------------------------------------
-  Gate 2 총 검출        570 / 5,373 (10.6%)  →  633 / 5,373 (11.8%)
-  95% CI                9.8-11.5%            →  11.0-12.7%
-  양성 종 수            4                    →  6
-                        (+ L. curvatus 35.0%, + P. pentosaceus 2.0%)
-  무검출 종 수          18 (n=4,572)         →  16 (n=4,255, 상한 0.09%)
-  E. faecium            196 (98.0%)          →  200 (100.0%)
-  L. brevis             165 (82.5%)          →  166 (83.0%)
-  L. reuteri            15 (7.5%)            →  28 (14.0%)
-  L. plantarum          0 / 1,521            →  0 / 1,521  (변화 없음)
-  ambiguous             63                   →  범주 폐지
-
-  Gate 1 종별 중앙값 범위   6-31             →  7-27
-  S. thermophilus           6                →  7 (5-8)
-  최고 중앙값               E. faecalis 31   →  27 (E. faecalis 와 B. longum 동률)
-  L. plantarum              17 (9-26)        →  19 (12-24)
-  L. casei                  26               →  21 (20-30)
-
---------------------------------------------------------------------------------
-[삭제된 스크립트]
---------------------------------------------------------------------------------
-  01b_topup_references.py   구 참조 세트 사후 보정 — 새 01 이 한 번에 처리
-  01c_fix_decoys.py         구 참조 세트 사후 보정 — decoy 개념 자체가 폐기
-  gate1_fast.sh             GH 모델만 뽑아 hmmsearch — 개정이 없애려는 그 방식
-  gate3_gus.py              검토하다 접은 실험
-
---------------------------------------------------------------------------------
-[미완료 — 이 로그를 다시 갱신해야 하는 시점]
---------------------------------------------------------------------------------
-  data/ 하위 파일은 아직 구 방법 결과입니다. 서버에서 파이프라인을 재실행한 뒤
-  아래 파일을 교체하고 그 실행 기록을 이 아래에 이어 적으십시오.
-    per_genome_calls.tsv · table_by_species.tsv · gate1_gh_families.txt
-    gate2_reference.faa (→ refs/tyrdc_reference.faa 로 대체)
-================================================================================
-
---------------------------------------------------------------------------------
-[2026-08-24 추가] Gate 1 집계 규칙 확정 — dbCAN 원본 재검토
---------------------------------------------------------------------------------
-공저자로부터 5,373 유전체의 run_dbcan 원본 출력을 받아 accession 단위로 재집계함.
-  자료: dbcan_results.5373_genomes/ · 유전체별 *.CAZymes.tsv 5,373 파일
-  열:   Gene ID · EC# · dbCAN_hmm · dbCAN_sub · DIAMOND · #ofTools ·
-        Recommend Results · Substrate
-
-확정된 집계 규칙 (2단계)
-  1) #ofTools >= 2 인 행만 사용
-       세 방법 중 둘 이상이 그 단백질을 CAZyme 으로 부른 경우
-       인정 399,459 단백질 · 버림 497,239 단백질
-  2) family 는 'Recommend Results' 열에서 취함 (구분자: 파이프 |)
-       세 방법의 합집합이 아님
-       GH0 은 dbCAN 의 미분류 자리표시자이므로 제외
-
-  ★ 2) 가 핵심임. 세 방법이 같은 단백질을 서로 다른 family 로 부를 수 있음.
-    예: E. faecalis V583 WP_002382786.1
-        dbCAN_hmm = GH179 · dbCAN_sub = GH109 · DIAMOND = - · #ofTools = 2
-        Recommend Results = GH109_e7
-    합집합을 세면 이 단백질이 2개 family 로 계산됨.
-    이 오류는 Enterococcus 와 Lacticaseibacillus 계통에서
-    종별 중앙값을 1-2 family 부풀리고 다른 종에는 거의 영향이 없음.
-
-검증 (전체 5,373 유전체)
-  22 / 22 종에서 유전체별 GH family 개수 분포가 완전히 일치
-  전체 중앙값 17 · 범위 5-34 · 평균 17.280
-  (원고 기준 CAZyme_GH_cnt.csv: 중앙값 17 · 범위 5-34 · 평균 17.280)
-  L. casei 중앙값 21 (공저자 검토 의견의 근거값과 일치)
-  Recommend Results 가 비어 합집합으로 되돌아간 행: 0 / 399,459
-
-검토 과정에서 폐기한 후보 규칙 (기록용)
-  세 열의 합집합, GH0 제외         종별 중앙값 18/22 일치 · 4종에서 1-2 높음
-  family 단위 2개 이상 열 합의      전체 중앙값 15 · 과도하게 엄격
-  dbCAN_hmm 열만                   전체 중앙값 16
-  dbCAN_sub 열만                   전체 중앙값 16
-  DIAMOND 열만                     전체 중앙값 15
-  특정 family(GH179 등) 추가 제외   결과를 보고 규칙을 고르는 것이므로 채택하지 않음
-
-산출물
-  data/gate1_gh_families.txt  accession · n_GH_families · GH_families ·
-                              all_families · n_cazymes_consensus ·
-                              n_single_tool_dropped · n_rows_fallback
-
-반영
-  pipeline/gate1_cazyme.sh 를 이 규칙으로 수정 (합집합 -> Recommend Results)
-  원고 2절과 Fig. 2 caption 의 집계 규칙 서술을 수정
-  Supplementary Methods 3.2 에 두 단계 필터와 위 사례를 명시
---------------------------------------------------------------------------------
-
---------------------------------------------------------------------------------
-[2026-08-24 추가] Gate 2 accession 단위 결합 · data/ 재생성 완료
---------------------------------------------------------------------------------
-자료  tyrDC_hmmsearch_results_w_accession.xlsx  (5,373 행)
-      열: Accession · Organism · Binomial · Ratio
-      Ratio 는 0-1 소수로 저장되어 있음 (Excel 백분율 서식 변환).
-      100 을 곱해 정규화 점수(%)로 환산함.
-
-검증
-  중복 accession 0 건
-  22 / 22 종에서 점수 분포가 tyrDC_hmmsearch_results.csv 와 완전히 일치
-  accession 이 gate1_gh_families.txt 와 5,373 / 5,373 교집합
-  양성 633 / 5,373 = 11.78%  (원고 633, 11.8%)
-  종별 양성: E. faecium 200/200 · E. faecalis 194/201 · L. brevis 166/200
-            L. curvatus 41/117 · L. reuteri 28/200 · P. pentosaceus 4/200
-  분포 이분화 확인: 음성쪽 최대 19.49% · 양성쪽 최소 61.47% · 간격 41.98%p
-
-두 gate 결합 후 독립성 재확인 (원고 3절 독립성 문단)
-  E. faecalis   carrier 27 (n=194)  vs  non-carrier 27 (n=7)
-  L. brevis     carrier 15 (n=166)  vs  non-carrier 16 (n=34)
-  L. reuteri    carrier 12 (n=28)   vs  non-carrier 12 (n=172)
-  L. curvatus   carrier  9 (n=41)   vs  non-carrier  9 (n=76)
-  원고 기술과 일치. 이번에는 종별 집계에서 역산한 값이 아니라
-  accession 단위로 두 gate 를 결합해 직접 계산한 값임.
-
-산출물
-  data/per_genome_calls.tsv   5,373 행
-    assembly_accession · organism · species · gate2_call · gate2_score_pct ·
-    gate2_variant · gate2_near_cutoff · gate1_gh_families · gate1_gh_list
-  data/table_by_species.tsv   22 종
-    species · n · tyrDC_present · prevalence_pct · wilson_lo · wilson_hi ·
-    score_pct_range · near_cutoff · GH_median · GH_min · GH_max
-
-주의 — gate2_variant 의 truncated 는 0 건임
-  절단 판정에는 단백질 길이가 필요하나 위 자료에는 유전체별 최고 점수만 있음.
-  intact 559 · point-variant 74 로만 나뉘었음.
-  파이프라인을 hmmsearch --domtblout 으로 재실행하면 길이가 확보되어
-  truncated 가 분리될 수 있음. 현재 파일의 이 열은 잠정값으로 볼 것.
-
-  near_cutoff (40-60%) 도 0 건임. 분포 간격이 41.98%p 로 넓어
-  이 구간에 들어오는 유전체가 존재하지 않음.
---------------------------------------------------------------------------------
+RUN LOG
+Genome screening for levodopa compatibility and gut-brain axis support
+
+Read this file first. It is the order in which the analysis was run and the
+date each step was run on. The verbatim step-by-step record of the first two
+stages, written in Korean by the laboratory, is kept unedited as
+run_log_laboratory_record.txt; this file is the English record of the whole chain.
+
+Every threshold named below was fixed before any genome was retrieved. The
+pre-specification record and the two corrections made after it are
+Supplementary Methods 2.
+
+
+1. THRESHOLDS AND REFERENCE SET                              August 2026
+   Four reviewed bacterial tyrosine decarboxylases taken from UniProtKB,
+   aligned with MAFFT L-INS-i, profile built with hmmbuild.
+   Self-score 1342.2 (refs/self_score.txt). A hit is called present above
+   half that score. The canonical operon additionally requires tyrS and
+   tyrP within 20 kb. Gate 1 counts distinct glycoside hydrolase families
+   called by at least two of dbCAN's three methods.
+   Files: refs/profile.hmm, refs/reference_proteins.faa,
+          refs/reference_alignment.aln, refs/gate2_profile.json
+
+2. FIRST SCREEN, 200 GENOMES PER SPECIES                     August 2026
+   22 species, 5,372 genomes. This is the design a laboratory without the
+   compute for a census would adopt, and Supplementary Table S4a tests it
+   against the census that followed.
+
+3. PRE-GATE ON THE CONTROL GENOMES                           August 2026
+   25 Enterococcus genomes screened against CARD and VFDB, every hit placed
+   in its genomic context. 822 hits.
+   Files: data/pregate_context.tsv, data/pregate_per_genome.tsv
+   Rerun: scripts/verify_pregate.py
+
+4. CORRECTIONS                                            September 2026
+   Two corrections to the calling rules, both recorded in Methods 2 and in
+   run_log_laboratory_record.txt.
+
+5. GATE 2 EXTENDED TO EVERY DEPOSITED GENOME              5 November 2026
+   14,399 genomes beyond the 200-per-species cap retrieved and screened with
+   pyhmmer against the same profile, E <= 1e-5, same 50% threshold. No
+   failures. Census total 19,771 genomes, 11,365 carriers.
+   Lactiplantibacillus plantarum went from 0/1,521 to 0/1,665.
+   File: data/gate2_calls_per_genome.tsv
+   That file holds 19,772 rows: Enterococcus faecalis V583
+   (GCF_000007785.1) is the control the self-score is defined against and
+   is marked in_census = no. Filtering in_census = yes gives the 19,771.
+
+6. GATE 1 EXTENDED TO EVERY DEPOSITED GENOME              5 November 2026
+   19,765 genomes. Six assemblies reached one gate but not the other, which
+   is why the two denominators differ by six.
+   File: data/gate1_gh_families_per_genome.tsv
+
+7. OPERON CONTEXT FOR EVERY CARRIER                       5 November 2026
+   All 11,365 carriers placed in context against tyrS, tyrP and nhaC.
+   Files: data/locus_context_census.tsv, data/locus_context_by_species.tsv
+
+8. L. PLANTARUM FOLLOW-UP                                 5 November 2026
+   The whole species searched for the pyridoxal-dependent decarboxylase
+   family PF00282, and PhiSpy run for prophage context.
+   Files: data/lp_decarboxylase_census.tsv, data/lp_prophage_census.tsv,
+          data/lp_pf00282_in_prophage.tsv
+
+9. DEREPLICATION RECOMPUTED ON THE FULL CENSUS           12 November 2026
+   The first dereplication had been computed on the 1,521 genomes available
+   when the data were first deposited, before the 144 added at step 5. All
+   1,665 were re-clustered: Mash v2.3, sketch -k 21 -s 10000, single linkage
+   at Mash distance <= 0.005 (99.5% ANI). 161 independent lineages. The
+   zero-prevalence upper bound is 2.33%, replacing 2.40%.
+   Files: data/lp_dereplication_census.tsv, data/lp_cluster_membership.tsv,
+          data/accessions_lp_1665.txt
+   Rerun: scripts/cluster_single_linkage.py
+
+10. TWO-GATE ASSOCIATION RECOMPUTED ON THE CENSUS       12 November 2026
+   The models of Table S4b had been run on the 5,372-genome set. Rerun on
+   19,765: logistic without a species term, logistic with species fixed
+   effects on the 12,273 genomes of the six mixed species, GEE, variance
+   partition, Pagel's lambda and PGLS on both marker trees.
+   File: data/twogate_census_stats.tsv
+   Rerun: scripts/recompute_twogate_census.py
+   Trees: refs/rpoB_species_tree.nwk, refs/16S_species_tree.nwk
+
+11. REPOSITORY ASSEMBLED                                 12 November 2026
+   Results gathered from the working folders into this single repository,
+   line endings normalised to LF, every file listed with its line count,
+   size and MD5 in MANIFEST.tsv.
+   verify_all.py recomputes 50 of the numbers printed in the paper from the
+   files here and reports any that disagree.
+
+
+TOOL VERSIONS
+   HMMER 3.4 / pyhmmer   profile search
+   MAFFT v7.505          reference alignment
+   FastTree              marker trees, LG model
+   dbCAN3                CAZyme annotation, two-of-three rule
+   PhiSpy                prophage prediction
+   Mash v2.3             dereplication
+   CARD, VFDB            pre-gate databases
+   NCBI datasets         genome retrieval

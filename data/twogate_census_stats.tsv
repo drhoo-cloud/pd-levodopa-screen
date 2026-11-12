@@ -1,0 +1,15 @@
+Model or test	Unit	n	Estimate	95% CI / LRT	P
+Logistic, no species term	genome	19765	OR 1.297 per GH family	1.287-1.307	~10^-972
+Logistic, species fixed effects	genome	12273	OR 1.064	0.987-1.148	0.107
+GEE, exchangeable within species	genome	19765	OR 1.041	0.950-1.140	0.389
+Variance partition, GH family count	species	22	88.6% between species	-	-
+Pagel lambda, GH family median	species	22	lambda 0.847 (rpoB)	LRT 4.67	0.031
+Pagel lambda, tyrDC prevalence (arcsine)	species	22	lambda 1.000 (rpoB)	LRT 22.11	2.6e-06
+Pagel lambda, tyrDC carriage (binary)	species	22	lambda 1.000 (rpoB)	LRT 18.89	1.4e-05
+PGLS, prevalence (arcsine) ~ GH median	species	22	slope +0.0071 (rpoB)	-0.0182-+0.0324	0.591
+PGLS, carriage (binary) ~ GH median	species	22	slope -0.0038 (rpoB)	-0.0309-+0.0234	0.787
+Pagel lambda, GH family median	species	22	lambda 0.890 (16S)	LRT 7.68	0.0056
+Pagel lambda, tyrDC prevalence (arcsine)	species	22	lambda 1.000 (16S)	LRT 15.09	0.0001
+Pagel lambda, tyrDC carriage (binary)	species	22	lambda 1.000 (16S)	LRT 15.06	0.0001
+PGLS, prevalence (arcsine) ~ GH median	species	22	slope +0.0119 (16S)	-0.0163-+0.0401	0.418
+PGLS, carriage (binary) ~ GH median	species	22	slope -0.0024 (16S)	-0.0312-+0.0264	0.871

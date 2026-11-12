@@ -1,0 +1,2 @@
+species	n_genomes	n_clusters	ani_threshold	method	positives	prev_derep	ci_upper_derep
+Lactiplantibacillus plantarum	1665	161	99.5	Mash d<=0.005, single-linkage	0	0.00	2.33

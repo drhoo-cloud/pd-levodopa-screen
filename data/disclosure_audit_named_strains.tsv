@@ -1,0 +1,23 @@
+study	organism	strain	n_genomes	accession	level	ncbi_strain
+Lam 2026 (Winclove)	Levilactobacillus brevis	W63	0			
+Lam 2026 (Winclove)	Bifidobacterium animalis subsp. lactis	W51	0			
+Lam 2026 (Winclove)	Bifidobacterium animalis subsp. lactis	W52	0			
+Lam 2026 (Winclove)	Bifidobacterium bifidum	W23	0			
+Lam 2026 (Winclove)	Lactobacillus acidophilus	W37	0			
+Lam 2026 (Winclove)	Lacticaseibacillus casei	W56	1	GCF_000318035.1	Complete Genome	W56
+Lam 2026 (Winclove)	Ligilactobacillus salivarius	W24	0			
+Lam 2026 (Winclove)	Lactococcus lactis	W19	0			
+Lam 2026 (Winclove)	Lactococcus lactis	W58	0			
+Leta 2025 (SymPD)	Enterococcus faecium	NCIMB 30176	0			
+Leta 2025 (SymPD)	Lactobacillus acidophilus	NCIMB 30157	0			
+Leta 2025 (SymPD)	Lactiplantibacillus plantarum	NCIMB 30173	0			
+Leta 2025 (SymPD)	Lacticaseibacillus rhamnosus	NCIMB 30174	0			
+Andreozzi 2024	Lacticaseibacillus paracasei	DG (CNCM I-1572)	1	GCF_052064955.1	Contig	CNCM I-1572
+Yang 2023	Lacticaseibacillus paracasei	Shirota (YIT 9029)	0			
+Sun 2022	Bifidobacterium animalis	Probio-M8	1	GCF_011770105.1	Complete Genome	Probio-M8
+Ibrahim 2020 (Hexbio)	Lactobacillus acidophilus	BCMC 12130	0			
+Ibrahim 2020 (Hexbio)	Lacticaseibacillus casei	BCMC 12313	0			
+Ibrahim 2020 (Hexbio)	Lactococcus lactis	BCMC 12451	0			
+Ibrahim 2020 (Hexbio)	Bifidobacterium bifidum	BCMC 02290	0			
+Ibrahim 2020 (Hexbio)	Bifidobacterium longum subsp. infantis	BCMC 02129	0			
+Barichella 2016	Lacticaseibacillus rhamnosus	GG (ATCC 53103)	2	GCF_000026505.1	Complete Genome	GG (ATCC 53103)
