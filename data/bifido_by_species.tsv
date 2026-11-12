@@ -1,0 +1,5 @@
+species	genomes	aldh_present	aat_present	both	adjacent_20kb	adjacent_pct	wilson_lo	wilson_hi
+Bifidobacterium longum	922	920	922	920	914	99.13	98.3	99.56
+Bifidobacterium breve	340	339	340	339	339	99.71	98.35	99.95
+Bifidobacterium bifidum	365	364	364	363	0	0.0	0	1.04
+Bifidobacterium animalis	245	0	242	0	0	0.0	0	1.54

@@ -1,0 +1,1873 @@
+species	accession	aldh_pct	aldh_protein	aat_pct	aat_protein	both	same_contig	distance_bp	adjacent_20kb	status
+Bifidobacterium animalis	GCF_000021425.1	28.27	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_000022705.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_000022965.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_000025245.2	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_000092765.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_000172535.2	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_000220885.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_000224965.2	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_000240765.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_000260715.1	28.46	-	71.96	WP_014697689.1	no				OK
+Bifidobacterium animalis	GCF_000277325.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_000277345.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_000414215.2	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_000471945.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_000612705.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_000695895.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_000741485.1	28.46	-	71.96	WP_014697689.1	no				OK
+Bifidobacterium animalis	GCF_000816205.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_000817045.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_000818055.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_001039715.1	28.46	-	71.96	WP_014697689.1	no				OK
+Bifidobacterium animalis	GCF_001263835.1	28.46	-	71.96	WP_014697689.1	no				OK
+Bifidobacterium animalis	GCF_001263865.1	28.46	-	71.64	WP_080987968.1	no				OK
+Bifidobacterium animalis	GCF_001263945.1	28.46	-	71.82	WP_080989371.1	no				OK
+Bifidobacterium animalis	GCF_001263975.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_001263985.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_001264015.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_001264055.1	28.46	-	71.94	WP_080988461.1	no				OK
+Bifidobacterium animalis	GCF_001688645.2	28.46	-	71.94	WP_080988461.1	no				OK
+Bifidobacterium animalis	GCF_001892925.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_002220485.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_002221565.2	28.46	-	71.94	WP_080988461.1	no				OK
+Bifidobacterium animalis	GCF_002914815.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_002914895.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_003094775.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_003094815.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_003094835.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_003094875.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_003094895.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_003094915.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_003095015.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_003095055.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_003095075.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_003095115.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_003390755.1	28.46	-	12.02	-	no				OK
+Bifidobacterium animalis	GCF_003428375.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_003438565.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_003438945.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_003606305.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_003671995.1	28.46	-	71.96	WP_014697689.1	no				OK
+Bifidobacterium animalis	GCF_003970855.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_004135895.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_004154425.1	28.46	-	71.89	WP_129855364.1	no				OK
+Bifidobacterium animalis	GCF_004154445.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_004154455.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_004154475.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_004154525.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_004154535.1	28.4	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_004154545.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_004154555.1	28.46	-	71.73	WP_129881954.1	no				OK
+Bifidobacterium animalis	GCF_004154565.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_004154625.1	28.46	-	71.89	WP_130079420.1	no				OK
+Bifidobacterium animalis	GCF_004154645.1	28.46	-	71.89	WP_129855364.1	no				OK
+Bifidobacterium animalis	GCF_004154655.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_004154695.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_004167905.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_005844245.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_006538245.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_006538265.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_006538285.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_008041995.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_008868455.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_009075805.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_009075825.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_009077835.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_009834975.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_011770105.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_015377505.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_015552635.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_016696725.1	28.46	-	71.94	WP_080988461.1	no				OK
+Bifidobacterium animalis	GCF_016835115.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_016835135.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_017963615.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_018408975.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_018408985.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_018409015.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_019052265.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_019052295.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_019052305.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_019126555.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_019126655.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_019126675.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_019126705.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_019576095.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_020309945.1	28.46	-	71.92	WP_225556723.1	no				OK
+Bifidobacterium animalis	GCF_020538555.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_020538585.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_020538625.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_020538665.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_020538695.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_020538725.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_020538745.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_020538755.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_020538865.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_020708875.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_021018785.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_023278655.1	28.46	-	71.94	WP_080988461.1	no				OK
+Bifidobacterium animalis	GCF_023375105.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_023704215.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_024462105.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_024623015.1	28.46	-	71.8	WP_255201117.1	no				OK
+Bifidobacterium animalis	GCF_025506255.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_026683895.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_027659385.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_027659425.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_027659815.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_027659965.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_027662985.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_027663025.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_027663125.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_027663145.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_027682435.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_027690475.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_028202655.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_028202775.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_028202875.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_028202895.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_028202905.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_028202935.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_028202945.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_028202975.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_028202995.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_028203015.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_028203035.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_028203055.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_028203075.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_028203095.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_028203115.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_028203125.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_028203155.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_028203165.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_028203195.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_028203205.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_028203245.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_028203255.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_028204175.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_028463865.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_029167605.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_029340165.1	28.46	-	12.02	-	no				OK
+Bifidobacterium animalis	GCF_029723705.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_030253625.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_030284625.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_030511705.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_030552855.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_034561975.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_035282465.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_036227545.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_036318405.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_036923305.1	28.4	-	12.02	-	no				OK
+Bifidobacterium animalis	GCF_037966655.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_038086955.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_038562715.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_038756825.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_038756865.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_038756885.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_038994215.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_038994305.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_038994355.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_038994445.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_038994465.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_039031635.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_039031655.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_039031695.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_039503425.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_039913415.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_039913435.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_039913445.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_039913475.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_039913495.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_039913515.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_039913525.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_040084745.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_040091845.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_040150835.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_040151095.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_040151175.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_040425675.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_040795405.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_040795425.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_040795435.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_040795465.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_040795485.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_040795505.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_040795525.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_040795545.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_040795585.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_040921765.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_040927745.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_041447105.1	28.46	-	65.93	WP_035136533.1	no				OK
+Bifidobacterium animalis	GCF_044502405.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_044866785.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_045273105.1	28.46	-	71.96	WP_014697689.1	no				OK
+Bifidobacterium animalis	GCF_047716045.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_047716065.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_047716075.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_047716085.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_047716095.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_047716125.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_047716135.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_047716145.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_047716175.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_047716185.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_047716195.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_047716585.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_047716595.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_048663105.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_049191485.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_049191795.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_049191975.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_049192005.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_049192025.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_049192035.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_049204795.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_049204815.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_052116625.1	28.46	-	71.92	WP_225556723.1	no				OK
+Bifidobacterium animalis	GCF_052121315.1	28.46	-	71.92	WP_225556723.1	no				OK
+Bifidobacterium animalis	GCF_052121655.1	28.46	-	71.93	WP_441393929.1	no				OK
+Bifidobacterium animalis	GCF_053255335.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_053255355.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_054072915.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_054604265.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_056356115.1	28.46	-	71.89	WP_476557816.1	no				OK
+Bifidobacterium animalis	GCF_056357135.1	28.46	-	71.92	WP_225556723.1	no				OK
+Bifidobacterium animalis	GCF_058662555.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_062009159.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_062023751.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_062023754.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_900157045.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_900157135.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_902387355.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_910574665.1	28.46	-	71.8	WP_255201117.1	no				OK
+Bifidobacterium animalis	GCF_925048565.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_988233745.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_988234795.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium animalis	GCF_988237175.1	28.46	-	71.91	WP_004217928.1	no				OK
+Bifidobacterium bifidum	GCF_000155395.1	91.49	WP_003813268.1	74.36	WP_003812931.1	yes	yes	180438	no	OK
+Bifidobacterium bifidum	GCF_000164965.1	91.12	WP_013363498.1	73.97	WP_162467520.1	yes	yes	121080	no	OK
+Bifidobacterium bifidum	GCF_000165905.1	90.72	WP_013389951.1	74.22	WP_164930394.1	yes	yes	182179	no	OK
+Bifidobacterium bifidum	GCF_000265095.1	91.24	WP_014760243.1	74.16	WP_014760169.1	yes	yes	138781	no	OK
+Bifidobacterium bifidum	GCF_000273525.1	91.49	WP_003813268.1	74.36	WP_003812931.1	yes	yes	180439	no	OK
+Bifidobacterium bifidum	GCF_000299595.1	90.6	WP_003817492.1	74.24	WP_162130934.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_000300215.1	91.49	WP_003813268.1	68.47	WP_269770996.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_000466525.1	91.38	WP_021648407.1	74.36	WP_161788270.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_000741085.1	91.38	WP_021648407.1	74.36	WP_161788270.1	yes	yes	168327	no	OK
+Bifidobacterium bifidum	GCF_000771485.1	91.38	WP_021648407.1	74.36	WP_161788270.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_001020245.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	yes	134550	no	OK
+Bifidobacterium bifidum	GCF_001020255.1	90.41	WP_047285916.1	74.34	WP_192829044.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_001020265.1	91.22	WP_022173794.1	74.64	WP_192829178.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_001020275.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_001020325.1	91.49	WP_003813268.1	74.22	WP_164930394.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_001020335.1	90.41	WP_047285916.1	74.17	WP_192575675.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_001020355.1	90.41	WP_047285916.1	74.16	WP_192829253.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_001020375.1	90.72	WP_013389951.1	74.22	WP_164930394.1	yes	yes	182185	no	OK
+Bifidobacterium bifidum	GCF_001020405.1	91.49	WP_003813268.1	74.22	WP_164930394.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_001020415.1	90.6	WP_003817492.1	74.24	WP_162130934.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_001025135.1	91.38	WP_021648407.1	74.36	WP_161788270.1	yes	yes	168323	no	OK
+Bifidobacterium bifidum	GCF_001281345.1	91.22	WP_022173794.1	74.33	WP_172673007.1	yes	yes	136763	no	OK
+Bifidobacterium bifidum	GCF_001405355.1	90.85	WP_057081281.1	74.32	WP_172674986.1	yes	yes	121091	no	OK
+Bifidobacterium bifidum	GCF_001546225.1	91.49	WP_003813268.1	74.58	WP_195272815.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_001595435.1	90.41	WP_047285916.1	74.22	WP_164930394.1	yes	yes	130203	no	OK
+Bifidobacterium bifidum	GCF_001685685.1	90.72	WP_013389951.1	74.21	WP_171842344.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_002076105.1	91.22	WP_022173794.1	74.27	WP_179133036.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_002114145.1	90.41	WP_047285916.1	74.22	WP_164930394.1	yes	yes	130201	no	OK
+Bifidobacterium bifidum	GCF_002845845.1	91.22	WP_022173794.1	74.11	WP_198554594.1	yes	yes	139689	no	OK
+Bifidobacterium bifidum	GCF_003094645.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_003094715.1	90.41	WP_047285916.1	74.17	WP_192575675.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_003094735.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_003094755.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_003094795.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_003095035.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_003390735.1	91.43	WP_115955183.1	74.21	WP_162864422.1	yes	yes	141217	no	OK
+Bifidobacterium bifidum	GCF_003436135.1	91.22	WP_022173794.1	74.4	WP_181971811.1	yes	yes	139031	no	OK
+Bifidobacterium bifidum	GCF_003436575.1	91.02	WP_117658144.1	74.05	WP_181972996.1	yes	yes	136202	no	OK
+Bifidobacterium bifidum	GCF_003436635.1	90.85	WP_057081281.1	74.59	WP_181972117.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_003436655.1	90.85	WP_057081281.1	74.59	WP_181972117.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_003437175.1	90.41	WP_047285916.1	74.63	WP_181973655.1	yes	yes	132597	no	OK
+Bifidobacterium bifidum	GCF_003437325.1	91.49	WP_003813268.1	74.59	WP_181972117.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_003437345.1	91.49	WP_003813268.1	74.59	WP_181972117.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_003437785.1	91.22	WP_022173794.1	74.4	WP_181971811.1	yes	yes	139514	no	OK
+Bifidobacterium bifidum	GCF_003437945.1	90.85	WP_057081281.1	74.59	WP_181972117.1	yes	yes	134398	no	OK
+Bifidobacterium bifidum	GCF_003465425.1	90.85	WP_057081281.1	74.59	WP_181972117.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_003466365.1	90.85	WP_057081281.1	74.59	WP_181972117.1	yes	yes	134178	no	OK
+Bifidobacterium bifidum	GCF_003466395.1	90.85	WP_057081281.1	74.59	WP_181972117.1	yes	yes	134178	no	OK
+Bifidobacterium bifidum	GCF_003466485.1	91.22	WP_022173794.1	74.4	WP_181971811.1	yes	yes	139497	no	OK
+Bifidobacterium bifidum	GCF_003467985.1	90.85	WP_057081281.1	74.22	WP_164930394.1	yes	yes	136891	no	OK
+Bifidobacterium bifidum	GCF_003468415.1	90.85	WP_057081281.1	74.4	WP_181971811.1	yes	yes	138946	no	OK
+Bifidobacterium bifidum	GCF_003470585.1	91.49	WP_003813268.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_003470615.1	91.49	WP_003813268.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_003471555.1	91.49	WP_003813268.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_003471595.1	91.49	WP_003813268.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_003472345.1	90.85	WP_057081281.1	74.59	WP_181972117.1	yes	yes	180352	no	OK
+Bifidobacterium bifidum	GCF_003473145.1	90.85	WP_057081281.1	74.59	WP_181972117.1	yes	yes	180325	no	OK
+Bifidobacterium bifidum	GCF_003573895.1	90.41	WP_047285916.1	74.57	WP_172581681.1	yes	yes	142518	no	OK
+Bifidobacterium bifidum	GCF_003790385.1	90.41	WP_047285916.1	74.22	WP_164930394.1	yes	yes	130201	no	OK
+Bifidobacterium bifidum	GCF_004167365.1	90.41	WP_047285916.1	74.3	WP_192914110.1	yes	yes	162129	no	OK
+Bifidobacterium bifidum	GCF_004799295.1	90.41	WP_047285916.1	74.22	WP_164930394.1	yes	yes	130203	no	OK
+Bifidobacterium bifidum	GCF_005844205.1	91.22	WP_022173794.1	74.22	WP_164930394.1	yes	yes	120910	no	OK
+Bifidobacterium bifidum	GCF_005844365.1	91.49	WP_003813268.1	74.24	WP_171023614.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_008868415.1	90.41	WP_047285916.1	74.17	WP_192575675.1	yes	yes	115554	no	OK
+Bifidobacterium bifidum	GCF_009075765.1	90.41	WP_047285916.1	74.3	WP_192914110.1	yes	yes	162128	no	OK
+Bifidobacterium bifidum	GCF_009075785.1	90.41	WP_047285916.1	74.3	WP_192914110.1	yes	yes	162128	no	OK
+Bifidobacterium bifidum	GCF_009077915.1	90.41	WP_047285916.1	74.3	WP_192914110.1	yes	yes	162129	no	OK
+Bifidobacterium bifidum	GCF_009077955.1	90.41	WP_047285916.1	74.3	WP_192914110.1	yes	yes	162127	no	OK
+Bifidobacterium bifidum	GCF_009077975.1	90.41	WP_047285916.1	74.3	WP_192914110.1	yes	yes	162130	no	OK
+Bifidobacterium bifidum	GCF_009078005.1	90.41	WP_047285916.1	74.3	WP_192914110.1	yes	yes	162204	no	OK
+Bifidobacterium bifidum	GCF_009078015.1	90.41	WP_047285916.1	74.3	WP_192914110.1	yes	yes	162127	no	OK
+Bifidobacterium bifidum	GCF_009078055.1	91.49	WP_003813268.1	74.28	WP_192915746.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_009078065.1	90.41	WP_047285916.1	74.3	WP_192914110.1	yes	yes	162128	no	OK
+Bifidobacterium bifidum	GCF_009078095.1	90.41	WP_047285916.1	74.3	WP_192914110.1	yes	yes	162227	no	OK
+Bifidobacterium bifidum	GCF_009078115.1	91.49	WP_003813268.1	74.28	WP_192915746.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_009159095.1	91.49	WP_003813268.1	74.28	WP_192915746.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_009159495.1	91.49	WP_003813268.1	74.28	WP_192915746.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_009159505.1	91.49	WP_003813268.1	74.28	WP_192915746.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_009159555.1	91.49	WP_003813268.1	74.28	WP_192915746.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_009160775.1	91.49	WP_003813268.1	74.28	WP_192915746.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_009160825.1	91.49	WP_003813268.1	74.28	WP_192915746.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_009160845.1	91.49	WP_003813268.1	74.28	WP_192915746.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_009160865.1	61.64	WP_152029888.1	53.08	WP_152029762.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_009160885.1	91.49	WP_003813268.1	74.28	WP_192915746.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_009160905.1	91.49	WP_003813268.1	74.28	WP_192915746.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_009160915.1	91.49	WP_003813268.1	74.28	WP_192915746.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_009160945.1	91.49	WP_003813268.1	74.28	WP_192915746.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_011029205.1	91.49	WP_003813268.1	74.22	WP_163113136.1	yes	yes	120902	no	OK
+Bifidobacterium bifidum	GCF_013867495.1	91.38	WP_021648407.1	74.36	WP_161788270.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_015549125.1	91.22	WP_022173794.1	74.3	WP_192914110.1	yes	yes	120732	no	OK
+Bifidobacterium bifidum	GCF_015549425.1	91.49	WP_003813268.1	74.17	WP_192575675.1	yes	yes	117350	no	OK
+Bifidobacterium bifidum	GCF_015549755.1	91.02	WP_117658144.1	74.58	WP_195272815.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_015551545.1	91.22	WP_022173794.1	74.32	WP_172674986.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_015555005.1	91.22	WP_022173794.1	74.22	WP_164930394.1	yes	yes	120912	no	OK
+Bifidobacterium bifidum	GCF_015667195.1	91.49	WP_003813268.1	74.24	WP_171023614.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_015667555.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_016069985.1	90.41	WP_047285916.1	74.22	WP_164930394.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_016070035.1	90.41	WP_047285916.1	74.22	WP_164930394.1	yes	yes	130202	no	OK
+Bifidobacterium bifidum	GCF_016307165.1	91.38	WP_021648407.1	74.36	WP_161788270.1	yes	yes	168323	no	OK
+Bifidobacterium bifidum	GCF_016838705.1	91.24	WP_014760243.1	74.16	WP_014760169.1	yes	yes	138779	no	OK
+Bifidobacterium bifidum	GCF_017814645.1	91.38	WP_021648407.1	74.36	WP_161788270.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_017894325.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	yes	131109	no	OK
+Bifidobacterium bifidum	GCF_019041375.1	90.55	WP_217050182.1	74.01	WP_217049847.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_019041835.1	90.55	WP_217050182.1	74.01	WP_217049847.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_019734315.1	90.85	WP_057081281.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_020710245.1	90.41	WP_047285916.1	74.22	WP_164930394.1	yes	yes	130203	no	OK
+Bifidobacterium bifidum	GCF_020861855.1	90.41	WP_047285916.1	74.22	WP_164930394.1	yes	yes	130203	no	OK
+Bifidobacterium bifidum	GCF_020892075.1	91.49	WP_003813268.1	74.22	WP_164930394.1	yes	yes	120778	no	OK
+Bifidobacterium bifidum	GCF_020908005.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_022014355.1	90.41	WP_047285916.1	74.22	WP_164930394.1	yes	yes	130204	no	OK
+Bifidobacterium bifidum	GCF_022133625.1	91.22	WP_022173794.1	74.22	WP_164930394.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_022134905.2	91.22	WP_022173794.1	74.22	WP_164930394.1	yes	yes	107507	no	OK
+Bifidobacterium bifidum	GCF_024341745.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_025506295.1	90.91	WP_262753259.1	74.58	WP_195272815.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_026076095.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	yes	133952	no	OK
+Bifidobacterium bifidum	GCF_026162505.1	91.02	WP_117658144.1	74.12	WP_265454508.1	yes	yes	152744	no	OK
+Bifidobacterium bifidum	GCF_027215325.1	91.22	WP_022173794.1	74.22	WP_164930394.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_027215545.1	91.22	WP_022173794.1	74.22	WP_164930394.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_027662535.1	91.49	WP_003813268.1	74.59	WP_181972117.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_027662655.1	90.66	WP_270268147.1	74.22	WP_164930394.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_027667785.1	91.49	WP_003813268.1	74.59	WP_181972117.1	yes	yes	120719	no	OK
+Bifidobacterium bifidum	GCF_027669765.1	90.85	WP_057081281.1	74.22	WP_164930394.1	yes	yes	136769	no	OK
+Bifidobacterium bifidum	GCF_027671935.1	91.49	WP_003813268.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_027671985.1	91.49	WP_003813268.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_027683825.1	90.85	WP_057081281.1	74.59	WP_181972117.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_027683875.1	90.85	WP_057081281.1	74.59	WP_181972117.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_027685785.1	90.85	WP_057081281.1	74.59	WP_181972117.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_027687815.1	91.49	WP_003813268.1	74.59	WP_181972117.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_027687915.1	90.85	WP_057081281.1	74.28	WP_270539036.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_027689545.1	91.22	WP_022173794.1	74.19	WP_270548327.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_027689885.1	90.85	WP_057081281.1	74.59	WP_181972117.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_027690095.1	90.66	WP_270268147.1	74.28	WP_270549306.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_027690835.1	90.85	WP_057081281.1	74.59	WP_181972117.1	yes	yes	134273	no	OK
+Bifidobacterium bifidum	GCF_027691485.1	91.49	WP_003813268.1	74.26	WP_182298092.1	yes	yes	179053	no	OK
+Bifidobacterium bifidum	GCF_027691805.1	90.66	WP_270268147.1	74.28	WP_270549306.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_027693395.1	90.85	WP_057081281.1	74.59	WP_181972117.1	yes	yes	134647	no	OK
+Bifidobacterium bifidum	GCF_027693645.1	90.85	WP_057081281.1	74.59	WP_181972117.1	yes	yes	134647	no	OK
+Bifidobacterium bifidum	GCF_027724105.1	91.49	WP_003813268.1	74.59	WP_181972117.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_028201895.1	91.22	WP_022173794.1	74.3	WP_192914110.1	yes	yes	120554	no	OK
+Bifidobacterium bifidum	GCF_028201935.1	91.22	WP_022173794.1	74.22	WP_271717374.1	yes	yes	134861	no	OK
+Bifidobacterium bifidum	GCF_028201955.1	91.22	WP_022173794.1	74.3	WP_192914110.1	yes	yes	120558	no	OK
+Bifidobacterium bifidum	GCF_028201965.1	90.97	WP_271723318.1	74.22	WP_164930394.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_028202015.1	91.02	WP_117658144.1	74.58	WP_195272815.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_028202035.1	91.22	WP_022173794.1	74.3	WP_192914110.1	yes	yes	120554	no	OK
+Bifidobacterium bifidum	GCF_028202055.1	91.22	WP_022173794.1	74.32	WP_172674986.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_028202075.1	91.22	WP_022173794.1	74.32	WP_172674986.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_028202095.1	91.22	WP_022173794.1	74.32	WP_172674986.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_028202115.1	91.22	WP_022173794.1	74.22	WP_164930394.1	yes	yes	120910	no	OK
+Bifidobacterium bifidum	GCF_028202125.1	91.22	WP_022173794.1	74.3	WP_192914110.1	yes	yes	120733	no	OK
+Bifidobacterium bifidum	GCF_028202155.1	91.22	WP_022173794.1	74.3	WP_192914110.1	yes	yes	120732	no	OK
+Bifidobacterium bifidum	GCF_028202165.1	91.22	WP_022173794.1	74.3	WP_192914110.1	yes	yes	120718	no	OK
+Bifidobacterium bifidum	GCF_028202185.1	91.22	WP_022173794.1	74.22	WP_164930394.1	yes	yes	120913	no	OK
+Bifidobacterium bifidum	GCF_028202215.1	91.22	WP_022173794.1	74.3	WP_192914110.1	yes	yes	120733	no	OK
+Bifidobacterium bifidum	GCF_028202225.1	91.22	WP_022173794.1	74.22	WP_271717374.1	yes	yes	134800	no	OK
+Bifidobacterium bifidum	GCF_028202255.1	91.22	WP_022173794.1	74.22	WP_271717374.1	yes	yes	134803	no	OK
+Bifidobacterium bifidum	GCF_028202265.1	91.22	WP_022173794.1	74.22	WP_271717374.1	yes	yes	134801	no	OK
+Bifidobacterium bifidum	GCF_028202295.1	91.22	WP_022173794.1	74.3	WP_192914110.1	yes	yes	120731	no	OK
+Bifidobacterium bifidum	GCF_028202305.1	91.22	WP_022173794.1	74.22	WP_271717374.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_028202335.1	91.22	WP_022173794.1	74.3	WP_192914110.1	yes	yes	120731	no	OK
+Bifidobacterium bifidum	GCF_028202355.1	91.22	WP_022173794.1	74.3	WP_192914110.1	yes	yes	120731	no	OK
+Bifidobacterium bifidum	GCF_028202365.1	91.22	WP_022173794.1	74.3	WP_192914110.1	yes	yes	120734	no	OK
+Bifidobacterium bifidum	GCF_028202395.1	91.22	WP_022173794.1	74.3	WP_192914110.1	yes	yes	120551	no	OK
+Bifidobacterium bifidum	GCF_028202415.1	91.22	WP_022173794.1	74.3	WP_192914110.1	yes	yes	120551	no	OK
+Bifidobacterium bifidum	GCF_028202425.1	91.22	WP_022173794.1	74.22	WP_164930394.1	yes	yes	120733	no	OK
+Bifidobacterium bifidum	GCF_028202435.1	91.22	WP_022173794.1	74.22	WP_164930394.1	yes	yes	120735	no	OK
+Bifidobacterium bifidum	GCF_028202455.1	91.22	WP_022173794.1	74.22	WP_164930394.1	yes	yes	120734	no	OK
+Bifidobacterium bifidum	GCF_028202495.1	91.49	WP_003813268.1	74.17	WP_192575675.1	yes	yes	117351	no	OK
+Bifidobacterium bifidum	GCF_028202515.1	91.22	WP_022173794.1	74.22	WP_164930394.1	yes	yes	120735	no	OK
+Bifidobacterium bifidum	GCF_028202535.1	91.22	WP_022173794.1	74.22	WP_164930394.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_028202555.1	91.22	WP_022173794.1	74.3	WP_192914110.1	yes	yes	120557	no	OK
+Bifidobacterium bifidum	GCF_028202575.1	91.22	WP_022173794.1	74.3	WP_192914110.1	yes	yes	120733	no	OK
+Bifidobacterium bifidum	GCF_028202595.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_028202605.1	91.22	WP_022173794.1	74.3	WP_192914110.1	yes	yes	120731	no	OK
+Bifidobacterium bifidum	GCF_028202615.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_028202675.1	91.49	WP_003813268.1	74.24	WP_171023614.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_028202715.1	91.49	WP_003813268.1	74.24	WP_171023614.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_028202725.1	91.22	WP_022173794.1	74.3	WP_192914110.1	yes	yes	120732	no	OK
+Bifidobacterium bifidum	GCF_028202735.1	91.49	WP_003813268.1	74.24	WP_171023614.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_028202785.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_028202815.1	91.49	WP_003813268.1	74.24	WP_171023614.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_028202835.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_028202855.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_028203495.1	91.22	WP_022173794.1	74.26	WP_271719127.1	yes	yes	138947	no	OK
+Bifidobacterium bifidum	GCF_028203515.1	91.22	WP_022173794.1	74.22	WP_164930394.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_028203535.1	91.22	WP_022173794.1	74.21	WP_162864422.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_028203545.1	91.22	WP_022173794.1	74.22	WP_164930394.1	yes	yes	120735	no	OK
+Bifidobacterium bifidum	GCF_028203575.1	91.49	WP_003813268.1	74.17	WP_192575675.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_028203615.1	91.22	WP_022173794.1	74.3	WP_192914110.1	yes	yes	120555	no	OK
+Bifidobacterium bifidum	GCF_028203625.1	91.49	WP_003813268.1	74.17	WP_192575675.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_028203645.1	27.39	-	74.22	WP_164930394.1	no				OK
+Bifidobacterium bifidum	GCF_028203675.1	91.22	WP_022173794.1	74.3	WP_192914110.1	yes	yes	120552	no	OK
+Bifidobacterium bifidum	GCF_028203695.1	91.22	WP_022173794.1	74.3	WP_192914110.1	yes	yes	120551	no	OK
+Bifidobacterium bifidum	GCF_028203705.1	91.22	WP_022173794.1	74.3	WP_192914110.1	yes	yes	120554	no	OK
+Bifidobacterium bifidum	GCF_028203735.1	91.22	WP_022173794.1	74.3	WP_192914110.1	yes	yes	120556	no	OK
+Bifidobacterium bifidum	GCF_028203745.1	91.22	WP_022173794.1	74.3	WP_192914110.1	yes	yes	120553	no	OK
+Bifidobacterium bifidum	GCF_028203775.1	91.22	WP_022173794.1	74.3	WP_192914110.1	yes	yes	120556	no	OK
+Bifidobacterium bifidum	GCF_028203795.1	91.22	WP_022173794.1	74.3	WP_192914110.1	yes	yes	120554	no	OK
+Bifidobacterium bifidum	GCF_028203815.1	91.22	WP_022173794.1	74.3	WP_192914110.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_028203835.1	90.72	WP_271721381.1	74.22	WP_164930394.1	yes	yes	175255	no	OK
+Bifidobacterium bifidum	GCF_028203855.1	90.72	WP_271721381.1	74.22	WP_164930394.1	yes	yes	175157	no	OK
+Bifidobacterium bifidum	GCF_028203875.1	91.22	WP_022173794.1	74.3	WP_192914110.1	yes	yes	120557	no	OK
+Bifidobacterium bifidum	GCF_028203895.1	91.22	WP_022173794.1	74.3	WP_192914110.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_028368265.1	91.22	WP_022173794.1	74.26	WP_271719127.1	yes	yes	138945	no	OK
+Bifidobacterium bifidum	GCF_029011515.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	yes	137124	no	OK
+Bifidobacterium bifidum	GCF_029723375.1	90.6	WP_003817492.1	74.24	WP_162130934.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_029723435.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_029723555.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_029723565.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_029723575.1	90.6	WP_003817492.1	74.24	WP_162130934.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_029723595.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_029723675.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_029723695.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_030218415.1	91.22	WP_022173794.1	74.22	WP_164930394.1	yes	yes	172506	no	OK
+Bifidobacterium bifidum	GCF_033959405.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_034427835.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_039031575.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_039031595.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_039031615.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_039063425.1	91.49	WP_003813268.1	74.22	WP_163113136.1	yes	yes	120707	no	OK
+Bifidobacterium bifidum	GCF_039063545.1	91.49	WP_003813268.1	74.22	WP_163113136.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_039612605.1	91.49	WP_003813268.1	74.04	WP_345755060.1	yes	yes	119142	no	OK
+Bifidobacterium bifidum	GCF_039733705.1	91.49	WP_003813268.1	74.21	WP_171842344.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_039733725.1	91.49	WP_003813268.1	74.21	WP_171842344.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_039734165.1	90.97	WP_271723318.1	74.22	WP_164930394.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_039754375.1	91.49	WP_003813268.1	74.21	WP_171842344.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_039754415.1	91.49	WP_003813268.1	74.21	WP_171842344.1	yes	yes	132680	no	OK
+Bifidobacterium bifidum	GCF_039754475.1	91.49	WP_003813268.1	74.21	WP_171842344.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_039754555.1	91.49	WP_003813268.1	74.21	WP_171842344.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_039759635.1	90.97	WP_271723318.1	74.22	WP_164930394.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_039759655.1	91.02	WP_117658144.1	68.87	WP_347010422.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_039759675.1	90.61	WP_347020121.1	74.24	WP_171023614.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_039759695.1	91.49	WP_003813268.1	74.24	WP_171023614.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_039912995.1	91.24	WP_014760243.1	74.63	WP_181973655.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_039913015.1	90.62	WP_347889788.1	74.36	WP_161788270.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_039913035.1	90.62	WP_347889788.1	74.36	WP_161788270.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_039913055.1	91.24	WP_014760243.1	74.63	WP_181973655.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_039913075.1	91.24	WP_014760243.1	74.63	WP_181973655.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_039913095.1	91.24	WP_014760243.1	47.99	-	no				OK
+Bifidobacterium bifidum	GCF_039913115.1	91.22	WP_022173794.1	74.66	WP_347914653.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_039913135.1	91.22	WP_022173794.1	74.21	WP_162864422.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_039913155.1	91.22	WP_022173794.1	74.22	WP_164930394.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_039913175.1	91.22	WP_022173794.1	74.66	WP_347914653.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_039913195.1	91.49	WP_003813268.1	74.17	WP_192575675.1	yes	yes	117350	no	OK
+Bifidobacterium bifidum	GCF_039913215.1	91.49	WP_003813268.1	74.17	WP_192575675.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_039913235.1	91.22	WP_022173794.1	74.22	WP_164930394.1	yes	yes	120733	no	OK
+Bifidobacterium bifidum	GCF_039913255.1	91.49	WP_003813268.1	74.17	WP_192575675.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_039913275.1	91.49	WP_003813268.1	74.17	WP_192575675.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_039913295.1	91.49	WP_003813268.1	74.17	WP_192575675.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_039913315.1	91.49	WP_003813268.1	74.17	WP_192575675.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_039913335.1	91.49	WP_003813268.1	74.17	WP_192575675.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_039913355.1	90.97	WP_271723318.1	74.22	WP_164930394.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_039913365.1	91.22	WP_022173794.1	74.3	WP_192914110.1	yes	yes	120554	no	OK
+Bifidobacterium bifidum	GCF_039913395.1	91.22	WP_022173794.1	74.22	WP_271717374.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_040094955.1	91.49	WP_003813268.1	74.22	WP_164930394.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_040150955.1	91.63	WP_349574651.1	74.23	WP_349574355.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_040227515.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_040227535.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_040227545.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_040227575.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_040911385.1	91.49	WP_003813268.1	74.66	WP_347914653.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_040911405.1	91.49	WP_003813268.1	74.66	WP_347914653.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_040911425.1	91.24	WP_014760243.1	74.21	WP_162864422.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_040911445.1	91.24	WP_014760243.1	74.21	WP_162864422.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_040911525.1	91.24	WP_014760243.1	74.21	WP_162864422.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_040917345.1	91.24	WP_014760243.1	74.63	WP_181973655.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_040917365.1	91.24	WP_014760243.1	74.63	WP_181973655.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_040917385.1	91.24	WP_014760243.1	74.3	WP_368090818.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_040917405.1	55.45	WP_497750411.1	74.22	WP_164930394.1	yes	yes	132429	no	OK
+Bifidobacterium bifidum	GCF_040917425.1	91.49	WP_003813268.1	74.22	WP_164930394.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_040917445.1	90.41	WP_047285916.1	74.14	WP_368088543.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_040917465.1	90.41	WP_047285916.1	74.14	WP_368088543.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_040917485.1	90.41	WP_047285916.1	74.14	WP_368088543.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_040921645.1	91.22	WP_022173794.1	74.22	WP_164930394.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_040921665.1	91.22	WP_022173794.1	74.22	WP_164930394.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_040921685.1	91.22	WP_022173794.1	74.22	WP_164930394.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_040921705.1	91.22	WP_022173794.1	74.22	WP_164930394.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_040927345.1	91.49	WP_003813268.1	74.17	WP_192575675.1	yes	yes	136978	no	OK
+Bifidobacterium bifidum	GCF_040927365.1	91.49	WP_003813268.1	74.17	WP_192575675.1	yes	yes	136978	no	OK
+Bifidobacterium bifidum	GCF_040927385.1	91.49	WP_003813268.1	74.17	WP_192575675.1	yes	yes	136978	no	OK
+Bifidobacterium bifidum	GCF_040927405.1	90.41	WP_047285916.1	74.4	WP_368087966.1	yes	yes	138895	no	OK
+Bifidobacterium bifidum	GCF_040927425.1	90.41	WP_047285916.1	74.4	WP_368087966.1	yes	yes	138895	no	OK
+Bifidobacterium bifidum	GCF_040927445.1	90.41	WP_047285916.1	74.4	WP_368087966.1	yes	yes	138895	no	OK
+Bifidobacterium bifidum	GCF_040927465.1	91.49	WP_003813268.1	74.22	WP_163113136.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_040927475.1	91.49	WP_003813268.1	74.22	WP_163113136.1	yes	yes	160861	no	OK
+Bifidobacterium bifidum	GCF_040927505.1	91.49	WP_003813268.1	74.22	WP_163113136.1	yes	yes	160760	no	OK
+Bifidobacterium bifidum	GCF_040927525.1	91.49	WP_003813268.1	74.22	WP_163113136.1	yes	yes	160760	no	OK
+Bifidobacterium bifidum	GCF_040927545.1	91.49	WP_003813268.1	74.22	WP_163113136.1	yes	yes	160759	no	OK
+Bifidobacterium bifidum	GCF_040927565.1	91.22	WP_022173794.1	74.22	WP_164930394.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_040927585.1	91.22	WP_022173794.1	74.22	WP_164930394.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_040927605.1	91.22	WP_022173794.1	74.22	WP_164930394.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_040927625.1	91.22	WP_022173794.1	74.22	WP_164930394.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_040927645.1	91.22	WP_022173794.1	74.22	WP_164930394.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_040927665.1	91.49	WP_003813268.1	74.22	WP_164930394.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_040927685.1	91.49	WP_003813268.1	74.22	WP_164930394.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_042848835.1	90.72	WP_271721381.1	74.34	WP_192829044.1	yes	yes	176368	no	OK
+Bifidobacterium bifidum	GCF_045273085.1	91.12	WP_013363498.1	73.97	WP_162467520.1	yes	yes	121010	no	OK
+Bifidobacterium bifidum	GCF_045290295.1	90.66	WP_270268147.1	74.28	WP_270539036.1	yes	yes	158000	no	OK
+Bifidobacterium bifidum	GCF_045635495.1	91.49	WP_003813268.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_046763285.1	91.22	WP_022173794.1	74.22	WP_164930394.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_048553655.1	91.22	WP_022173794.1	74.36	WP_161788270.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_049191345.1	90.41	WP_047285916.1	74.65	WP_421389687.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_049191915.1	91.02	WP_117658144.1	74.22	WP_164930394.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_049191965.1	90.41	WP_047285916.1	74.22	WP_164930394.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_049192055.1	90.41	WP_047285916.1	74.17	WP_192575675.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_049192085.1	90.41	WP_047285916.1	74.17	WP_192575675.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_049192095.1	91.22	WP_022173794.1	74.22	WP_288176587.1	yes	yes	176135	no	OK
+Bifidobacterium bifidum	GCF_049204775.1	91.22	WP_022173794.1	74.22	WP_164930394.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_049205235.1	90.41	WP_047285916.1	74.65	WP_421389687.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_050285745.1	90.85	WP_057081281.1	74.3	WP_427357430.1	yes	yes	191263	no	OK
+Bifidobacterium bifidum	GCF_050285785.1	91.22	WP_022173794.1	74.21	WP_187324075.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_050308165.1	90.85	WP_057081281.1	74.26	WP_182298092.1	yes	yes	182802	no	OK
+Bifidobacterium bifidum	GCF_051063355.1	90.41	WP_047285916.1	74.22	WP_164930394.1	yes	yes	138761	no	OK
+Bifidobacterium bifidum	GCF_051063555.1	91.22	WP_022173794.1	74.33	WP_172673007.1	yes	yes	136766	no	OK
+Bifidobacterium bifidum	GCF_051063755.1	91.22	WP_022173794.1	74.22	WP_164930394.1	yes	yes	120810	no	OK
+Bifidobacterium bifidum	GCF_051063895.1	91.22	WP_022173794.1	74.33	WP_172673007.1	yes	yes	136762	no	OK
+Bifidobacterium bifidum	GCF_052368065.1	91.22	WP_022173794.1	74.22	WP_164930394.1	yes	yes	207571	no	OK
+Bifidobacterium bifidum	GCF_053253935.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_053253955.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_053254575.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_053254715.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_053254795.1	90.6	WP_003817492.1	74.24	WP_162130934.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_053254815.1	90.6	WP_003817492.1	74.24	WP_162130934.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_053254855.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_053254895.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_053254935.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_054903495.1	91.49	WP_003813268.1	74.22	WP_163113136.1	yes	yes	2118461	no	OK
+Bifidobacterium bifidum	GCF_055386965.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	yes	137120	no	OK
+Bifidobacterium bifidum	GCF_055657585.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_055790725.1	90.72	WP_013389951.1	74.22	WP_164930394.1	yes	yes	183132	no	OK
+Bifidobacterium bifidum	GCF_055790745.1	90.97	WP_309401348.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_055790765.1	90.41	WP_047285916.1	74.16	WP_192829253.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_055790785.1	90.97	WP_309401348.1	74.21	WP_162864422.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_055790805.1	90.41	WP_047285916.1	74.34	WP_192829044.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_055790825.1	90.72	WP_271721381.1	74.22	WP_164930394.1	yes	yes	175819	no	OK
+Bifidobacterium bifidum	GCF_056270445.1	90.6	WP_003817492.1	74.24	WP_162130934.1	yes	yes	175955	no	OK
+Bifidobacterium bifidum	GCF_056357315.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_056586895.1	91.49	WP_003813268.1	74.22	WP_164930394.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_056589055.1	91.22	WP_022173794.1	74.17	WP_192575675.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_056589075.1	91.22	WP_022173794.1	74.17	WP_192575675.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_056589095.1	91.22	WP_022173794.1	74.17	WP_192575675.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_056589115.1	91.22	WP_022173794.1	74.17	WP_192575675.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_056589135.1	91.22	WP_022173794.1	74.17	WP_192575675.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_056589235.1	91.22	WP_022173794.1	74.17	WP_192575675.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_056589255.1	91.22	WP_022173794.1	74.17	WP_192575675.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_056916095.1	90.72	WP_013389951.1	74.22	WP_164930394.1	yes	yes	183130	no	OK
+Bifidobacterium bifidum	GCF_056916215.1	90.41	WP_047285916.1	74.36	WP_483533718.1	yes	yes	120378	no	OK
+Bifidobacterium bifidum	GCF_056935115.1	90.89	WP_483534471.1	74.22	WP_164930394.1	yes	yes	160794	no	OK
+Bifidobacterium bifidum	GCF_057457605.1	90.72	WP_271721381.1	74.22	WP_164930394.1	yes	yes	176331	no	OK
+Bifidobacterium bifidum	GCF_057457655.1	90.41	WP_047285916.1	74.21	WP_162864422.1	yes	yes	233682	no	OK
+Bifidobacterium bifidum	GCF_059117885.1	91.38	WP_021648407.1	74.36	WP_161788270.1	yes	yes	168323	no	OK
+Bifidobacterium bifidum	GCF_060677345.1	91.49	WP_003813268.1	74.22	WP_163113136.1	yes	yes	2118461	no	OK
+Bifidobacterium bifidum	GCF_062003993.1	91.22	WP_022173794.1	74.26	WP_511941837.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_900112465.1	91.22	WP_022173794.1	74.22	WP_164930394.1	yes	yes	133045	no	OK
+Bifidobacterium bifidum	GCF_900637095.1	91.38	WP_021648407.1	74.36	WP_161788270.1	yes	yes	168322	no	OK
+Bifidobacterium bifidum	GCF_901212485.1	91.22	WP_022173794.1	74.21	WP_187324075.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_902386775.1	91.43	WP_115955183.1	74.21	WP_162864422.1	yes	yes	141217	no	OK
+Bifidobacterium bifidum	GCF_964239045.1	90.91	WP_262753259.1	74.21	WP_162864422.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_964248885.1	91.22	WP_022173794.1	74.26	WP_182298092.1	yes	no		no	OK
+Bifidobacterium bifidum	GCF_988227815.1	91.22	WP_022173794.1	74.4	WP_181971811.1	yes	yes	138949	no	OK
+Bifidobacterium bifidum	GCF_988227845.1	91.22	WP_022173794.1	74.4	WP_181971811.1	yes	yes	138949	no	OK
+Bifidobacterium bifidum	GCF_988236845.1	91.05	WP_508185833.1	74.41	WP_508186601.1	yes	yes	139717	no	OK
+Bifidobacterium bifidum	GCF_988236985.1	91.22	WP_022173794.1	74.28	WP_270539036.1	yes	yes	296704	no	OK
+Bifidobacterium bifidum	GCF_988237525.1	90.85	WP_057081281.1	74.28	WP_270539036.1	yes	yes	180857	no	OK
+Bifidobacterium bifidum	GCF_988237555.1	90.85	WP_057081281.1	74.28	WP_270539036.1	yes	yes	180857	no	OK
+Bifidobacterium bifidum	GCF_988237595.1	90.85	WP_057081281.1	74.28	WP_270539036.1	yes	yes	180857	no	OK
+Bifidobacterium breve	GCF_000158015.1	96.35	WP_003829343.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_000213865.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_000220135.1	95.94	WP_015438801.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_000226175.1	96.15	WP_019728124.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_000247755.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_000411435.1	96.59	WP_016463016.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_000466545.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_000568895.1	96.35	WP_003829343.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_000568955.2	96.35	WP_003829343.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_000568975.1	96.73	WP_025301241.1	82.54	WP_155266220.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_000569015.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_000569035.1	95.94	WP_015438801.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_000569055.1	96.68	WP_025332273.1	82.42	WP_155266343.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_000569075.1	96.68	WP_025332273.1	82.42	WP_155266343.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_000771305.1	96.35	WP_003829343.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_001025175.1	96.35	WP_003829343.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_001189355.1	96.14	WP_050824887.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_001263845.1	96.73	WP_025301241.1	82.54	WP_155266220.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_001263855.1	96.35	WP_003829343.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_001263915.1	97.24	WP_052789496.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_001263935.1	97.32	WP_025221685.1	82.49	WP_241487601.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_001264035.1	97.04	WP_052787979.1	82.53	WP_155466054.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_001264045.1	95.94	WP_015438801.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_001264095.1	96.25	WP_052829203.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_001264105.1	97.01	WP_052792455.1	82.6	WP_236717188.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_001264135.1	96.73	WP_025301241.1	82.54	WP_155266220.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_001264155.1	97.04	WP_052787979.1	82.53	WP_155466054.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_001281425.1	96.14	WP_050824887.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_001546235.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_001685705.1	97.32	WP_025221685.1	82.77	WP_236717473.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_001685725.1	95.88	WP_065458016.1	82.42	WP_106648775.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_001685745.1	97.32	WP_025221685.1	82.52	WP_236717599.1	yes	yes	966	yes	OK
+Bifidobacterium breve	GCF_001685765.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_001685785.1	96.68	WP_025332273.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_001685805.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_001685825.1	97.32	WP_025221685.1	82.64	WP_236715757.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_001685845.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_001685865.1	97.01	WP_052792455.1	82.6	WP_236717188.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_001685885.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_001685905.1	97.32	WP_025221685.1	82.64	WP_236715757.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_001685925.1	96.42	WP_065465391.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_001685945.1	96.76	WP_065454410.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_001990225.1	97.01	WP_052792455.1	82.46	WP_253702738.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002027265.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002075865.1	95.88	WP_065458016.1	82.42	WP_106648775.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002076055.1	96.14	WP_050824887.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002076075.1	96.41	WP_080868153.1	82.61	WP_256866098.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002271275.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002838225.1	96.2	WP_106628278.1	82.45	WP_106628280.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002838245.1	96.35	WP_003829343.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002838265.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002838285.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002838305.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002838325.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002838345.1	96.93	WP_106620817.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002838365.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002838385.1	95.94	WP_015438801.1	82.61	WP_232782112.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002838405.1	95.72	WP_106629917.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002838425.1	96.84	WP_106622290.1	82.38	WP_106630463.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002838445.1	97.24	WP_052789496.1	82.69	WP_232783396.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002838465.1	95.88	WP_065458016.1	82.42	WP_106648775.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002838485.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002838505.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002838525.1	96.88	WP_106630940.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002838545.1	96.84	WP_106622290.1	82.42	WP_106622291.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002838565.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002838585.1	96.35	WP_003829343.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002838605.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002838625.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002838645.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002838665.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002838685.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002838705.1	97.24	WP_052789496.1	82.69	WP_232783396.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002838725.1	96.35	WP_003829343.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002838745.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002861455.1	96.52	WP_101673940.1	82.41	WP_257964117.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002871815.1	96.52	WP_101673940.1	82.41	WP_257964117.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_002914865.1	96.15	WP_019728124.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_003095095.1	96.35	WP_003829343.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_003370105.1	96.92	WP_115767065.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_003370125.1	96.06	WP_021648998.1	59.94	WP_115790866.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_003370155.1	97.04	WP_052787979.1	70.1	WP_029575616.1	yes	yes	1292	yes	OK
+Bifidobacterium breve	GCF_003370175.1	96.68	WP_025332273.1	82.61	WP_232782112.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_003370195.1	96.59	WP_134859162.1	82.46	WP_003831845.1	yes	yes	946	yes	OK
+Bifidobacterium breve	GCF_003370265.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_003370295.1	97.24	WP_052789496.1	68.86	WP_181895537.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_003813065.1	96.35	WP_003829343.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_003860285.1	97.32	WP_025221685.1	82.56	WP_240625735.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_004319685.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_004802595.1	96.15	WP_019728124.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_006546585.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_008868405.1	96.35	WP_003829343.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_009429085.1	95.94	WP_015438801.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_009498435.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_009931415.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_013267755.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_014779815.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_015547895.1	96.68	WP_025332273.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_015554875.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_015667655.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_015668215.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_015670155.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_016648955.1	96.14	WP_050824887.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_016648985.1	96.14	WP_050824887.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_019052255.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_019125915.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_019125975.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_019126115.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_019126155.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_019126195.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_019126215.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_019126245.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_019126315.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_019126325.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_019126415.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_019126515.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_019126535.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_019126565.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_019126575.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_019126615.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_019126635.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_019126695.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_019126735.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_019126775.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_019126785.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_019126815.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_019126835.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_019126855.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_019126875.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_019126915.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_019126935.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_019126945.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_019126975.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_019126995.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_020538485.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_020538545.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_020538645.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_020538685.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_020538815.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_020538845.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_020539025.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_020539085.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_020539105.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_020539185.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_020733045.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_024665435.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_024760465.1	96.41	WP_080868153.1	82.6	WP_258900457.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_027212565.1	96.68	WP_025332273.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_027212575.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_027212595.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_027212705.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_027212715.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_027212815.1	96.68	WP_025332273.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_027212825.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_027214485.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_027214545.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_027214565.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_027214635.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_027214675.1	97.24	WP_052789496.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_027214765.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_027214825.1	97.24	WP_052789496.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_027214905.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_027214925.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_027214935.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_027214985.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_027215005.1	97.24	WP_052789496.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_027215075.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_027215095.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_027215105.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_027215185.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_027215265.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_027215305.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_027215315.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_027215465.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_027215475.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_027215525.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_027215655.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_027663845.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_027696885.1	97.01	WP_052792455.1	82.56	WP_240625735.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_028201755.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_028201765.1	96.15	WP_019728124.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_028201775.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_028201785.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_028201795.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_028201855.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_028201875.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_028201915.1	96.15	WP_019728124.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_028201995.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_028203305.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_028203385.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_028203415.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_028203435.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_028203455.1	96.85	WP_271721876.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_028203465.1	96.85	WP_271721876.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_028203585.1	95.9	WP_271723590.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_029011725.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_029340075.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_029723395.1	96.84	WP_106622290.1	82.42	WP_106622291.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_029723405.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_029723715.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_029723755.1	96.84	WP_106622290.1	82.42	WP_106622291.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_030216725.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_030216845.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_030216945.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_030219005.1	96.15	WP_019728124.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_030414125.1	96.97	WP_301004222.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_030441965.1	97.01	WP_052792455.1	82.57	WP_261981296.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_030876985.1	96.35	WP_003829343.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_033487235.1	97.32	WP_025221685.1	82.56	WP_240625735.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_033804505.1	97.01	WP_052792455.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_033804525.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_033804565.1	97.0	WP_319770679.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_035544755.1	97.32	WP_025221685.1	82.56	WP_240625735.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_036763915.1	97.01	WP_052792455.1	82.39	WP_333515502.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_036872545.1	97.04	WP_052787979.1	82.53	WP_155466054.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_037966795.1	96.88	WP_106630940.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_037966925.1	96.69	WP_340506454.1	82.53	WP_340504119.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_037967025.1	96.96	WP_340504118.1	82.53	WP_340504119.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_039759595.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_039759615.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_039912955.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_039912975.1	95.9	WP_271723590.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_040150815.1	97.0	WP_349550085.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_040150935.1	96.92	WP_349557073.1	82.53	WP_155466054.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_040151035.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_040367695.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_040834025.1	96.35	WP_003829343.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_040834035.1	27.81	-	82.69	WP_003829345.1	no				OK
+Bifidobacterium breve	GCF_040911365.1	77.92	WP_368089328.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_040921605.1	95.94	WP_015438801.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_043846205.1	97.01	WP_052792455.1	82.65	WP_394904902.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_045272295.1	96.35	WP_003829343.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_047301025.1	96.73	WP_025301241.1	82.54	WP_155266220.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_049191355.1	96.15	WP_019728124.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_049191365.1	96.15	WP_019728124.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_049191465.1	96.35	WP_003829343.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_049191505.1	96.41	WP_080868153.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_049204755.1	96.14	WP_050824887.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_049205255.1	96.14	WP_050824887.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_049205315.1	96.35	WP_003829343.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_050255655.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_050255675.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_050255695.1	97.24	WP_052789496.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_050255715.1	97.24	WP_052789496.1	82.69	WP_232783396.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_050255735.1	97.24	WP_052789496.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_050255765.1	97.24	WP_052789496.1	82.69	WP_427182997.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_050255785.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_050285685.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_050285725.1	97.24	WP_052789496.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_050846695.1	96.41	WP_080868153.1	82.61	WP_232782112.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_051011855.1	96.35	WP_003829343.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_051063395.1	97.32	WP_025221685.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_051063435.1	96.14	WP_050824887.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_051063535.1	97.24	WP_052789496.1	82.42	WP_106622291.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_051063615.1	96.92	WP_115767065.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_051063835.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_051063875.1	96.14	WP_050824887.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_051624805.1	97.24	WP_052789496.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_052416495.1	96.14	WP_050824887.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_053254295.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_053255175.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_053255455.1	96.84	WP_106622290.1	82.42	WP_106622291.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_053255555.1	96.84	WP_106622290.1	82.42	WP_106622291.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_053708875.1	97.01	WP_052792455.1	82.52	WP_236717599.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_053709055.1	96.35	WP_003829343.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_054072875.1	96.35	WP_003829343.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_054075105.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_055452635.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_055452655.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_055635535.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_056269625.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_056355935.1	97.04	WP_052787979.1	82.53	WP_155466054.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_056357275.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_056584355.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_056584455.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_056585835.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_056586595.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_056586615.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_056586635.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_056586655.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_056586695.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_056586795.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_056586815.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_056586835.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_056586855.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_056587275.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_056587295.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_056587315.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_056587475.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_056587495.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_056587515.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_056587535.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_056587575.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_056587615.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_056587655.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_056587675.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_056587685.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_056587715.1	96.06	WP_021648998.1	82.48	WP_021649000.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_056588515.1	96.54	WP_479853239.1	82.52	WP_236717599.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_056588535.1	96.54	WP_479853239.1	82.52	WP_236717599.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_056588555.1	96.54	WP_479853239.1	82.52	WP_236717599.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_056588575.1	96.54	WP_479853239.1	82.52	WP_236717599.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_056588595.1	96.54	WP_479853239.1	82.52	WP_236717599.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_057333795.1	97.24	WP_052789496.1	82.61	WP_232782112.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_057811995.1	96.15	WP_488808853.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_058244605.1	96.35	WP_003829343.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_060345195.1	97.01	WP_052792455.1	82.57	WP_261981296.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_060677105.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_060710495.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_060710525.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_060710955.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_060710965.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_060711415.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_060711425.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_060711855.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_060711865.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_060712255.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_900102865.1	97.24	WP_052789496.1	82.42	WP_106622291.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_900157105.1	96.56	WP_077320942.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_900157125.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_900637145.1	96.35	WP_003829343.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_901212525.1	97.0	WP_154035807.1	82.57	WP_261981296.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_901980275.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_902167575.1	96.68	WP_025332273.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_902167875.1	97.24	WP_052789496.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_902167895.1	97.24	WP_052789496.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_902387425.1	95.94	WP_015438801.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_902505445.1	97.07	WP_174768061.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_902505485.1	97.07	WP_174768061.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_902651995.1	97.01	WP_052792455.1	82.52	WP_236717599.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_925281835.1	96.35	WP_003829343.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_925285005.1	96.73	WP_025301241.1	82.54	WP_155266220.1	yes	yes	966	yes	OK
+Bifidobacterium breve	GCF_925318455.1	96.21	WP_003831847.1	82.46	WP_003831845.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_964239905.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_964240125.1	97.32	WP_025221685.1	82.69	WP_003829345.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_988237775.1	97.01	WP_052792455.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_988237875.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_988238135.1	97.32	WP_025221685.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_988238895.1	97.01	WP_052792455.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium breve	GCF_988239335.1	97.01	WP_052792455.1	82.62	WP_226790568.1	yes	yes	967	yes	OK
+Bifidobacterium longum	GCF_000003135.1	98.38	WP_032746975.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000007525.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000008945.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000020425.1	100.0	WP_014484799.1	100.0	WP_161786183.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000092325.1	98.91	WP_013140782.1	91.53	WP_013140780.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000155415.1	98.36	WP_007052786.1	91.22	WP_165500258.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_000166315.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000166895.2	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000185665.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000196555.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000196575.1	97.97	WP_015713648.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000210755.1	98.41	WP_007058449.1	91.19	WP_015512212.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000219455.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000261205.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000261225.1	67.32	WP_007056701.1	91.19	WP_012471857.1	yes	no		no	OK
+Bifidobacterium longum	GCF_000261245.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000261265.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000269965.1	100.0	WP_014484799.1	100.0	WP_161786183.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000410595.1	98.91	WP_013140782.1	91.53	WP_013140780.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000421385.1	99.22	WP_029679961.1	91.46	WP_181365528.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000478525.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000497735.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000730025.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000730035.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000730045.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000730055.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000730105.1	98.49	WP_032735492.1	91.18	WP_162501691.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_000730125.1	99.13	WP_032744139.1	93.82	WP_168928595.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000730135.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000730205.1	98.91	WP_013140782.1	91.53	WP_013140780.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000741245.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000741625.1	98.91	WP_013140782.1	91.34	WP_161788218.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000771105.1	100.0	WP_014484799.1	100.0	WP_161786183.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000771285.1	98.91	WP_013140782.1	91.34	WP_161788218.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000772485.1	98.68	WP_007056108.1	91.14	WP_162473272.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_000786175.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000825005.1	100.0	WP_014484799.1	100.0	WP_161786183.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000825025.1	100.0	WP_014484799.1	100.0	WP_161786183.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000825045.1	100.0	WP_014484799.1	100.0	WP_161786183.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000825065.1	100.0	WP_014484799.1	100.0	WP_161786183.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000825085.1	100.0	WP_014484799.1	100.0	WP_161786183.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000825105.1	100.0	WP_014484799.1	100.0	WP_161786183.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000825125.1	100.0	WP_014484799.1	100.0	WP_161786183.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000825145.1	100.0	WP_014484799.1	100.0	WP_161786183.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_000829295.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_001050555.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_001051015.2	98.2	WP_049136881.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_001275745.1	98.41	WP_007058449.1	91.17	WP_165501145.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_001281305.1	99.28	WP_060620998.1	93.63	WP_174510702.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_001293145.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_001446255.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_001446275.1	98.41	WP_007058449.1	91.05	WP_162491401.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_001447955.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_001447975.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_001516925.1	98.36	WP_007052786.1	91.22	WP_165500258.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_001546275.1	98.41	WP_007058449.1	91.14	WP_162473272.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_001595465.1	98.36	WP_007052786.1	91.22	WP_165500258.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_001686105.1	99.13	WP_032744139.1	93.76	WP_173645980.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_001686125.1	99.49	WP_065472518.1	93.97	WP_171843772.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_001686145.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_001686165.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_001686185.1	98.68	WP_007056108.1	91.08	WP_171844312.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_001686205.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_001686225.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_001686245.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_001719085.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_001725985.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_001870705.1	98.91	WP_013140782.1	91.69	WP_177188293.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_001870755.1	98.65	WP_071478275.1	93.78	WP_177189970.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_001892965.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_001940535.1	98.68	WP_007056108.1	90.9	WP_178386532.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_002075875.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_002075935.1	99.2	WP_080784775.1	90.84	WP_179133399.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_002076015.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_002076025.1	99.28	WP_060620998.1	93.63	WP_174510702.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_002076095.1	98.74	WP_080826624.1	91.22	WP_165500258.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_002276185.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_002832945.1	98.41	WP_007058449.1	91.15	WP_198548142.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_002832955.1	98.14	WP_101010031.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_002832985.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_002832995.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_002833015.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_002833035.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_002833055.1	98.41	WP_007058449.1	91.19	WP_015512212.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_002833065.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_002833075.1	98.41	WP_007058449.1	91.19	WP_015512212.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_002833115.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_002833125.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_002833135.1	98.41	WP_007058449.1	90.9	WP_198546264.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_002833175.1	98.19	WP_077389107.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_002833185.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_002833205.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_002833215.1	98.68	WP_007056108.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_002833255.1	27.91	-	90.61	WP_198546974.1	no				OK
+Bifidobacterium longum	GCF_002833265.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_002833285.1	98.19	WP_077389107.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_002833315.1	98.91	WP_013140782.1	91.46	WP_181365528.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_002861445.1	98.68	WP_007056108.1	91.14	WP_162473272.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003094635.1	98.49	WP_032735492.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003094855.1	98.49	WP_032735492.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003094935.1	98.49	WP_032735492.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003094955.1	98.49	WP_032735492.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003094975.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003094995.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003130775.1	98.65	WP_109087849.1	91.46	WP_181365528.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003342655.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003369995.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003370005.1	98.68	WP_007056108.1	91.19	WP_015512212.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_003370025.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003370035.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003370065.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003370095.1	98.14	WP_115784466.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003370205.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003370225.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003370255.1	99.2	WP_080784775.1	90.89	WP_181896232.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003436505.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003436595.1	98.41	WP_007058449.1	91.22	WP_165500258.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_003437095.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003437105.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003437135.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003437455.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003437695.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003437715.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003437995.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003438385.1	98.33	WP_117717227.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003438485.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003457975.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003458335.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003463285.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003464575.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003464685.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003464805.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003465095.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003465365.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003465455.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003465545.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003465635.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003465665.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003465745.1	98.41	WP_007058449.1	91.19	WP_015512212.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_003465785.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003466045.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003466075.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003466425.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003466505.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003466545.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003467395.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003467905.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003468005.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003468265.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003468805.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003468825.1	98.36	WP_007052786.1	91.22	WP_165500258.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_003471245.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003471345.1	98.68	WP_007056108.1	91.19	WP_015512212.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_003471355.1	98.68	WP_007056108.1	91.19	WP_015512212.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_003471385.1	98.68	WP_007056108.1	91.19	WP_015512212.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_003471915.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003472305.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_003472405.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003472605.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003473205.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003474905.1	98.08	WP_118393731.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003475025.1	98.38	WP_032746975.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003475055.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003475835.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003475865.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003790375.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_003990235.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004125375.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004167725.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004324325.1	98.08	WP_131187475.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004332625.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004332635.1	98.68	WP_007056108.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004332645.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004332655.1	98.68	WP_007056108.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004332665.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004332725.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004332735.1	98.22	WP_131203195.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004332745.1	98.68	WP_007056108.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004332755.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004332765.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004332825.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004332835.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004332855.1	94.2	WP_131204726.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004332865.1	98.41	WP_007058449.1	91.22	WP_165500258.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004332895.1	98.68	WP_007056108.1	91.14	WP_162473272.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_004332925.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004332935.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004332945.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004332965.1	98.68	WP_007056108.1	91.17	WP_165501145.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333005.1	98.49	WP_032735492.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333015.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333035.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333045.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333065.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333105.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333115.1	98.17	WP_131233355.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333125.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333165.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333175.1	98.68	WP_007056108.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333205.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333215.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333235.1	98.41	WP_007058449.1	91.13	WP_165502195.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333265.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333275.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333305.1	98.41	WP_007058449.1	91.03	WP_165502505.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333325.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333335.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333365.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333375.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333385.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333425.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333445.1	71.67	WP_131237259.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333455.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333465.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333475.1	95.58	WP_131210070.1	91.13	WP_007054291.1	yes	no		no	OK
+Bifidobacterium longum	GCF_004333515.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333535.1	98.68	WP_007056108.1	91.19	WP_015512212.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333555.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333565.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333575.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333625.1	98.49	WP_032735492.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333635.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333645.1	98.41	WP_131287937.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333675.1	98.68	WP_007056108.1	91.19	WP_015512212.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_004333695.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333715.1	95.05	WP_131290252.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333735.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333765.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333775.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333785.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333795.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333845.1	98.41	WP_007058449.1	91.13	WP_165502195.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333855.1	98.41	WP_007058449.1	91.03	WP_165502505.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333875.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333895.1	98.68	WP_007056108.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333905.1	98.41	WP_007058449.1	91.11	WP_165541558.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333925.1	98.03	WP_131294374.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333935.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333975.1	98.41	WP_007058449.1	91.18	WP_165541873.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004333995.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334005.1	98.68	WP_007056108.1	91.19	WP_015512212.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_004334035.1	98.68	WP_007056108.1	91.07	WP_165541981.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334045.1	97.93	WP_131268555.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334065.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334075.1	98.68	WP_007056108.1	91.14	WP_162473272.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334105.1	98.41	WP_007058449.1	91.22	WP_165500258.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334145.1	92.77	WP_131297027.1	91.19	WP_012471857.1	yes	no		no	OK
+Bifidobacterium longum	GCF_004334155.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334165.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334205.1	98.15	WP_131219683.1	90.93	WP_165507406.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334215.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334235.1	98.68	WP_007056108.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334245.1	98.68	WP_007056108.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334255.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334285.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334325.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334335.1	98.68	WP_007056108.1	90.93	WP_165507406.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334345.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334355.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334365.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334425.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334435.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334445.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334465.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334485.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334515.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334535.1	98.68	WP_007056108.1	91.19	WP_015512212.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_004334545.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334555.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334615.1	98.68	WP_007056108.1	91.14	WP_162473272.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_004334625.1	98.41	WP_007058449.1	91.22	WP_165500258.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334635.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334645.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334695.1	98.68	WP_007056108.1	90.93	WP_165507406.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334705.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334715.1	98.41	WP_007058449.1	91.03	WP_165502505.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334745.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334775.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334785.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334795.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334815.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004334855.1	98.68	WP_007056108.1	90.91	WP_021975425.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_004334865.1	98.63	WP_131314176.1	91.19	WP_015512212.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_004803425.1	100.0	WP_014484799.1	99.4	WP_168796203.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004919065.2	99.13	WP_032744139.1	93.82	WP_168928595.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_004936435.1	98.38	WP_136656090.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_005406285.1	98.19	WP_077389107.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_005844115.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_005844345.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_005844715.1	98.68	WP_007056108.1	91.14	WP_171024861.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_006438975.1	98.41	WP_007058449.1	91.18	WP_162501691.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_008086305.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_008868445.1	99.13	WP_032744139.1	93.82	WP_168928595.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_009728915.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_009738515.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_009741385.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_009896525.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_009931635.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_011764605.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_013204895.1	99.13	WP_032744139.1	93.82	WP_168928595.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_013249165.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_013393765.1	98.08	WP_131187475.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_014334075.1	98.36	WP_007052786.1	91.22	WP_165500258.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_014334375.1	98.68	WP_007056108.1	91.19	WP_015512212.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_014779835.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_014898115.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_014898135.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_014898215.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_014898235.1	98.41	WP_021975424.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_014898255.1	98.68	WP_007056108.1	91.19	WP_015512212.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_014900535.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_014900575.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_014900875.1	98.91	WP_013140782.1	91.46	WP_181365528.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_015100215.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_015101725.1	98.41	WP_021975424.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_015102035.1	98.68	WP_007056108.1	91.03	WP_193641179.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_015102215.1	99.13	WP_032744139.1	93.76	WP_173645980.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_015546765.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_015547105.1	98.41	WP_007058449.1	91.11	WP_195194620.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_015547785.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_015550145.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_015550805.1	98.68	WP_007056108.1	91.14	WP_162473272.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_015551245.1	98.68	WP_007056108.1	91.19	WP_015512212.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_015551415.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_015551445.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_015553485.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_015553805.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_015554025.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_015554225.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_015555065.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_015556235.1	98.68	WP_007056108.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_015557625.1	98.68	WP_007056108.1	91.14	WP_171024861.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_015558665.1	98.68	WP_007056108.1	91.19	WP_015512212.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_015558685.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_015558825.1	98.14	WP_195549735.1	91.19	WP_015512212.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_015558965.1	98.0	WP_195554348.1	91.19	WP_015512212.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_015560565.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_015560585.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_015667025.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_015667155.1	98.41	WP_007058449.1	91.19	WP_015512212.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_015667915.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_015668695.1	98.41	WP_007058449.1	91.19	WP_015512212.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_015669395.1	98.68	WP_007056108.1	91.19	WP_015512212.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_015669715.1	98.68	WP_007056108.1	91.19	WP_015512212.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_015669945.1	98.41	WP_007058449.1	91.14	WP_162473272.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_015670335.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_015670475.1	98.68	WP_007056108.1	91.19	WP_015512212.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_015670535.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_015670845.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_015670955.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_015670995.1	98.28	WP_196019434.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_015671085.1	98.68	WP_007056108.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_015671435.1	98.68	WP_007056108.1	91.19	WP_015512212.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_015931225.1	99.13	WP_032744139.1	91.46	WP_181365528.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_016069995.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_016634435.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_016648895.1	98.03	WP_201121022.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_016648975.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_016759645.1	98.91	WP_013140782.1	91.23	WP_202574518.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_016759655.1	98.91	WP_013140782.1	91.46	WP_181365528.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_016759665.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_016759705.1	98.68	WP_007056108.1	91.14	WP_162473272.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_016759725.1	98.91	WP_013140782.1	91.46	WP_181365528.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_016759745.2	98.68	WP_007056108.1	91.17	WP_165501145.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_016759755.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_016759765.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_016759805.1	98.03	WP_201121022.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_016759825.1	98.49	WP_202571420.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_016759845.1	98.03	WP_201121022.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_016838685.1	98.68	WP_007056108.1	91.19	WP_015512212.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_016882605.1	99.13	WP_032744139.1	91.46	WP_181365528.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_017132755.1	99.13	WP_032744139.1	91.46	WP_181365528.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_017132775.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_017291355.1	98.49	WP_032735492.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_017299595.1	99.34	WP_206648422.1	93.5	WP_206648424.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_017312505.1	98.68	WP_007056108.1	91.19	WP_015512212.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_017312525.1	98.41	WP_007058449.1	91.18	WP_165541873.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_017312545.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_017312565.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_017312585.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_017312605.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_017312625.1	98.17	WP_131233355.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_017312645.1	98.68	WP_007056108.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_017312665.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_017312685.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_017357065.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_017357325.1	98.41	WP_021975424.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_017357345.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_017357365.1	99.34	WP_206648422.1	93.5	WP_206648424.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_017378625.1	99.34	WP_206648422.1	93.5	WP_206648424.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_017743155.1	98.38	WP_032746975.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_017743175.1	98.38	WP_032746975.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_018140675.1	99.13	WP_032744139.1	93.59	WP_212105112.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_018141585.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_018141605.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_018408965.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_018409165.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_018409185.1	98.36	WP_007052786.1	91.22	WP_165500258.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_018785645.1	98.68	WP_007056108.1	91.04	WP_215680868.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_018785685.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019041555.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019041635.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019041665.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019041945.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019042095.1	98.68	WP_007056108.1	91.14	WP_162473272.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_019052475.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019125235.1	98.41	WP_007058449.1	91.07	WP_217742338.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019125295.1	98.41	WP_007058449.1	91.07	WP_217742338.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019125315.1	98.41	WP_007058449.1	91.1	WP_217736300.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019127715.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019127795.1	98.68	WP_007056108.1	91.19	WP_015512212.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_019127975.1	98.68	WP_007056108.1	91.19	WP_015512212.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_019127995.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019128095.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019128175.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019128185.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019128225.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019128255.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019128295.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019128375.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019128395.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019128435.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019128455.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019128495.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019128505.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019128585.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019128695.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019129715.1	98.68	WP_007056108.1	91.19	WP_015512212.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_019131415.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019131455.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019131475.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019131535.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019131555.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019131585.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019131625.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019131655.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019131725.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019131755.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019131795.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019131805.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019131855.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019297795.1	99.13	WP_032744139.1	91.46	WP_181365528.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019660445.1	100.0	WP_014484799.1	100.0	WP_161786183.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019731735.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_019734255.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_020008065.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_020072545.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_020181415.1	98.68	WP_007056108.1	91.14	WP_225089981.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_020353915.1	98.89	WP_174768927.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_020531735.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_020531855.1	98.36	WP_007052786.1	91.22	WP_165500258.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_020561415.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_020564685.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_020982785.1	98.41	WP_007058449.1	91.27	WP_230251932.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_021184065.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_021228035.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_021432165.1	98.91	WP_013140782.1	91.46	WP_181365528.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_022014335.1	98.36	WP_007052786.1	91.22	WP_165500258.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_022132485.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_022133565.1	98.68	WP_007056108.1	91.08	WP_237945742.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_022133665.1	98.68	WP_007056108.1	91.08	WP_237945742.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_022135165.1	98.68	WP_007056108.1	91.08	WP_237945742.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_022135285.1	98.68	WP_007056108.1	91.08	WP_237945742.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_022136875.1	98.68	WP_007056108.1	91.14	WP_171024861.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_022496375.1	98.59	WP_240835743.1	91.69	WP_177188293.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_022496415.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_022496455.1	98.91	WP_013140782.1	91.69	WP_177188293.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_022643465.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_022643625.1	98.91	WP_013140782.1	91.46	WP_181365528.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_022643745.1	98.91	WP_013140782.1	91.46	WP_181365528.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_022643845.1	98.91	WP_013140782.1	91.46	WP_181365528.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_022644005.1	98.91	WP_013140782.1	91.46	WP_181365528.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_022644225.1	98.91	WP_013140782.1	91.46	WP_181365528.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_022701235.1	98.91	WP_013140782.1	91.34	WP_161788218.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_022819225.1	98.83	WP_154535926.1	93.97	WP_171843772.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_023205795.1	99.13	WP_032744139.1	93.82	WP_168928595.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_023205815.1	99.13	WP_032744139.1	93.82	WP_168928595.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_023205835.1	99.13	WP_032744139.1	93.82	WP_168928595.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_023205855.1	99.13	WP_032744139.1	93.59	WP_212105112.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_023208035.1	99.13	WP_032744139.1	93.82	WP_168928595.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_023208055.1	99.13	WP_032744139.1	93.82	WP_168928595.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_023208075.1	99.13	WP_032744139.1	93.82	WP_168928595.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_023208095.1	99.13	WP_032744139.1	93.82	WP_168928595.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_023208115.1	99.13	WP_032744139.1	93.82	WP_168928595.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_023208135.1	99.13	WP_032744139.1	93.82	WP_168928595.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_023208155.1	99.13	WP_032744139.1	93.82	WP_168928595.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_023242235.1	27.91	-	91.13	WP_007054291.1	no				OK
+Bifidobacterium longum	GCF_024125265.1	98.68	WP_007056108.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_024349265.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_024665655.1	99.13	WP_032744139.1	93.59	WP_212105112.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_026236665.1	98.68	WP_007056108.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_026242105.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_026520375.1	98.91	WP_013140782.1	91.5	WP_267326779.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_026520385.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_026967535.1	99.13	WP_032744139.1	93.82	WP_168928595.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_027214605.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_027214665.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_027215125.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_028201535.1	98.68	WP_007056108.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_028894815.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_028898865.1	98.49	WP_032735492.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_029340055.1	98.41	WP_007058449.1	91.17	WP_165501145.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_029340125.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_029340185.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_029340215.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_029723585.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_029983035.1	99.13	WP_032744139.1	93.82	WP_168928595.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_029983055.1	99.13	WP_032744139.1	93.82	WP_168928595.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_030268485.1	98.89	WP_174768927.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_030291325.1	98.41	WP_007058449.1	90.9	WP_198546264.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_030291375.1	98.41	WP_007058449.1	91.14	WP_162473272.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_030291395.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_030291415.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_030291435.1	99.17	WP_286112952.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_030291465.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_030291485.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_030291575.1	98.49	WP_202571420.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_030297785.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_030334805.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_030369575.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_030414115.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_030414155.1	98.06	WP_301001995.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_030450025.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_030876795.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_031432735.1	98.03	WP_310490789.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_031432745.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_032463605.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033170275.1	98.49	WP_032735492.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033344515.1	98.89	WP_174768927.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033344535.1	99.13	WP_032744139.1	93.63	WP_250230786.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033344545.1	99.2	WP_080784775.1	90.89	WP_181896232.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033344575.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033344585.1	99.13	WP_032744139.1	93.65	WP_174774228.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033344605.1	99.2	WP_080784775.1	90.82	WP_251847813.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033344625.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033344655.1	99.13	WP_032744139.1	93.63	WP_250230786.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033391045.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033453085.1	98.41	WP_007058449.1	91.17	WP_318602975.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033549985.1	97.93	WP_318711586.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033550025.1	97.93	WP_318711586.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033657725.1	98.89	WP_174768927.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033657745.1	99.49	WP_065472518.1	94.26	WP_250234010.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033657795.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033657865.1	98.81	WP_144099445.1	93.74	WP_186277946.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033657905.1	98.49	WP_202571420.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033657925.1	99.49	WP_065472518.1	94.26	WP_250234010.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033657955.1	98.81	WP_144099445.1	93.74	WP_186277946.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033657985.1	98.91	WP_013140782.1	91.69	WP_177188293.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033658025.1	100.0	WP_014484799.1	94.18	WP_187324453.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033658055.1	99.13	WP_032744139.1	93.34	WP_250237991.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033658105.1	99.13	WP_032744139.1	93.85	WP_185970505.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033658165.1	99.13	WP_032744139.1	93.63	WP_250230786.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033658185.1	99.13	WP_032744139.1	93.65	WP_174774228.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033658205.1	99.13	WP_032744139.1	93.65	WP_174774228.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033658265.1	98.68	WP_007056108.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033658285.1	99.13	WP_032744139.1	93.34	WP_250237991.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033658365.1	99.13	WP_032744139.1	93.65	WP_174774228.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033658405.1	98.41	WP_007058449.1	91.27	WP_230251932.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033658425.1	99.13	WP_032744139.1	93.63	WP_250230786.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033658445.1	99.13	WP_032744139.1	93.34	WP_250237991.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033658485.1	98.03	WP_201121022.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033658525.1	98.89	WP_174768927.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033658565.1	98.68	WP_007056108.1	91.17	WP_165501145.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_033658605.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033658625.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033658685.1	99.13	WP_032744139.1	93.63	WP_250230786.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033658725.1	99.13	WP_032744139.1	93.63	WP_250230786.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033658745.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033658765.1	98.91	WP_013140782.1	91.5	WP_267326779.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033658785.1	98.03	WP_201121022.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033658805.1	99.13	WP_032744139.1	93.63	WP_250230786.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033658825.1	99.13	WP_032744139.1	93.63	WP_250230786.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033658845.1	100.0	WP_014484799.1	94.18	WP_187324453.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033658865.1	99.13	WP_032744139.1	93.63	WP_250230786.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033658885.1	98.36	WP_007052786.1	91.22	WP_165500258.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_033658905.1	99.13	WP_032744139.1	93.93	WP_250240899.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033658925.1	99.62	WP_251883427.1	93.62	WP_251883429.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033658945.1	99.13	WP_032744139.1	93.63	WP_250230786.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033658965.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033658985.1	99.13	WP_032744139.1	93.63	WP_250230786.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659005.1	98.81	WP_144099445.1	93.74	WP_186277946.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659025.1	100.0	WP_014484799.1	93.45	WP_185968287.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659045.1	100.0	WP_014484799.1	94.18	WP_187324453.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659065.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659085.1	99.13	WP_032744139.1	93.63	WP_250230786.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659105.1	99.13	WP_032744139.1	93.63	WP_250230786.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659125.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659145.1	99.13	WP_032744139.1	93.54	WP_174772653.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659165.1	99.2	WP_080784775.1	90.82	WP_251847813.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659185.1	98.89	WP_174768927.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659205.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659225.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659235.1	99.13	WP_032744139.1	93.63	WP_250230786.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659265.1	100.0	WP_014484799.1	94.18	WP_187324453.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659285.1	99.13	WP_032744139.1	93.63	WP_250230786.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659305.1	98.36	WP_007052786.1	91.22	WP_165500258.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_033659325.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659345.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659365.1	99.13	WP_032744139.1	93.63	WP_250230786.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659385.1	98.81	WP_144099445.1	93.74	WP_186277946.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659405.1	99.13	WP_032744139.1	93.63	WP_250230786.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659425.1	99.49	WP_065472518.1	94.26	WP_250234010.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659445.1	98.03	WP_201121022.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659465.1	100.0	WP_014484799.1	94.18	WP_187324453.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659485.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659505.1	98.89	WP_174768927.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659525.1	99.13	WP_032744139.1	93.63	WP_250230786.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659545.1	99.13	WP_032744139.1	93.54	WP_174772653.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659565.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659585.1	99.13	WP_032744139.1	93.34	WP_250237991.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659605.1	99.2	WP_080784775.1	90.89	WP_181896232.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659625.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659655.1	99.13	WP_032744139.1	93.63	WP_250230786.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659685.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659745.1	100.0	WP_014484799.1	94.18	WP_187324453.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659765.1	99.13	WP_032744139.1	93.63	WP_250230786.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659825.1	100.0	WP_014484799.1	94.18	WP_187324453.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659845.1	100.0	WP_014484799.1	94.18	WP_187324453.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_033659905.1	99.13	WP_032744139.1	93.65	WP_174774228.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_034050535.1	98.91	WP_013140782.1	91.46	WP_181365528.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_034051595.1	98.91	WP_013140782.1	91.46	WP_181365528.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_034052395.1	98.91	WP_013140782.1	91.46	WP_181365528.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_034052555.1	98.91	WP_013140782.1	91.46	WP_181365528.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_035818835.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_036318065.1	98.68	WP_007056108.1	90.87	WP_329779004.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_036318365.1	98.36	WP_007052786.1	91.22	WP_165500258.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_036350045.1	100.0	WP_014484799.1	100.0	WP_161786183.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_036419235.1	98.68	WP_007056108.1	91.08	WP_237945742.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_036814245.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_037100215.1	98.41	WP_007058449.1	91.03	WP_165502505.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_037966825.1	99.13	WP_032744139.1	94.06	WP_179106084.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_037967005.1	99.49	WP_065472518.1	94.26	WP_250234010.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_037967165.1	98.9	WP_340510744.1	93.6	WP_340510741.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_037997085.1	98.68	WP_007056108.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_038022065.1	98.49	WP_032735492.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039063035.1	97.77	WP_343086907.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039063075.1	97.77	WP_343086907.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039063145.1	98.68	WP_007056108.1	59.59	WP_343014828.1	yes	no		no	OK
+Bifidobacterium longum	GCF_039063205.1	98.41	WP_007058449.1	90.91	WP_021975425.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_039063285.1	98.41	WP_007058449.1	91.03	WP_343004812.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039063325.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039063355.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039063485.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039067125.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039067165.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039067195.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039733645.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039733665.1	98.68	WP_007056108.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039733685.1	98.68	WP_007056108.1	91.15	WP_347013977.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_039734125.1	98.68	WP_007056108.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039734145.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039753855.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039753895.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039753915.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039753935.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039753955.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039753975.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039753995.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039754015.1	98.68	WP_007056108.1	91.19	WP_015512212.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_039754035.1	98.68	WP_007056108.1	91.19	WP_015512212.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_039754055.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039754075.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039754095.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039754115.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039754135.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039754155.1	98.68	WP_007056108.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039754175.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039754195.1	98.68	WP_007056108.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039754215.1	98.68	WP_007056108.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039754255.1	98.68	WP_007056108.1	91.15	WP_347013977.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_039759205.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039759255.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039759275.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039759295.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039759315.1	98.68	WP_007056108.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039759335.1	98.68	WP_007056108.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039759355.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039759375.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039759395.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039759415.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039759435.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039759455.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039759475.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_039759495.1	98.68	WP_007056108.1	91.19	WP_015512212.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_040091855.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_040091915.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_040092665.1	98.68	WP_007056108.1	91.17	WP_165501145.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_040092865.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_040093105.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_040094725.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_040096865.1	98.68	WP_007056108.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_040098185.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_040150975.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_040151115.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_040267655.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_040711965.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_040883395.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_041320305.1	99.55	WP_370611300.1	93.46	WP_370611301.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_041447125.1	98.91	WP_013140782.1	91.53	WP_013140780.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_041447135.1	98.91	WP_013140782.1	91.53	WP_013140780.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_042848215.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_042851965.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_042854595.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_043845305.1	98.41	WP_007058449.1	91.03	WP_394876847.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_043845455.1	98.41	WP_007058449.1	91.07	WP_394897390.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_043845525.1	98.36	WP_394898589.1	91.19	WP_015512212.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_043845685.1	98.9	WP_394894647.1	91.69	WP_177188293.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_045273095.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_045286995.1	98.91	WP_013140782.1	91.46	WP_181365528.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_045287105.1	100.0	WP_014484799.1	94.18	WP_187324453.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_045287175.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_045689695.1	98.91	WP_013140782.1	91.69	WP_177188293.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_046045085.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_046097715.1	98.41	WP_007058449.1	91.14	WP_162473272.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_046199715.1	100.0	WP_014484799.1	100.0	WP_161786183.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_046267825.1	98.68	WP_007056108.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_046603915.1	98.68	WP_007056108.1	91.19	WP_015512212.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_046763125.1	98.41	WP_021975424.1	91.18	WP_162501691.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_046763165.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_046763185.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_046763195.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_046763225.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_046763245.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_046763325.1	98.41	WP_007058449.1	91.19	WP_015512212.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_046763605.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_046763625.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_046763645.1	98.68	WP_007056108.1	91.18	WP_411979722.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_046763665.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_046763685.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_047308325.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_049191785.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_049191865.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_049191905.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_049204995.1	98.68	WP_007056108.1	91.14	WP_162473272.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_049205105.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_049205175.1	98.83	WP_154535926.1	93.85	WP_154535928.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_049205195.1	98.83	WP_154535926.1	93.85	WP_154535928.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_049205355.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_049205375.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_049205395.1	98.89	WP_174768927.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_049205415.1	93.22	WP_421623523.1	91.13	WP_007054291.1	yes	no		no	OK
+Bifidobacterium longum	GCF_050255435.1	97.52	WP_427157863.1	91.69	WP_177188293.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_050255455.1	98.91	WP_013140782.1	91.69	WP_177188293.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_050255475.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_050255495.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_050255515.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_050255535.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_050255555.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_050255575.1	100.0	WP_014484799.1	94.18	WP_187324453.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_050255595.1	98.62	WP_427180984.1	93.81	WP_427180934.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_050285625.1	98.91	WP_013140782.1	91.69	WP_177188293.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_050308145.1	98.91	WP_013140782.1	91.69	WP_177188293.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_050846705.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_051063335.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_051063375.1	98.68	WP_007056108.1	91.14	WP_162473272.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_051063455.1	99.28	WP_060620998.1	93.63	WP_174510702.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_051063475.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_051063695.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_051063715.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_051063735.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_051063775.1	98.43	WP_434263940.1	91.17	WP_165501145.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_051063815.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_051063855.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_051063915.1	99.28	WP_060620998.1	93.63	WP_174510702.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_051063935.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_051063955.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_051162085.1	99.2	WP_080784775.1	90.89	WP_181896232.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_051906175.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_051906195.1	100.0	WP_014484799.1	100.0	WP_161786183.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_052233205.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_052409125.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_052446795.1	99.55	WP_370611300.1	93.46	WP_370611301.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_052784005.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_053254875.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_053255595.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_053708835.1	99.2	WP_080784775.1	90.89	WP_181896232.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_053714395.1	98.68	WP_007056108.1	91.0	WP_454496371.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_054075065.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_054075085.1	99.13	WP_032744139.1	93.82	WP_168928595.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_054130475.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_054149065.1	98.68	WP_007056108.1	91.14	WP_162473272.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_054189165.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_054483955.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_054901215.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_054960775.1	98.41	WP_007058449.1	91.18	WP_162501691.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_054962535.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_055383495.1	98.49	WP_032735492.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_055386685.1	99.13	WP_032744139.1	93.66	WP_464148612.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_055698225.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_056270475.1	98.49	WP_032735492.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_056356195.1	98.91	WP_013140782.1	91.69	WP_177188293.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_056356395.1	98.59	WP_476525772.1	91.34	WP_476525770.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_056356515.1	98.59	WP_476525772.1	91.34	WP_476525770.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_056946035.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_057457665.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_057457685.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_057812015.1	98.83	WP_154535926.1	93.85	WP_154535928.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_058091775.1	98.21	WP_489794247.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_058136195.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_058268875.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_058268885.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_058268915.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_058268935.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_059183025.1	98.89	WP_174768927.1	91.19	WP_015512212.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_059183095.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_059183705.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_059184055.1	98.14	WP_494407511.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_059184145.1	98.68	WP_007056108.1	90.91	WP_021975425.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_059184275.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_059184285.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_059184895.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_059235785.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_059235815.1	98.68	WP_007056108.1	90.9	WP_494449271.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_059236425.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_059236435.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_059237045.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_059237115.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_059237665.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_059511805.1	98.91	WP_013140782.1	91.46	WP_181365528.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_059511815.1	98.91	WP_013140782.1	91.46	WP_181365528.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_059946925.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_059995755.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_059995865.1	98.68	WP_007056108.1	90.97	WP_501260762.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_059995875.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_059995905.1	98.68	WP_007056108.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_059995915.1	98.68	WP_007056108.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_059996345.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_059996375.1	98.41	WP_007058449.1	91.19	WP_015512212.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_059997065.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_059997115.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_059997265.1	98.68	WP_007056108.1	90.61	WP_198546974.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_060345555.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_060346155.1	98.68	WP_007056108.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_060346175.1	98.41	WP_007058449.1	91.18	WP_411979722.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_060346195.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_060709155.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_060709185.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_060709595.1	98.68	WP_007056108.1	91.08	WP_171844312.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_060709645.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_060710055.1	98.41	WP_007058449.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_060710085.1	98.68	WP_007056108.1	91.08	WP_171844312.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_061224185.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_061396485.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_061397365.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_061540775.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_061540815.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_062066292.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_062066355.1	98.03	WP_131294374.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_062066356.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_062066409.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_062066410.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_062066429.1	98.68	WP_007056108.1	91.14	WP_162473272.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_900103055.1	98.91	WP_013140782.1	91.34	WP_161788218.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_900104835.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_900157055.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_900157065.1	100.0	WP_014484799.1	100.0	WP_161786183.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_900157075.1	100.0	WP_014484799.1	100.0	WP_161786183.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_900157085.1	99.72	WP_077425818.1	94.06	WP_179106084.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_900157095.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_900157115.1	98.68	WP_007056108.1	91.17	WP_165501145.1	yes	yes	960	yes	OK
+Bifidobacterium longum	GCF_900157145.1	98.19	WP_077389107.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_900157155.1	98.68	WP_007056108.1	91.08	WP_179105810.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_900157165.1	98.68	WP_007056108.1	78.17	WP_077387503.1	yes	no		no	OK
+Bifidobacterium longum	GCF_900157185.1	100.0	WP_014484799.1	100.0	WP_161786183.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_900157195.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_900519135.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_900637215.1	100.0	WP_014484799.1	100.0	WP_161786183.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_900637335.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_901212475.1	100.0	WP_014484799.1	94.18	WP_187324453.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_901212585.1	99.13	WP_032744139.1	93.85	WP_185970505.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_901873505.1	98.91	WP_013140782.1	91.69	WP_177188293.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_902167545.1	99.2	WP_080784775.1	90.89	WP_181896232.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_902167555.1	100.0	WP_014484799.1	93.45	WP_185968287.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_902167565.1	99.13	WP_032744139.1	93.85	WP_185970505.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_902167595.1	100.0	WP_014484799.1	94.18	WP_187324453.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_902167615.1	98.91	WP_013140782.1	91.69	WP_177188293.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_902167775.1	98.81	WP_144099445.1	93.74	WP_186277946.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_902167885.1	100.0	WP_014484799.1	100.0	WP_161786183.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_902167915.1	98.81	WP_144099445.1	93.74	WP_186277946.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_902381625.1	100.0	WP_014484799.1	100.0	WP_161786183.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_902505435.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_902505475.1	98.89	WP_174768927.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_902505515.1	99.13	WP_032744139.1	93.65	WP_174774228.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_902505525.1	99.13	WP_032744139.1	93.65	WP_174774228.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_902505535.1	99.13	WP_032744139.1	93.54	WP_174772653.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_902505545.1	98.89	WP_174768927.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_902505555.1	99.13	WP_032744139.1	93.65	WP_174774228.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_902652135.1	99.2	WP_080784775.1	90.89	WP_181896232.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_925297675.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_925297865.1	99.62	WP_251883427.1	93.62	WP_251883429.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_925300395.1	99.2	WP_080784775.1	90.82	WP_251847813.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_939065775.1	99.49	WP_065472518.1	94.26	WP_250234010.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_939095605.1	99.13	WP_032744139.1	93.93	WP_250240899.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_939109825.1	99.13	WP_032744139.1	93.63	WP_250230786.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_939121705.1	100.0	WP_014484799.1	94.18	WP_187324453.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_939125965.1	99.13	WP_032744139.1	93.63	WP_250230786.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_939126575.1	100.0	WP_014484799.1	94.18	WP_187324453.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_939128435.1	100.0	WP_014484799.1	94.18	WP_187324453.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_939130405.1	99.13	WP_032744139.1	93.63	WP_250230786.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_939147835.1	99.13	WP_032744139.1	93.34	WP_250237991.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_939148185.1	99.49	WP_065472518.1	94.26	WP_250234010.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_939148425.1	99.13	WP_032744139.1	93.34	WP_250237991.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_939148885.1	99.13	WP_032744139.1	93.63	WP_250230786.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_939149025.1	99.13	WP_032744139.1	93.63	WP_250230786.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_939149175.1	99.13	WP_032744139.1	93.63	WP_250230786.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_939149325.1	99.13	WP_032744139.1	93.63	WP_250230786.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_939153955.1	99.13	WP_032744139.1	93.63	WP_250230786.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_939171695.1	99.13	WP_032744139.1	93.34	WP_250237991.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_939174075.1	99.13	WP_032744139.1	93.63	WP_250230786.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_939175635.1	99.13	WP_032744139.1	93.63	WP_250230786.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_940588555.1	100.0	WP_014484799.1	94.18	WP_187324453.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_963265025.1	98.91	WP_013140782.1	91.69	WP_177188293.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_964237865.1	98.19	WP_077389107.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_964237955.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_964238175.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_964238715.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_964240575.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_964245135.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_964248965.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_964249075.1	98.41	WP_007058449.1	91.19	WP_012471857.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_965137725.1	98.68	WP_007056108.1	91.13	WP_007054291.1	yes	yes	959	yes	OK
+Bifidobacterium longum	GCF_965137735.1	100.0	WP_014484799.1	100.0	WP_161786183.1	yes	yes	959	yes	OK
