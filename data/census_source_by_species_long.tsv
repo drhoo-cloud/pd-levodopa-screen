@@ -1,0 +1,133 @@
+species	src_cat	genomes	carriers	prevalence_pct
+Enterococcus faecium	animal	278	277	99.64
+Enterococcus faecium	environment / industrial	259	259	100.00
+Enterococcus faecium	food / fermented	288	288	100.00
+Enterococcus faecium	human / clinical	2763	2760	99.89
+Enterococcus faecium	other (stated, unclassified)	1282	1281	99.92
+Enterococcus faecium	probiotic / product	11	11	100.00
+Enterococcus faecium	unknown / not stated	1119	1118	99.91
+Enterococcus faecalis	animal	328	326	99.39
+Enterococcus faecalis	environment / industrial	197	195	98.98
+Enterococcus faecalis	food / fermented	167	167	100.00
+Enterococcus faecalis	human / clinical	1974	1955	99.04
+Enterococcus faecalis	other (stated, unclassified)	1092	1064	97.44
+Enterococcus faecalis	probiotic / product	3	3	100.00
+Enterococcus faecalis	unknown / not stated	1315	1301	98.94
+Lactiplantibacillus plantarum	animal	19	0	0.00
+Lactiplantibacillus plantarum	environment / industrial	41	0	0.00
+Lactiplantibacillus plantarum	food / fermented	535	0	0.00
+Lactiplantibacillus plantarum	human / clinical	293	0	0.00
+Lactiplantibacillus plantarum	other (stated, unclassified)	293	0	0.00
+Lactiplantibacillus plantarum	probiotic / product	12	0	0.00
+Lactiplantibacillus plantarum	unknown / not stated	472	0	0.00
+Bifidobacterium longum	animal	2	0	0.00
+Bifidobacterium longum	food / fermented	4	0	0.00
+Bifidobacterium longum	human / clinical	711	0	0.00
+Bifidobacterium longum	other (stated, unclassified)	23	0	0.00
+Bifidobacterium longum	probiotic / product	19	0	0.00
+Bifidobacterium longum	unknown / not stated	163	0	0.00
+Lactococcus lactis	animal	40	0	0.00
+Lactococcus lactis	environment / industrial	16	0	0.00
+Lactococcus lactis	food / fermented	217	0	0.00
+Lactococcus lactis	human / clinical	58	0	0.00
+Lactococcus lactis	other (stated, unclassified)	151	0	0.00
+Lactococcus lactis	unknown / not stated	165	0	0.00
+Lacticaseibacillus paracasei	animal	3	0	0.00
+Lacticaseibacillus paracasei	environment / industrial	1	0	0.00
+Lacticaseibacillus paracasei	food / fermented	184	0	0.00
+Lacticaseibacillus paracasei	human / clinical	156	0	0.00
+Lacticaseibacillus paracasei	other (stated, unclassified)	92	0	0.00
+Lacticaseibacillus paracasei	probiotic / product	2	0	0.00
+Lacticaseibacillus paracasei	unknown / not stated	178	0	0.00
+Limosilactobacillus reuteri	animal	119	18	15.13
+Limosilactobacillus reuteri	environment / industrial	1	0	0.00
+Limosilactobacillus reuteri	food / fermented	27	2	7.41
+Limosilactobacillus reuteri	human / clinical	136	10	7.35
+Limosilactobacillus reuteri	other (stated, unclassified)	174	26	14.94
+Limosilactobacillus reuteri	probiotic / product	6	0	0.00
+Limosilactobacillus reuteri	unknown / not stated	70	12	17.14
+Lacticaseibacillus rhamnosus	animal	2	0	0.00
+Lacticaseibacillus rhamnosus	environment / industrial	8	0	0.00
+Lacticaseibacillus rhamnosus	food / fermented	86	0	0.00
+Lacticaseibacillus rhamnosus	human / clinical	200	0	0.00
+Lacticaseibacillus rhamnosus	other (stated, unclassified)	36	0	0.00
+Lacticaseibacillus rhamnosus	probiotic / product	17	0	0.00
+Lacticaseibacillus rhamnosus	unknown / not stated	110	0	0.00
+Lactobacillus delbrueckii	environment / industrial	1	0	0.00
+Lactobacillus delbrueckii	food / fermented	177	0	0.00
+Lactobacillus delbrueckii	human / clinical	68	0	0.00
+Lactobacillus delbrueckii	other (stated, unclassified)	23	0	0.00
+Lactobacillus delbrueckii	unknown / not stated	186	0	0.00
+Limosilactobacillus fermentum	animal	3	0	0.00
+Limosilactobacillus fermentum	environment / industrial	61	0	0.00
+Limosilactobacillus fermentum	food / fermented	94	0	0.00
+Limosilactobacillus fermentum	human / clinical	118	0	0.00
+Limosilactobacillus fermentum	other (stated, unclassified)	44	0	0.00
+Limosilactobacillus fermentum	probiotic / product	3	0	0.00
+Limosilactobacillus fermentum	unknown / not stated	112	0	0.00
+Streptococcus thermophilus	environment / industrial	3	0	0.00
+Streptococcus thermophilus	food / fermented	233	0	0.00
+Streptococcus thermophilus	human / clinical	10	0	0.00
+Streptococcus thermophilus	other (stated, unclassified)	37	0	0.00
+Streptococcus thermophilus	probiotic / product	7	0	0.00
+Streptococcus thermophilus	unknown / not stated	125	0	0.00
+Bifidobacterium bifidum	animal	2	0	0.00
+Bifidobacterium bifidum	human / clinical	329	0	0.00
+Bifidobacterium bifidum	probiotic / product	6	0	0.00
+Bifidobacterium bifidum	unknown / not stated	28	0	0.00
+Ligilactobacillus salivarius	animal	18	0	0.00
+Ligilactobacillus salivarius	environment / industrial	1	0	0.00
+Ligilactobacillus salivarius	food / fermented	4	0	0.00
+Ligilactobacillus salivarius	human / clinical	223	0	0.00
+Ligilactobacillus salivarius	other (stated, unclassified)	44	0	0.00
+Ligilactobacillus salivarius	probiotic / product	5	0	0.00
+Ligilactobacillus salivarius	unknown / not stated	55	0	0.00
+Bifidobacterium breve	food / fermented	7	0	0.00
+Bifidobacterium breve	human / clinical	255	0	0.00
+Bifidobacterium breve	other (stated, unclassified)	2	0	0.00
+Bifidobacterium breve	probiotic / product	1	0	0.00
+Bifidobacterium breve	unknown / not stated	75	0	0.00
+Levilactobacillus brevis	animal	4	4	100.00
+Levilactobacillus brevis	environment / industrial	36	29	80.56
+Levilactobacillus brevis	food / fermented	85	58	68.24
+Levilactobacillus brevis	human / clinical	28	27	96.43
+Levilactobacillus brevis	other (stated, unclassified)	43	32	74.42
+Levilactobacillus brevis	probiotic / product	2	2	100.00
+Levilactobacillus brevis	unknown / not stated	108	93	86.11
+Bifidobacterium animalis	animal	6	0	0.00
+Bifidobacterium animalis	food / fermented	1	0	0.00
+Bifidobacterium animalis	human / clinical	153	0	0.00
+Bifidobacterium animalis	other (stated, unclassified)	23	0	0.00
+Bifidobacterium animalis	probiotic / product	17	0	0.00
+Bifidobacterium animalis	unknown / not stated	45	0	0.00
+Pediococcus pentosaceus	animal	5	0	0.00
+Pediococcus pentosaceus	environment / industrial	6	0	0.00
+Pediococcus pentosaceus	food / fermented	103	3	2.91
+Pediococcus pentosaceus	human / clinical	24	0	0.00
+Pediococcus pentosaceus	other (stated, unclassified)	36	1	2.78
+Pediococcus pentosaceus	unknown / not stated	70	1	1.43
+Lactobacillus helveticus	environment / industrial	2	0	0.00
+Lactobacillus helveticus	food / fermented	68	0	0.00
+Lactobacillus helveticus	human / clinical	16	0	0.00
+Lactobacillus helveticus	other (stated, unclassified)	15	0	0.00
+Lactobacillus helveticus	probiotic / product	5	0	0.00
+Lactobacillus helveticus	unknown / not stated	114	0	0.00
+Lactobacillus gasseri	human / clinical	120	0	0.00
+Lactobacillus gasseri	other (stated, unclassified)	5	0	0.00
+Lactobacillus gasseri	unknown / not stated	56	0	0.00
+Lactobacillus acidophilus	animal	4	0	0.00
+Lactobacillus acidophilus	food / fermented	26	0	0.00
+Lactobacillus acidophilus	human / clinical	65	0	0.00
+Lactobacillus acidophilus	other (stated, unclassified)	3	0	0.00
+Lactobacillus acidophilus	probiotic / product	14	0	0.00
+Lactobacillus acidophilus	unknown / not stated	32	0	0.00
+Latilactobacillus curvatus	food / fermented	41	15	36.59
+Latilactobacillus curvatus	human / clinical	24	3	12.50
+Latilactobacillus curvatus	other (stated, unclassified)	14	10	71.43
+Latilactobacillus curvatus	unknown / not stated	39	14	35.90
+Lacticaseibacillus casei	animal	2	0	0.00
+Lacticaseibacillus casei	food / fermented	9	0	0.00
+Lacticaseibacillus casei	human / clinical	12	0	0.00
+Lacticaseibacillus casei	other (stated, unclassified)	3	0	0.00
+Lacticaseibacillus casei	probiotic / product	2	0	0.00
+Lacticaseibacillus casei	unknown / not stated	7	0	0.00

@@ -1,0 +1,23 @@
+species	n_genomes	n_carriers	prevalence_pct	n_sources_present	min_pct	max_pct	spread_points	n_sources_min10	min_pct_min10	max_pct_min10	spread_points_min10	chi2	P_exact	P_holm	tested
+Enterococcus faecium	6000	5994	99.90	7	99.64	100.00	0.36	7	99.64	100.00	0.36	2.53	0.80022	1.0000	yes
+Enterococcus faecalis	5076	5011	98.72	7	97.44	100.00	2.56	6	97.44	100.00	2.56	19.78	0.04046	0.1618	yes
+Lactiplantibacillus plantarum	1665	0	0.00	7	0.00	0.00	0.00	7	0.00	0.00	0.00				no
+Bifidobacterium longum	922	0	0.00	6	0.00	0.00	0.00	4	0.00	0.00	0.00				no
+Lactococcus lactis	647	0	0.00	6	0.00	0.00	0.00	6	0.00	0.00	0.00				no
+Lacticaseibacillus paracasei	616	0	0.00	7	0.00	0.00	0.00	4	0.00	0.00	0.00				no
+Limosilactobacillus reuteri	533	68	12.76	7	0.00	17.14	17.14	5	7.35	17.14	9.79	7.84	0.27127	0.8138	yes
+Lacticaseibacillus rhamnosus	459	0	0.00	7	0.00	0.00	0.00	5	0.00	0.00	0.00				no
+Lactobacillus delbrueckii	455	0	0.00	5	0.00	0.00	0.00	4	0.00	0.00	0.00				no
+Limosilactobacillus fermentum	435	0	0.00	7	0.00	0.00	0.00	5	0.00	0.00	0.00				no
+Streptococcus thermophilus	415	0	0.00	6	0.00	0.00	0.00	4	0.00	0.00	0.00				no
+Bifidobacterium bifidum	365	0	0.00	4	0.00	0.00	0.00	2	0.00	0.00	0.00				no
+Ligilactobacillus salivarius	350	0	0.00	7	0.00	0.00	0.00	4	0.00	0.00	0.00				no
+Bifidobacterium breve	340	0	0.00	5	0.00	0.00	0.00	2	0.00	0.00	0.00				no
+Levilactobacillus brevis	306	245	80.07	7	68.24	100.00	31.76	5	68.24	96.43	28.19	16.98	0.01052	0.0526	yes
+Bifidobacterium animalis	245	0	0.00	6	0.00	0.00	0.00	4	0.00	0.00	0.00				no
+Pediococcus pentosaceus	244	5	2.05	6	0.00	2.91	2.91	4	0.00	2.91	2.91	1.34	0.88864	1.0000	yes
+Lactobacillus helveticus	220	0	0.00	6	0.00	0.00	0.00	4	0.00	0.00	0.00				no
+Lactobacillus gasseri	181	0	0.00	3	0.00	0.00	0.00	2	0.00	0.00	0.00				no
+Lactobacillus acidophilus	144	0	0.00	6	0.00	0.00	0.00	4	0.00	0.00	0.00				no
+Latilactobacillus curvatus	118	42	35.59	4	12.50	71.43	58.93	4	12.50	71.43	58.93	13.44	0.00322	0.0193	yes
+Lacticaseibacillus casei	35	0	0.00	6	0.00	0.00	0.00	1	0.00	0.00	0.00				no

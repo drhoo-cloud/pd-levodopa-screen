@@ -1,0 +1,10 @@
+Model or test	Unit	n	Estimate	95% CI / LRT	P
+Logistic, source only, no species term	genome	19771	LRT chi2 1820.3	df 6	0
+Logistic, source with species fixed effects	genome	12277	LRT chi2 7.69	df 6	0.2619
+  source term: environment / industrial	genome	12277	OR 0.81	0.34-1.92	0.627
+  source term: food / fermented	genome	12277	OR 0.57	0.30-1.08	0.085
+  source term: human / clinical	genome	12277	OR 0.72	0.42-1.24	0.234
+  source term: other (stated, unclassified)	genome	12277	OR 0.65	0.38-1.12	0.120
+  source term: probiotic / product	genome	12277	OR 0.55	0.07-4.33	0.572
+  source term: unknown / not stated	genome	12277	OR 0.95	0.54-1.67	0.852
+Per-species tests	species	6	see census_source_by_species.tsv	exact, permutation (source_by_species.py)	—
