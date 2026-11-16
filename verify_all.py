@@ -184,6 +184,70 @@ chk("B. animalis carries the dehydrogenase", "0",
     sum(int(r["aldh_present"]) for r in bs
         if r["species"] == "Bifidobacterium animalis"))
 
+# ---- isolation source: why no by-source prevalence is reported ----------
+print("\nIsolation source across the census (referee response, point 7)")
+iso = rd("data/census_isolation_source.tsv")
+chk("census genomes with a source call", "19771", len(iso))
+cat = collections.defaultdict(lambda: [0, 0, 0])
+for r in iso:
+    a = cat[r["src_cat"]]
+    a[1] += 1
+    a[0] += r["tyrdc"] == "1"
+    a[2] += r["species"].startswith("Enterococcus")
+chk("source categories", "7", len(cat))
+for c, lab, prev, ent in (("probiotic / product", "probiotic/product", "12.12", "10.6"),
+                          ("environment / industrial", "environment/industrial", "76.30", "72.0")):
+    k, n, e = cat[c]
+    chk(f"{lab}, prevalence %", prev, f"{100*k/n:.2f}")
+    chk(f"{lab}, Enterococcus share %", ent, f"{100*e/n:.1f}")
+
+# the pooled by-source prevalence is the Enterococcus share of each category
+xs = [100 * v[2] / v[1] for v in cat.values()]
+ys = [100 * v[0] / v[1] for v in cat.values()]
+mx, my = sum(xs) / len(xs), sum(ys) / len(ys)
+num = sum((a - mx) * (b - my) for a, b in zip(xs, ys))
+den = math.sqrt(sum((a - mx) ** 2 for a in xs) * sum((b - my) ** 2 for b in ys))
+chk("prevalence vs Enterococcus share, r", "0.999", f"{num/den:.3f}")
+
+# ---- does source survive holding species fixed? ------------------------
+sm_ = {r["Model or test"]: r for r in rd("data/source_model_stats.tsv")}
+chk("source pooled, no species term, n", "19771",
+    sm_["Logistic, source only, no species term"]["n"])
+r_ = sm_["Logistic, source with species fixed effects"]
+chk("source with species fixed effects, n", "12277", r_["n"])
+chk("source with species fixed effects, LRT", "LRT chi2 7.69", r_["Estimate"])
+chk("source with species fixed effects, P", "0.2619", r_["P"])
+
+# ---- and within each species? (Table S4c, second panel) ----------------
+sbs = {r["species"]: r for r in rd("data/census_source_by_species.tsv")}
+tested = [r for r in sbs.values() if r["tested"] == "yes"]
+chk("species tested separately", "6", len(tested))
+chk("species significant after Holm", "1",
+    sum(1 for r in tested if float(r["P_holm"]) < 0.05))
+ec = sbs["Enterococcus faecalis"]
+chk("E. faecalis range across sources", "97.44-100.00",
+    f"{float(ec['min_pct_min10']):.2f}-{float(ec['max_pct_min10']):.2f}")
+chk("E. faecalis spread, percentage points", "2.56",
+    f"{float(ec['spread_points_min10']):.2f}")
+chk("E. faecalis Holm P", "0.162", f"{float(ec['P_holm']):.3f}")
+lc = sbs["Latilactobacillus curvatus"]
+chk("L. curvatus range across sources", "12.50-71.43",
+    f"{float(lc['min_pct_min10']):.2f}-{float(lc['max_pct_min10']):.2f}")
+chk("L. curvatus Holm P", "0.019", f"{float(lc['P_holm']):.3f}")
+lcl = [r for r in rd("data/census_source_by_species_long.tsv")
+       if r["species"] == "Latilactobacillus curvatus"]
+chk("L. curvatus lowest source, carriers of genomes", "3 of 24",
+    next(f"{r['carriers']} of {r['genomes']}" for r in lcl
+         if r["src_cat"] == "human / clinical"))
+chk("L. curvatus highest source, carriers of genomes", "10 of 14",
+    next(f"{r['carriers']} of {r['genomes']}" for r in lcl
+         if r["src_cat"] == "other (stated, unclassified)"))
+
+# ---- tyrDC copy number --------------------------------------------------
+cp = rd("data/copynum_by_species.tsv")
+chk("E. faecium carriers with >1 locus, %", "86.8",
+    next(r["multi_pct"] for r in cp if r["species"] == "Enterococcus faecium"))
+
 print("\n" + "=" * 104)
 print(f"  {OK} reproduced, {FAIL} differing")
 print("""

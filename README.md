@@ -13,10 +13,26 @@ RefSeq and recoverable from the accession columns of the per-genome files.
 python3 verify_all.py
 ```
 
-It recomputes **59 of the numbers printed in the paper** directly from the
+It recomputes **80 of the numbers printed in the paper** directly from the
 files in `data/` and prints, for each, the value stated in the paper beside
 the value it just calculated. Python 3 only — no third-party packages, no
 network. It exits non-zero if anything disagrees.
+
+## What changed in v3.2.0
+
+Isolation source for all 19,771 census genomes is deposited as
+`data/census_isolation_source.tsv`, with the models in
+`scripts/source_model.py`, the exact within-species tests in
+`scripts/source_by_species.py`, their outputs in
+`data/source_model_stats.tsv` and `data/census_source_by_species.tsv`, the
+full species x source cross-tabulation in
+`data/census_source_by_species_long.tsv`, and tyrDC copy number per species
+in `data/copynum_by_species.tsv`.
+Pooled by source the prevalence appears to vary sixfold; under the species
+fixed-effects model the paper uses elsewhere it does not vary at all
+(LRT chi-square 7.69, df 6, **P = 0.26**, n = 12,277). That is why no
+by-source prevalence is reported in the paper. `CHANGELOG.md` gives the full
+result.
 
 ## What changed in v3.1.0
 
@@ -47,6 +63,9 @@ these calls is still `refs/tyrdc.hmm`, md5 `e5ddd734f368…`, self-score 1342.2.
 |---|---|
 | 19,771 genomes at Gate 2; six carrier species; five with the operon | `data/gate2_calls_per_genome.tsv`, `data/gate2_by_species.tsv` |
 | 19,765 genomes at Gate 1; medians 7–28 glycoside hydrolase families | `data/gate1_gh_families_per_genome.tsv` |
+| Isolation source across the census, and the test that finds no effect once species is held fixed | `data/census_isolation_source.tsv`, `data/source_model_stats.tsv`, `scripts/source_model.py` |
+| Isolation source within each species, the exact test of Supplementary Table S4c | `data/census_source_by_species.tsv`, `data/census_source_by_species_long.tsv`, `scripts/source_by_species.py` |
+| tyrDC copy number per species | `data/copynum_by_species.tsv` |
 | The *Bifidobacterium* route the tyrDC gate does not detect; 1,872 genomes | `data/bifido_aldh_aat.tsv`, `data/bifido_by_species.tsv` |
 | Operon context of every carrier | `data/locus_context_census.tsv`, `data/locus_context_by_species.tsv` |
 | Polysaccharide lyases absent from twenty of twenty-two species | `data/cazyme_all_categories.tsv` |
