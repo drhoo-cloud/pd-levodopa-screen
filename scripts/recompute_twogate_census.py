@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
-"""Recompute Table S4b on the full census.
-
-Input   gate1_gh_families_per_genome.tsv (19,765 genomes, gh_families + tyrdc)
-        rpoB_species_tree.nwk, 16S_species_tree.nwk
-Output  twogate_census_stats.tsv
+"""Table S4b 센서스판 재계산.
+입력  gate1_gh_families_per_genome.tsv (19,765 게놈, gh_families + tyrdc)
+      refs/rpoB_species_tree.nwk, refs/16S_species_tree.nwk
+출력  twogate_census_stats.tsv
 """
 import csv, os, sys, math, collections
 import numpy as np, pandas as pd
@@ -14,16 +13,16 @@ from scipy.optimize import minimize_scalar
 SRC = sys.argv[1] if len(sys.argv) > 1 else "."
 OUT = sys.argv[2] if len(sys.argv) > 2 else "twogate_census_stats.tsv"
 
-rows = list(csv.DictReader(open(os.path.join(SRC, "gate1_gh_census_per_genome.tsv"),
+rows = list(csv.DictReader(open(os.path.join(SRC, "gate1_gh_families_per_genome.tsv"),
                                 errors="replace"), delimiter="\t"))
 df = pd.DataFrame({"species": [r["species"] for r in rows],
                    "gh": [int(r["gh_families"]) for r in rows],
                    "y":  [1 if r["tyrdc"] == "1" else 0 for r in rows]})
-print(f"genomes {len(df):,}  carriers {df.y.sum():,}  species {df.species.nunique()}")
+print(f"게놈 {len(df):,}  양성 {df.y.sum():,}  종 {df.species.nunique()}")
 
 res = []
 
-# ── 1. logistic, no species term -------------------------------------------
+# ── 1. 종 보정 없는 로지스틱 ───────────────────────────────────────────
 X = sm.add_constant(df[["gh"]].astype(float))
 m1 = sm.GLM(df.y, X, family=sm.families.Binomial()).fit()
 b, se = m1.params["gh"], m1.bse["gh"]
@@ -33,14 +32,14 @@ logp = stats.norm.logsf(abs(z)) + math.log(2)
 res.append(["Logistic, no species term", "genome", len(df),
             f"OR {or1:.3f} per GH family", f"{lo1:.3f}-{hi1:.3f}",
             f"~10^{logp/math.log(10):.0f}"])
-print(f"[1] logistic, no species term: OR {or1:.3f} ({lo1:.3f}-{hi1:.3f}), "
+print(f"[1] 종 미보정 로지스틱: OR {or1:.3f} ({lo1:.3f}-{hi1:.3f}), "
       f"P ~ 10^{logp/math.log(10):.0f}   n={len(df):,}")
 
-# -- 2. logistic with species fixed effects (mixed species only) -----------
+# ── 2. 종 고정효과 로지스틱 (혼재 종만) ──────────────────────────────
 g = df.groupby("species").y.agg(["sum", "count"])
 mixed = g[(g["sum"] > 0) & (g["sum"] < g["count"])].index.tolist()
 dm = df[df.species.isin(mixed)].copy()
-print(f"[2] mixed species {len(mixed)}, genomes {len(dm):,}")
+print(f"[2] 혼재 종 {len(mixed)}종, 게놈 {len(dm):,}")
 D = pd.get_dummies(dm.species, drop_first=True).astype(float)
 X2 = sm.add_constant(pd.concat([dm[["gh"]].astype(float).reset_index(drop=True),
                                 D.reset_index(drop=True)], axis=1))
@@ -53,7 +52,7 @@ res.append(["Logistic, species fixed effects", "genome", len(dm),
 print(f"    OR {math.exp(b2):.3f} "
       f"({math.exp(b2-1.96*se2):.3f}-{math.exp(b2+1.96*se2):.3f}), P = {p2:.3f}")
 
-# -- 3. GEE, exchangeable within species ------------------------------------
+# ── 3. GEE, 종 내 교환가능 ───────────────────────────────────────────
 dg = df.copy(); dg["grp"] = pd.Categorical(dg.species).codes
 m3 = sm.GEE(dg.y, sm.add_constant(dg[["gh"]].astype(float)), groups=dg.grp,
             family=sm.families.Binomial(),
@@ -66,15 +65,15 @@ res.append(["GEE, exchangeable within species", "genome", len(dg),
 print(f"[3] GEE: OR {math.exp(b3):.3f} "
       f"({math.exp(b3-1.96*se3):.3f}-{math.exp(b3+1.96*se3):.3f}), P = {p3:.3f}")
 
-# -- 4. variance partition (between-species share) --------------------------
+# ── 4. 분산 분해 (종간 비율) ─────────────────────────────────────────
 grand = df.gh.mean()
 ssb = sum(len(v) * (v.gh.mean() - grand) ** 2 for _, v in df.groupby("species"))
 sst = ((df.gh - grand) ** 2).sum()
 res.append(["Variance partition, GH family count", "species", df.species.nunique(),
             f"{100*ssb/sst:.1f}% between species", "-", "-"])
-print(f"[4] between-species variance = {100*ssb/sst:.1f}%")
+print(f"[4] 종간 분산 = {100*ssb/sst:.1f}%")
 
-# -- phylogenetic analyses --------------------------------------------------------
+# ── 계통 분석 ────────────────────────────────────────────────────────
 def read_newick(path):
     s = open(path).read().strip().rstrip(";")
     pos = [0]
@@ -113,7 +112,7 @@ def root_to_tip(n, d=0.0, out=None):
     return out
 
 def mrca_depth(n, a, b):
-    """Depth to the MRCA of two taxa (length of the shared path)."""
+    """두 분류군의 MRCA까지의 깊이 (공유 경로 길이)."""
     def path(node, target, d=0.0, acc=None):
         acc = [] if acc is None else acc
         d += node["len"]
@@ -132,9 +131,9 @@ def mrca_depth(n, a, b):
     return shared
 
 def reroot_outgroup(tree, keyword="Bifidobacterium"):
-    """Root at the midpoint of the outgroup (Bifidobacterium) MRCA branch.
-    FastTree output is unrooted and the VCV matrix is defined by distance to
-    the root, so where the root sits changes the result."""
+    """외군(Bifidobacterium) MRCA 가지의 중점에 뿌리를 내린다.
+    FastTree 출력은 비뿌리형이고 VCV는 뿌리까지의 거리로 정의되므로
+    뿌리 위치가 결과를 바꾼다 (15_두게이트_연관성_검정.md §3)."""
     def collect(n, path, out):
         if not n["kids"]:
             if keyword.lower() in n["name"].lower(): out.append(list(path) + [n])
@@ -147,7 +146,7 @@ def reroot_outgroup(tree, keyword="Bifidobacterium"):
         if all(x is nodes[0] for x in nodes): mrca = nodes[0]
         else: break
     if mrca is tree: return tree
-    # detach the MRCA and place a new root at the midpoint of its branch
+    # mrca 를 분리해 그 가지 중점에 새 뿌리를 세운다
     def find_parent(n, target):
         for k in n["kids"]:
             if k is target: return n
@@ -213,11 +212,11 @@ sp["asin"] = np.arcsin(np.sqrt(sp.prev))
 sp["bin"] = (sp.k > 0).astype(float)
 
 def norm(s): return s.replace(" ", "_").replace("'", "")
-for label, path in [("rpoB", "s10_rpoB_species_tree.nwk"),
-                    ("16S", os.path.join("twogate", "s16.nwk"))]:
+for label, path in [("rpoB", os.path.join("..", "refs", "rpoB_species_tree.nwk")),
+                    ("16S", os.path.join("..", "refs", "16S_species_tree.nwk"))]:
     fp = os.path.join(SRC, path)
     if not os.path.exists(fp):
-        print(f"[phylogeny] {label}: tree not found"); continue
+        print(f"[계통] {label}: 트리 없음"); continue
     tr = read_newick(fp)
     tn = [t["name"] for t in tips(tr)]
     m = {}
@@ -227,7 +226,7 @@ for label, path in [("rpoB", "s10_rpoB_species_tree.nwk"),
                or norm(t).lower() in norm(s).lower():
                 m[s] = t; break
     use = sp[sp.species.isin(m)].copy()
-    print(f"\n[phylogeny {label}] tree taxa {len(tn)}, matched {len(use)}/{len(sp)}")
+    print(f"\n[계통 {label}] 트리 분류군 {len(tn)}, 대응 {len(use)}/{len(sp)}")
     if len(use) < 5: continue
     names = [m[s] for s in use.species]
     V = vcv(tr, names)
@@ -249,4 +248,4 @@ with open(OUT, "w", newline="") as f:
     w = csv.writer(f, delimiter="\t", lineterminator="\n")
     w.writerow(["Model or test", "Unit", "n", "Estimate", "95% CI / LRT", "P"])
     w.writerows(res)
-print(f"\nsaved {OUT}  ({len(res)}rows)")
+print(f"\nsaved {OUT}  ({len(res)}행)")

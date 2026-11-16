@@ -84,7 +84,7 @@ Supplementary Methods 2.
    Results gathered from the working folders into this single repository,
    line endings normalised to LF, every file listed with its line count,
    size and MD5 in MANIFEST.tsv.
-   verify_all.py recomputes 50 of the numbers printed in the paper from the
+   verify_all.py recomputes 80 of the numbers printed in the paper from the
    files here and reports any that disagree.
 
 

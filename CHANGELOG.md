@@ -1,3 +1,33 @@
+# v3.2.1 — a deposited script that would not run
+
+`scripts/recompute_twogate_census.py` could not be run as deposited. It opened
+`gate1_gh_census_per_genome.tsv`, a name this repository does not contain — the
+file is `gate1_gh_families_per_genome.tsv` — and it crashed on the first line
+that reads data. Its two tree paths were wrong in the same way
+(`s10_rpoB_species_tree.nwk` and `twogate/s16.nwk` for what are deposited as
+`refs/rpoB_species_tree.nwk` and `refs/16S_species_tree.nwk`), so even past the
+crash the ten phylogenetic rows would have been skipped in silence. The paths
+are now the deposited ones, and the script reproduces all fourteen rows of
+`data/twogate_census_stats.tsv` byte for byte:
+
+```
+python3 scripts/recompute_twogate_census.py data /tmp/out.tsv
+diff /tmp/out.tsv data/twogate_census_stats.tsv    # no output
+```
+
+`verify_all.py` never caught this because it reads the output table rather than
+running the script that produced it. The numbers were never in doubt — only
+whether a reader could regenerate them without editing the code first.
+
+Two wording corrections travel with it. `run_log.txt` still said `verify_all.py`
+recomputes **50** numbers, a count left behind by v3.1.0 and v3.2.0; it is 80.
+And the v3.2.0 note below said the main text reports no by-source prevalence,
+which is not what Section 4 does: it gives the pooled figures and then takes
+them apart. The sentence now says so.
+
+No data file changes in this release. `verify_all.py` still reports 80
+reproduced, 0 differing.
+
 # v3.2.0 — the isolation-source question, answered as a negative
 
 Referee 2 asked for prevalence stratified by isolation source. Pooled across
@@ -66,8 +96,9 @@ does survive, *Latilactobacillus curvatus*, rests on 3 of 24 human isolates
 against 10 of 14 in the residual category, from 118 genomes in all.
 
 Pooling across species is what the paper declines elsewhere for the
-panel-wide prevalence, so the main text reports no by-source prevalence;
-Supplementary Table S4c carries the within-species figures instead.
+panel-wide prevalence. Section 4 therefore gives the pooled figures only as
+the artefact they are, and reports no by-source prevalence as a finding;
+Supplementary Table S4c carries the within-species figures.
 
 `verify_all.py` checks these too: **80 numbers reproduced, 0 differing.**
 
